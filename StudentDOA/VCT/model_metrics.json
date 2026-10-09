@@ -1,0 +1,18 @@
+{
+  "accuracy": 0.9190003011141222,
+  "precision_high_impact": 0.8664772727272727,
+  "recall_high_impact": 0.9377401998462721,
+  "f1_high_impact": 0.9007013658176449,
+  "roc_auc": 0.980225797368361,
+  "confusion_matrix": [
+    [
+      1832,
+      188
+    ],
+    [
+      81,
+      1220
+    ]
+  ],
+  "test_target_rate": 0.39174947305028607
+}

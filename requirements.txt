@@ -1,4 +1,4 @@
--r simulation/requirements.txt
+pip-r simulation/requirements.txt
 matplotlib>=3.8
 seaborn>=0.13
 jupyter>=1.0
