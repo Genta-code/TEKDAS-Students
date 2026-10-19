@@ -1,0 +1,3322 @@
+Player,Teams,Agents,is_high_impact,Rating,predicted_high_impact,impact_probability
+tex,LEVIATÁN,vyse,0,0.89,0,0.06916594605781322
+t3xture,Gen.G,"jett, raze",0,0.76,0,0.12373601243370172
+Autumn,FunPlus Phoenix,tejo,0,0.67,0,0.04024292274030278
+SugarZ3ro,ZETA DIVISION,astra,1,1.11,1,0.7626625225897766
+pANcada,LOUD,astra,0,0.95,0,0.12000838324383403
+JitBoyS,TALON,"cypher, killjoy",0,0.86,0,0.059167139678218426
+Estrella,DRX,"breach, cypher, harbor, kayo, killjoy, omen, viper, vyse",0,0.83,0,0.03547684931991722
+Deryeon,Global Esports,yoru,0,1.04,0,0.39026924402217456
+JonahP,G2 Esports,"fade, viper",0,1.0,0,0.1625517619281756
+ANGE1,Natus Vincere,fade,0,0.48,0,0.05270115617547152
+yay,Evil Geniuses,clove,0,0.74,0,0.33819003980196427
+Serial,Team Liquid,"astra, deadlock, tejo",0,0.93,0,0.031026164485498456
+Flickless,GIANTX,breach,0,0.8,0,0.0670552669455752
+yosemite,FunPlus Phoenix,vyse,1,1.12,1,0.9116230226510986
+Yuicaw,Wolves Esports,"cypher, killjoy",1,1.06,1,0.603761521511203
+d4v41,Paper Rex,"sage, vyse",0,0.78,0,0.11877513268144504
+nephh,Bilibili Gaming,viper,1,1.12,1,0.5606934683257567
+Okeanos,LEVIATÁN,brimstone,1,1.23,1,0.9627325664700407
+Filu,KOI,raze,0,0.92,0,0.1643114711651917
+Ezeir,Nova Esports,"brimstone, omen",1,1.38,1,0.9714112551264289
+coconut,Xi Lai Gaming,omen,1,1.13,1,0.8159635087262437
+Foxy9,Gen.G,sage,1,1.33,1,0.9003568436138696
+kamo,Team Liquid,gekko,0,0.84,0,0.03112231397952742
+flyuh,KOI,"breach, cypher, kayo, killjoy",0,0.77,0,0.03151305069251176
+trent,G2 Esports,sova,1,1.19,1,0.9452178909924416
+Sayf,Team Vitality,iso,0,0.83,0,0.17517205209323064
+Rb,Nongshim RedForce,cypher,0,0.92,0,0.10238334800355277
+BeYN,DRX,"cypher, omen",1,1.21,1,0.8740610669028176
+mitch,Cloud9,"fade, skye, sova",0,1.0,0,0.2875620513002048
+Jemkin,Rex Regum Qeon,yoru,1,1.13,1,0.7293638813060754
+MaKo,DRX,"brimstone, viper",1,1.42,1,0.9824492426572996
+JitBoyS,TALON,"cypher, killjoy, viper",0,0.74,0,0.02466918820865023
+nAts,Team Liquid,"cypher, viper, vyse",1,1.19,1,0.9746337811681377
+f0rsakeN,Paper Rex,"fade, neon, vyse",1,1.05,1,0.5432059077679522
+Jemkin,Rex Regum Qeon,jett,0,0.76,0,0.0685495404498047
+f0rsakeN,Paper Rex,omen,0,0.56,0,0.055707240328829906
+adverso,KRÜ Esports,"sova, tejo",0,0.8,0,0.04568127193430085
+xenom,MIBR,omen,0,0.85,0,0.24833215931857283
+Rb,Titan Esports Club,tejo,1,1.22,1,0.9295579406635455
+cortezia,MIBR,"cypher, killjoy, viper, vyse",1,1.06,1,0.7499265748310748
+Governor,TALON,"neon, raze, sova",0,0.75,0,0.021577398649381834
+f0rsakeN,Paper Rex,omen,0,0.74,0,0.035292851729106636
+Verno,MIBR,sova,1,1.2,1,0.6662428100610602
+Kicks,Team Vitality,skye,1,1.42,1,0.9661638975801455
+OBONE,Nova Esports,vyse,0,0.9,0,0.04196879057168934
+v1c,Cloud9,"brimstone, omen",1,1.5,1,0.9731678097604265
+eeiu,100 Thieves,tejo,0,0.86,0,0.030220258098450605
+invy,Team Secret,breach,0,0.99,0,0.19886629256165445
+Filu,KOI,yoru,1,1.06,0,0.4888962153283458
+kaajak,FNATIC,"jett, neon, raze, yoru",0,0.96,0,0.21999848795611399
+eeiu,100 Thieves,tejo,1,1.26,1,0.969868256940351
+Derke,Team Vitality,raze,1,1.14,1,0.9191719919906556
+Flashback,DRX,cypher,1,1.1,1,0.8844069220447534
+Estrella,DRX,breach,0,0.91,0,0.08223844470410806
+kaajak,FNATIC,"raze, yoru",0,1.03,1,0.7657823457164444
+Click,Gentle Mates,raze,0,0.29,0,0.0129242812922406
+paTiTek,Team Liquid,"breach, kayo",1,1.1,1,0.6892130211297267
+aspas,MIBR,raze,0,0.62,0,0.04578618346119183
+Art,DetonatioN FocusMe,"omen, skye, sova, tejo",0,0.85,0,0.027118848934178867
+westside,GIANTX,cypher,1,1.13,1,0.6029518866658848
+Francis,Nongshim RedForce,"kayo, tejo",0,0.81,0,0.06737593511207128
+Kicks,Team Vitality,omen,1,1.12,1,0.6217668822791932
+MarT1n,Trace Esports,deadlock,0,0.9,0,0.1330194668682868
+alexiiik,Natus Vincere,jett,0,0.77,0,0.2028426049813913
+qRaxs,FUT Esports,kayo,0,0.99,0,0.30048883169888946
+iZu,T1,yoru,0,0.78,0,0.030712323674167687
+leaf,G2 Esports,viper,0,0.81,0,0.08493512484699677
+keznit,KRÜ Esports,iso,0,0.98,1,0.713661239143165
+C0M,LEVIATÁN,tejo,0,0.3,0,0.021655736980310338
+flyuh,KOI,"breach, sova",0,1.0,1,0.8759620208761176
+nephh,Bilibili Gaming,deadlock,1,1.06,0,0.34265755852054963
+keznit,KRÜ Esports,raze,1,1.15,1,0.8317205217978753
+SyouTa,ZETA DIVISION,vyse,0,0.36,0,0.013088831118173735
+free1ng,DRX,cypher,0,0.94,0,0.26893795915432006
+eeiu,100 Thieves,sova,1,1.8,1,0.9830270782395466
+Zellsis,Sentinels,vyse,0,0.99,0,0.18251545421430232
+Boo,Team Heretics,kayo,1,1.31,1,0.9076075880949144
+happywei,Xi Lai Gaming,viper,1,1.32,1,0.9627529164817772
+ara,GIANTX,"jett, raze",0,0.92,0,0.115703109173156
+penny,Team Liquid,"jett, omen, phoenix, raze",0,1.0,0,0.24978673422566902
+Derrek,Evil Geniuses,tejo,0,0.92,0,0.07788224612424241
+jawgemo,G2 Esports,yoru,0,0.91,0,0.3020686728341805
+MrFaliN,FUT Esports,fade,0,0.79,0,0.02917181212866177
+Smoggy,EDward Gaming,omen,0,0.7,0,0.020200426586229468
+cortezia,MIBR,vyse,1,1.27,1,0.9462210569626466
+v1c,Cloud9,"astra, brimstone, omen",0,0.97,0,0.07748755659152083
+pANcada,LOUD,omen,0,0.57,0,0.034247832442989144
+Flashback,DRX,"cypher, vyse",0,0.9,0,0.05200986708972346
+BuZz,T1,neon,1,1.52,1,0.9670256898695656
+LuoK1ng,Trace Esports,omen,0,0.8,0,0.05644518072483563
+v1c,Cloud9,omen,0,0.92,0,0.043700826608036494
+Ruxic,Natus Vincere,"omen, viper",1,1.28,1,0.9736708207127388
+Zellsis,Sentinels,vyse,0,0.69,0,0.04340562147434008
+Minny,Gentle Mates,cypher,0,0.89,0,0.26420227260631957
+Less,Team Vitality,cypher,0,0.91,0,0.13291749845787348
+JonahP,G2 Esports,sova,0,0.94,0,0.16418194192778127
+Kicks,Team Vitality,breach,0,0.28,0,0.014197119943940819
+westside,GIANTX,killjoy,0,0.86,0,0.03649778024570993
+jawgemo,G2 Esports,waylay,0,0.51,0,0.028828060903303282
+Autumn,FunPlus Phoenix,"tejo, vyse",1,1.28,1,0.9626115517090135
+stax,T1,breach,0,0.92,0,0.03651711161326652
+Sylvan,T1,brimstone,1,1.08,1,0.6572192582931319
+Levius,Bilibili Gaming,"cypher, killjoy",0,0.93,0,0.1742638182967411
+heybay,Trace Esports,"kayo, viper",0,0.75,0,0.021569715111744207
+CLZ,ZETA DIVISION,kayo,0,0.54,0,0.04904770753754704
+yetujey,FUT Esports,killjoy,1,1.12,1,0.8150080476242968
+LuoK1ng,Trace Esports,"harbor, omen",0,0.91,0,0.059355326889967454
+Boaster,FNATIC,"astra, brimstone, viper",0,0.9,0,0.08937686845568679
+Wo0t,Team Heretics,fade,0,0.98,0,0.06675751271302799
+f0rsakeN,Paper Rex,omen,1,1.07,1,0.8197152023751226
+CHICHOO,EDward Gaming,cypher,1,1.21,1,0.9355575301385046
+s0m,Mega Minors,killjoy,0,0.9,0,0.27379297111165424
+crazyguy,Rex Regum Qeon,breach,0,0.79,0,0.1521198788631831
+Shao,Natus Vincere,astra,1,1.13,1,0.9377221888638142
+kaajak,FNATIC,raze,0,0.98,1,0.7475187245025899
+ZmjjKK,EDward Gaming,yoru,1,1.05,1,0.7596021472866844
+stax,T1,sova,1,1.24,1,0.8500069054408177
+SyouTa,ZETA DIVISION,"chamber, cypher",0,0.78,0,0.07516389502513214
+kellyS,Global Esports,kayo,0,0.66,0,0.06323685643388748
+MiniBoo,Team Heretics,yoru,1,1.1,1,0.9269064081553005
+Flashback,DRX,"cypher, vyse",1,1.45,1,0.970642165308324
+xffero,Rex Regum Qeon,viper,0,0.52,0,0.017789135307953608
+Lysoar,Wolves Esports,"cypher, deadlock, killjoy, omen, vyse",0,0.91,0,0.06152177358833786
+Melser,KRÜ Esports,brimstone,0,0.43,0,0.02773918598672994
+Cloud,GIANTX,sova,1,1.06,1,0.6783814790852642
+westside,GIANTX,viper,1,1.18,1,0.7856028073816694
+d4v41,Paper Rex,killjoy,0,0.37,0,0.014295239477222004
+crashies,FNATIC,sova,1,1.06,1,0.8224375370430109
+Yuicaw,Wolves Esports,astra,0,0.61,0,0.017170052358651322
+johnqt,Sentinels,cypher,1,1.06,0,0.44700999738641384
+Persia,Nongshim RedForce,"astra, brimstone, omen",0,1.01,0,0.36269123819913046
+Derke,Team Vitality,jett,1,1.1,1,0.6741207731046627
+yokam,Global Esports,raze,0,0.79,0,0.23667813334287202
+nephh,Bilibili Gaming,kayo,1,1.25,1,0.9724941560512814
+iZu,T1,yoru,0,0.86,0,0.08474191306734599
+yoman,Global Esports,"deadlock, fade, sage, skye, sova, vyse",0,0.83,0,0.03860005194605922
+ara,GIANTX,neon,0,0.25,0,0.025435051391786208
+t3xture,Gen.G,neon,0,0.95,1,0.539171124568292
+Zellsis,Sentinels,killjoy,0,1.04,0,0.3069745504748331
+ANGE1,Natus Vincere,"breach, sova",0,0.56,0,0.030244035043330324
+Avez,Karmine Corp,phoenix,0,0.86,0,0.33889934398327604
+Boostio,100 Thieves,cypher,0,0.63,0,0.022441359874796122
+aspas,MIBR,neon,0,0.51,0,0.014921242238730396
+Kai,"Pure Aim, Trace Esports",neon,1,1.27,1,0.9563931025289935
+f0rsakeN,Paper Rex,waylay,0,1.02,1,0.6267457660673568
+paTiTek,Team Liquid,kayo,1,1.14,1,0.8961967183604901
+margaret,Nongshim RedForce,killjoy,0,0.85,0,0.2777998528648675
+SUYGETSU,Karmine Corp,omen,1,1.18,1,0.835539484659173
+NcSlasher,BOOM Esports,omen,1,1.24,1,0.9583625137512034
+crashies,FNATIC,sova,1,1.05,1,0.8873334771658086
+Life,"FunPlus Phoenix, Precise Defeat",jett,0,1.04,0,0.3084570264780018
+AvovA,Apeks,omen,0,0.63,0,0.018647937153351703
+invy,Team Secret,vyse,1,1.53,1,0.9745710040135198
+paTiTek,Team Liquid,omen,0,1.01,0,0.19913801280674365
+Life,FunPlus Phoenix,neon,1,1.42,1,0.9592543159417353
+Knight,Bilibili Gaming,sova,0,0.97,0,0.11092487181201635
+MrFaliN,FUT Esports,sova,1,1.2,0,0.277333814711886
+LewN,BBL Esports,chamber,0,0.95,1,0.5157353622215926
+xeus,FUT Esports,"raze, yoru",0,1.03,1,0.7562800841119827
+f0rsakeN,Paper Rex,waylay,1,1.24,1,0.905929223294207
+Rb,Titan Esports Club,breach,0,0.89,0,0.19095509074464959
+heat,FURIA,vyse,0,0.94,0,0.16201662300018066
+kamo,Team Liquid,clove,0,0.88,0,0.4101987170029155
+CHICHOO,EDward Gaming,"cypher, killjoy, viper, vyse",1,1.11,1,0.8452287287609899
+Karon,Gen.G,brimstone,0,1.0,0,0.3817226277927348
+happywei,Xi Lai Gaming,"cypher, viper, yoru",0,0.93,0,0.10689530500123542
+Meteor,T1,"cypher, vyse",0,1.04,0,0.37507142730982723
+cortezia,MIBR,"cypher, viper",1,1.16,1,0.965433144593515
+margaret,Nongshim RedForce,killjoy,1,1.09,1,0.6638095703671498
+mitch,Cloud9,harbor,1,1.45,1,0.940389557733515
+f0rsakeN,Paper Rex,fade,0,0.84,0,0.24542389014502655
+batujnax,Apeks,"deadlock, fade, omen, sova, yoru",0,0.86,0,0.040041207026296675
+koalanoob,Natus Vincere,"chamber, raze, yoru",0,0.95,0,0.1868376778515702
+sociablEE,BBL Esports,chamber,1,1.1,1,0.7969696457276852
+Meteor,T1,vyse,0,0.78,0,0.02260571602260315
+invy,Team Secret,fade,0,0.74,0,0.062138252742365174
+margaret,Nongshim RedForce,"cypher, killjoy, viper",1,1.07,1,0.6838838967148719
+jawgemo,G2 Esports,yoru,0,0.99,0,0.48662206826430116
+purp0,GIANTX,"astra, brimstone, iso, omen, raze, yoru",0,0.88,0,0.03606527515398447
+leaf,G2 Esports,viper,1,1.64,1,0.9825058750801429
+Crws,TALON,deadlock,1,1.31,1,0.8277138299134187
+adverso,KRÜ Esports,sova,0,0.93,0,0.16614688515642198
+Haodong,Titan Esports Club,omen,0,0.89,0,0.20052785906780063
+marteen,Karmine Corp,omen,0,0.87,0,0.22896908893890602
+Derke,Team Vitality,raze,1,1.32,1,0.9747936656000774
+pryze,2Game Esports,"sova, viper",0,0.85,0,0.23410817759816865
+TvirusLuke,Titan Esports Club,raze,0,0.9,0,0.23639444975754348
+thyy,TALON,"jett, neon, omen, raze, yoru",0,1.01,1,0.5829247687390817
+nzr,MIBR,sova,0,0.83,0,0.02970241719324213
+Kada,Gentle Mates,omen,0,0.95,0,0.05169499553430646
+free1ng,DRX,viper,1,1.7,1,0.9838197420782504
+Shao,Natus Vincere,"fade, omen, sova",1,1.32,1,0.9731098998113751
+Foxy9,Gen.G,deadlock,0,0.77,0,0.09068196707858195
+benjyfishy,Team Heretics,cypher,0,0.67,0,0.01509341309008254
+Sayf,Team Vitality,"omen, tejo",1,1.2,1,0.8908114547290376
+JonahP,G2 Esports,breach,0,0.79,0,0.06311255982694707
+t3xture,Gen.G,raze,0,1.03,1,0.8084198045769079
+mwzera,FURIA,skye,0,0.77,0,0.020522283462197317
+Famouz,BOOM Esports,phoenix,0,0.96,1,0.596620616640397
+Ivy,Nongshim RedForce,vyse,1,1.12,1,0.6333761854876961
+Dambi,Nongshim RedForce,"neon, raze",1,1.1,1,0.899608224505258
+grubinho,KOI,omen,0,0.47,0,0.0588249544075498
+hiro,Natus Vincere,vyse,0,0.52,0,0.02096224883644968
+KovaQ,Team Vitality,breach,0,0.94,0,0.27521741019452295
+BeYN,DRX,breach,0,0.99,0,0.09851547691959837
+Jinggg,Paper Rex,cypher,0,0.75,0,0.04560962007243803
+Francis,Nongshim RedForce,sova,1,1.57,1,0.9783984278330312
+raafa,FURIA,breach,0,0.85,0,0.07008398849220857
+Boostio,100 Thieves,killjoy,0,0.39,0,0.01422609803099739
+Derrek,Evil Geniuses,omen,1,1.32,1,0.9722519479164423
+C0M,LEVIATÁN,tejo,0,0.85,0,0.068015340447112
+CHICHOO,EDward Gaming,"cypher, vyse",1,1.3,1,0.9556680254373774
+Dep,ZETA DIVISION,"killjoy, viper, vyse",0,0.95,0,0.45543204268134263
+mada,Mega Minors,raze,1,1.22,1,0.9490322886107967
+Verno,MIBR,fade,0,0.64,0,0.023926865453989973
+artzin,MIBR,"breach, harbor",0,0.94,1,0.7560139973192077
+NoMan,Xi Lai Gaming,chamber,1,1.14,1,0.8657201554142403
+supamen,Evil Geniuses,"astra, brimstone, omen, viper",0,1.0,0,0.24183991710981054
+kiNgg,LEVIATÁN,viper,0,0.92,0,0.36521715072016986
+kamo,Team Liquid,raze,1,1.22,1,0.9352857051537086
+Crws,TALON,tejo,0,0.93,0,0.0607859867624535
+Jinggg,Paper Rex,"omen, raze",1,1.43,1,0.9705178291844524
+Papi,Global Esports,astra,1,1.16,1,0.8359605244531505
+Zyppan,Gentle Mates,"sova, tejo",0,0.29,0,0.025266790553881535
+nephh,Bilibili Gaming,kayo,1,1.5,1,0.9633755942659596
+MAGNUM,BBL Esports,killjoy,0,0.68,0,0.03292478322709134
+baddyG,KOI,viper,1,1.21,1,0.9432403290804947
+Jemkin,Rex Regum Qeon,yoru,1,1.28,1,0.9606675739516769
+cortezia,MIBR,killjoy,1,1.56,1,0.9425645323319174
+Demon1,Dragon Ranger Gaming,"cypher, vyse",0,0.99,0,0.1656391869033632
+Demon1,LEVIATÁN,neon,1,1.14,1,0.9190666745388174
+qRaxs,FUT Esports,fade,1,1.84,1,0.9794251830704974
+Cangshu,Dragon Ranger Gaming,cypher,0,0.92,0,0.17994056530821936
+Yuicaw,Wolves Esports,chamber,1,1.52,1,0.938178035159938
+nephh,Bilibili Gaming,kayo,1,1.09,0,0.3121541643982409
+nephh,Bilibili Gaming,kayo,0,0.68,0,0.04016970303963823
+OLIZERA,Apeks,cypher,0,0.99,0,0.3880709303354159
+SpiritZ1,Dragon Ranger Gaming,jett,0,0.35,0,0.024705394633278727
+o0o0o,Nova Esports,"kayo, skye",0,0.74,0,0.050449772186714086
+cortezia,MIBR,cypher,1,1.42,1,0.963626930287024
+mada,Mega Minors,neon,1,1.64,1,0.9616978816185412
+Z1yan,JDG Esports,"cypher, viper, vyse",0,0.98,0,0.21928563664149953
+Monyet,Rex Regum Qeon,"neon, omen",0,0.9,0,0.03647034868234451
+Ethan,Mega Minors,yoru,0,0.87,0,0.05619129647844289
+Jemkin,Rex Regum Qeon,brimstone,1,1.16,1,0.9664782015191979
+LuoK1ng,Trace Esports,brimstone,0,0.61,0,0.0439194411374101
+nephh,Bilibili Gaming,"breach, kayo, viper",0,0.95,0,0.37055140116110424
+nephh,Bilibili Gaming,breach,1,1.57,1,0.9241008379650525
+gyen,DetonatioN FocusMe,"astra, viper",0,0.84,0,0.06492383585655895
+cortezia,MIBR,"cypher, killjoy",0,0.94,1,0.5412455083451008
+Kr1stal,Global Esports,tejo,1,1.31,1,0.8647855568921059
+trent,G2 Esports,sova,1,1.43,1,0.9645337500944815
+Xeppaa,Cloud9,vyse,1,1.22,1,0.8408903406325962
+nephh,Bilibili Gaming,kayo,0,0.89,0,0.17005496926760963
+xenom,MIBR,omen,0,1.02,1,0.592951760697417
+Boo,Team Heretics,omen,0,0.84,0,0.03042341377664134
+sheydos,KOI,breach,0,0.86,0,0.060927565220679325
+Wo0t,Team Heretics,raze,0,1.02,0,0.24860289075453873
+trexx,Team Liquid,fade,0,0.89,0,0.029706864678621606
+xffero,Rex Regum Qeon,"astra, killjoy, vyse",0,0.97,0,0.17851274769161163
+Monyet,Rex Regum Qeon,viper,0,0.92,0,0.2925510833564935
+FiNESSE,Mega Minors,killjoy,0,0.68,0,0.1411528874169516
+CHICHOO,EDward Gaming,viper,0,0.69,0,0.02392333380044896
+Yuicaw,Wolves Esports,raze,0,0.62,0,0.023560361605505113
+ara,GIANTX,"jett, neon, raze, yoru",0,0.97,0,0.14699387247403192
+keznit,KRÜ Esports,"iso, raze, yoru",1,1.11,1,0.8045837639092819
+free1ng,DRX,cypher,0,0.41,0,0.010595509259127181
+heybay,Trace Esports,killjoy,1,1.26,1,0.7531778109928748
+havoc,FURIA,jett,0,0.74,0,0.08085856847494428
+BuZz,T1,yoru,1,1.27,1,0.9200853720186014
+s0m,Mega Minors,"astra, brimstone, harbor, omen, viper",1,1.11,1,0.9092060205583051
+Smoggy,EDward Gaming,omen,1,1.13,1,0.7876870595637709
+Levius,Bilibili Gaming,cypher,1,1.27,1,0.6948503741412313
+Alfajer,FNATIC,"cypher, killjoy, neon, sage, tejo, vyse",1,1.06,1,0.7038345838937663
+d4v41,Paper Rex,vyse,1,1.29,1,0.8761803291631711
+Cangshu,Dragon Ranger Gaming,"cypher, fade, killjoy, tejo, viper",0,0.82,0,0.040124685106886285
+johnqt,Sentinels,sage,1,1.24,1,0.7611648222699234
+artzin,MIBR,"kayo, viper",1,1.43,1,0.9856841741741622
+TvirusLuke,Titan Esports Club,neon,1,1.32,1,0.9454932499644407
+gobera,2Game Esports,jett,1,1.27,1,0.6993448361101303
+Wild0reoo,Team Secret,chamber,1,1.06,1,0.6253830304528967
+Alfajer,FNATIC,"chamber, jett",0,0.94,0,0.38543243669964644
+kamo,Team Liquid,yoru,0,1.02,1,0.5997240635627048
+Papi,Global Esports,astra,0,0.61,0,0.03918198038985832
+AvovA,Apeks,astra,0,0.77,0,0.03454618292208164
+n1zzy,Team Secret,brimstone,1,1.63,1,0.9397403698154755
+Urango,FURIA,"killjoy, skye",0,0.32,0,0.011952598002765049
+leaf,G2 Esports,chamber,1,1.3,1,0.9523402718281571
+BeYN,DRX,fade,0,0.78,0,0.057500318521291
+crazyguy,Rex Regum Qeon,tejo,0,0.99,0,0.2798392163660008
+MrFaliN,FUT Esports,breach,1,1.27,1,0.5235412989783941
+heat,FURIA,cypher,0,0.43,0,0.01709745769800882
+Biank,Trace Esports,"breach, tejo",0,0.57,0,0.01654343136316673
+Xeppaa,Cloud9,tejo,1,1.3,1,0.9809759436316463
+s0m,Mega Minors,omen,1,1.18,1,0.9686579947805136
+Derke,Team Vitality,yoru,0,0.91,0,0.25542562773258787
+kellyS,Team Secret,deadlock,0,0.79,0,0.032170146203308284
+xeus,FUT Esports,"neon, yoru",1,1.12,1,0.8437438973654573
+Governor,Apeks,sova,0,0.6,0,0.037166233376271014
+tex,LEVIATÁN,"cypher, killjoy",0,0.81,0,0.0400578069840976
+Z1yan,JDG Esports,cypher,0,0.56,0,0.022737080159604225
+Kicks,Team Vitality,omen,0,0.65,0,0.02214206113777192
+cauanzin,LOUD,fade,1,1.17,1,0.9570732210049976
+s0m,Mega Minors,"harbor, omen, viper",0,0.99,0,0.3534743703620907
+BeYN,DRX,killjoy,1,1.08,0,0.4672060758048274
+Ash,Gen.G,tejo,1,1.22,1,0.7600708043525792
+Levius,Bilibili Gaming,"cypher, vyse",1,1.11,1,0.7038530754704329
+SyouTa,ZETA DIVISION,viper,0,0.81,0,0.056659488813375125
+tuyz,LOUD,cypher,0,1.0,0,0.1702494902012301
+Akame,DetonatioN FocusMe,fade,1,1.11,1,0.8815748236956374
+AtaKaptan,FUT Esports,brimstone,0,0.81,0,0.039185854639291376
+neT,Cloud9,killjoy,0,0.88,0,0.39061900233239366
+PatMen,Paper Rex,kayo,0,0.79,0,0.04681898408810345
+Urango,FURIA,killjoy,0,0.21,0,0.009274025510667803
+kamo,Team Liquid,"jett, raze",0,0.83,0,0.06722989393713671
+Ruxic,Natus Vincere,omen,1,1.14,1,0.8768587616411199
+monk,Nova Esports,"kayo, viper",0,0.88,0,0.03703152404084494
+Cloud,GIANTX,gekko,0,1.03,0,0.37213055860635597
+Wo0t,Team Heretics,"iso, kayo, tejo",1,1.06,1,0.6726316462316467
+SpiritZ1,Dragon Ranger Gaming,jett,0,0.95,1,0.5600949955462454
+jkuro,JDG Esports,"omen, viper",0,0.96,0,0.07929028540340302
+JonahP,G2 Esports,breach,0,0.84,0,0.06320019385025802
+Sato,LEVIATÁN,yoru,1,1.87,1,0.9743838430464633
+yay,Evil Geniuses,"chamber, phoenix",0,1.0,0,0.37765077406156894
+alexiiik,Natus Vincere,"jett, neon",0,0.55,0,0.023882726800118288
+Foxy9,Gen.G,viper,1,1.23,1,0.9538285839145717
+kaajak,FNATIC,yoru,1,1.13,1,0.9061254778022451
+S1Mon,EDward Gaming,"breach, kayo",0,0.75,0,0.02626124486105054
+supamen,Evil Geniuses,"omen, viper",0,0.9,0,0.02711017064874248
+Jieni7,EDward Gaming,deadlock,0,1.04,1,0.549570945638722
+AAAAY,FunPlus Phoenix,skye,1,1.59,1,0.9640083607119011
+Estrella,DRX,kayo,0,0.61,0,0.021399955447653295
+GuanG,Nova Esports,"killjoy, raze",0,0.68,0,0.019746714354471333
+Meiy,DetonatioN FocusMe,neon,0,0.6,0,0.021499188953747868
+kellyS,Team Secret,deadlock,0,1.01,0,0.38189598691769816
+PatMen,Paper Rex,fade,0,0.89,0,0.03005413188790922
+nAts,Team Liquid,waylay,0,0.77,0,0.06968547507819052
+Life,FunPlus Phoenix,waylay,0,0.97,0,0.15272482347836397
+Persia,Nongshim RedForce,astra,1,1.13,1,0.5722344779761731
+Less,Team Vitality,cypher,1,1.26,1,0.9642631383971106
+Munchkin,Gen.G,viper,1,1.2,1,0.941863934120506
+MaKo,DRX,omen,1,1.24,1,0.9164360100598196
+Meteor,T1,iso,1,1.14,1,0.9539034837245075
+Serial,Team Liquid,"astra, cypher",0,0.72,0,0.03782662293549657
+Cloud,GIANTX,"sova, tejo",0,0.86,0,0.13913599376355937
+rushia,Bilibili Gaming,viper,1,1.22,1,0.9493712657838541
+heat,FURIA,viper,0,0.81,0,0.17032331588809202
+OXY,Cloud9,"jett, raze",1,1.3,1,0.9724872366858993
+SpiritZ1,Dragon Ranger Gaming,yoru,0,0.84,0,0.1578651295112217
+crashies,FNATIC,sova,0,1.01,1,0.9129207862774869
+Zellsis,Sentinels,viper,1,1.05,1,0.8215713003273488
+cortezia,MIBR,"cypher, viper",1,1.24,1,0.8711593436039486
+neT,Cloud9,deadlock,1,1.06,0,0.4820644578853245
+Rarga,Xi Lai Gaming,"neon, sage, yoru",0,1.02,1,0.6090174957686443
+Dantedeu5,KRÜ Esports,neon,0,0.52,0,0.01365987231255982
+Kess,100 Thieves,"brimstone, cypher, vyse",0,0.96,0,0.3355556093048273
+margaret,Nongshim RedForce,viper,0,0.95,0,0.08051015957773194
+crazyguy,Rex Regum Qeon,tejo,1,1.14,1,0.8741146030222895
+MiniBoo,Team Heretics,"neon, raze, yoru",0,1.02,1,0.8206077490766236
+whzy,Bilibili Gaming,neon,1,1.4,1,0.9726121483918907
+PROFEK,BBL Esports,omen,0,0.97,0,0.34996429991525635
+Click,Gentle Mates,neon,0,0.35,0,0.01437512102077615
+Governor,Apeks,fade,0,0.77,0,0.027727945704822638
+kamo,Team Liquid,yoru,0,0.97,0,0.1642627012774658
+BuZz,T1,yoru,0,0.96,0,0.1469716982689878
+silentzz,2Game Esports,jett,1,1.69,1,0.9508999129087942
+Shiro,BOOM Esports,"sova, tejo",0,0.81,0,0.08359943797087388
+N4RRATE,Sentinels,"fade, sova",1,1.63,1,0.981712832254761
+Ivy,Nongshim RedForce,"iso, sova, tejo",0,0.82,0,0.02440556691728838
+keiko,Team Liquid,raze,1,2.07,1,0.9816959922077173
+kklin,JDG Esports,vyse,0,0.86,0,0.03519711462594039
+alexiiik,Natus Vincere,neon,1,1.21,1,0.9602667989639301
+doma,FNATIC,tejo,0,1.0,0,0.059200252417074675
+Persia,Nongshim RedForce,brimstone,1,1.08,1,0.6084713735025568
+xffero,Rex Regum Qeon,"killjoy, viper",1,1.22,1,0.9013532168892712
+johnqt,Sentinels,viper,1,1.15,1,0.7044389510105209
+cNed,FUT Esports,"omen, yoru",1,1.05,0,0.48254826222098846
+Wild0reoo,Team Secret,cypher,0,0.43,0,0.011052654571278592
+skuba,Mega Minors,cypher,0,0.74,0,0.028300409377315018
+benjyfishy,Team Heretics,"cypher, killjoy",0,0.78,0,0.11487673607213471
+Jinboong,DetonatioN FocusMe,"astra, killjoy",1,1.15,1,0.6236715923849544
+Shao,Natus Vincere,"fade, omen, sage, sova",0,1.0,0,0.12173749944956327
+kiNgg,LEVIATÁN,omen,1,1.43,1,0.9574675849560054
+cortezia,MIBR,"cypher, killjoy, vyse",0,0.74,0,0.05945612905642265
+Click,Gentle Mates,waylay,0,0.92,0,0.3242002588841375
+Kushy,Rex Regum Qeon,"kayo, tejo",0,0.71,0,0.0526900429537437
+yosemite,FunPlus Phoenix,vyse,1,1.23,1,0.9370758080899655
+yay,Evil Geniuses,astra,0,0.94,0,0.07068147841747205
+Alfajer,FNATIC,neon,0,0.51,0,0.01081818775624117
+Flickless,GIANTX,breach,0,0.74,0,0.02315990089865298
+yetujey,FUT Esports,"cypher, viper",1,1.26,1,0.930944492382689
+Kess,100 Thieves,"brimstone, killjoy",0,0.68,0,0.024668113398648845
+yetujey,FUT Esports,vyse,0,1.04,0,0.43796844746631175
+rushia,Bilibili Gaming,"harbor, omen, viper",0,0.72,0,0.019071206893265732
+free1ng,DRX,tejo,0,0.99,1,0.5715902851996785
+trexx,Team Liquid,sova,1,1.24,1,0.8597041624130943
+tex,LEVIATÁN,"cypher, killjoy, vyse",0,1.03,0,0.38533606208526733
+leaf,G2 Esports,"chamber, viper, vyse",0,0.93,0,0.13352755971428104
+Francis,Nongshim RedForce,fade,0,0.97,0,0.06595436281095143
+JitBoyS,TALON,vyse,0,0.7,0,0.03126321026412326
+Shao,Natus Vincere,astra,1,1.27,1,0.98105778944133
+mitch,Cloud9,breach,1,1.17,1,0.9388237529319198
+XII,FunPlus Phoenix,kayo,0,0.9,0,0.11925794941977576
+valyn,G2 Esports,brimstone,1,1.39,1,0.9614359645240643
+happywei,Xi Lai Gaming,omen,0,0.88,0,0.13376851136714335
+invy,Team Secret,breach,1,1.06,0,0.3781686122644943
+something,Paper Rex,breach,0,0.89,0,0.0393177620780639
+Papi,Global Esports,viper,0,0.83,0,0.036565200174922735
+bang,Sentinels,"astra, omen",0,0.97,0,0.28189124521660985
+PROFEK,BBL Esports,omen,1,1.13,1,0.9175531231725516
+Foxy9,Gen.G,"deadlock, killjoy, sage",0,0.84,0,0.041022542223288515
+Xeppaa,Cloud9,"killjoy, vyse",1,1.41,1,0.9762225814616164
+PxS,2Game Esports,fade,0,0.93,0,0.15203414676969568
+BeYN,DRX,sova,0,0.84,1,0.5759112744134633
+ZmjjKK,EDward Gaming,chamber,0,0.71,0,0.03500830289123777
+Click,Gentle Mates,"waylay, yoru",0,0.75,0,0.06601475597346118
+Karon,Gen.G,omen,1,1.07,1,0.7552889003908718
+Avez,Karmine Corp,raze,1,1.09,1,0.7818249619871175
+NoMan,Xi Lai Gaming,killjoy,1,1.36,1,0.9022255062364788
+Filu,KOI,iso,0,0.98,0,0.4851926031872784
+cortezia,MIBR,killjoy,1,1.08,1,0.622945094624768
+SUYGETSU,Karmine Corp,astra,0,0.8,0,0.04813488447330203
+Sayf,Team Vitality,"sova, tejo, yoru",0,0.86,0,0.031686267707439895
+zekken,Sentinels,yoru,1,1.12,1,0.954152817317132
+MrFaliN,FUT Esports,tejo,0,0.53,0,0.011530895216437546
+icy,Evil Geniuses,"raze, waylay",0,0.69,0,0.04946208247138513
+saadhak,Karmine Corp,"fade, sova",0,1.02,0,0.287673996901358
+Wild0reoo,Team Secret,raze,0,0.63,0,0.015702529317728024
+OXY,Cloud9,yoru,1,1.09,1,0.7917067425128885
+MiniBoo,Team Heretics,yoru,0,0.86,0,0.10042889944744579
+brawk,Mega Minors,"gekko, tejo",1,1.12,1,0.8462969513797481
+Jieni7,EDward Gaming,"breach, neon",1,1.4,1,0.958253500611508
+Monyet,Rex Regum Qeon,neon,1,1.26,1,0.9724066107659454
+Derrek,Evil Geniuses,"sova, tejo",1,1.11,1,0.5836924264923107
+Kicks,Team Vitality,harbor,0,0.35,0,0.015636120173279745
+kamo,Team Liquid,"gekko, jett, raze, yoru",0,0.98,0,0.3355449865217043
+batujnax,Apeks,deadlock,1,1.07,1,0.7775960720217362
+zekken,Sentinels,neon,1,1.76,1,0.9802834833146126
+Mazino,KRÜ Esports,breach,0,1.02,0,0.4607871723378022
+Crws,TALON,breach,0,0.62,0,0.05989104737426656
+Alfajer,FNATIC,raze,1,1.24,1,0.9783880016551404
+nobody,EDward Gaming,tejo,1,1.07,1,0.5955469155365172
+something,Paper Rex,breach,0,0.81,0,0.029315698265885426
+Sayf,Team Vitality,vyse,0,0.73,0,0.022430217619683886
+Jinggg,Paper Rex,omen,0,1.02,0,0.2066542631559228
+nobody,EDward Gaming,sova,1,1.08,1,0.8118555514972173
+sociablEE,BBL Esports,sova,0,0.44,0,0.01367655284709326
+Art,DetonatioN FocusMe,"breach, tejo",0,0.61,0,0.021933039132641906
+Minny,Gentle Mates,"breach, cypher, killjoy, yoru",1,1.18,1,0.8410854305439693
+Meteor,T1,iso,1,1.14,1,0.5769498243143021
+zjc,EDward Gaming,"breach, kayo",0,0.98,0,0.12510614801713452
+trent,G2 Esports,tejo,0,1.04,0,0.46204120234495366
+artzin,MIBR,kayo,0,0.42,0,0.022994396719805053
+Chronicle,FNATIC,"breach, cypher, gekko, sova, viper",1,1.06,1,0.7648345776743625
+Zyppan,Gentle Mates,tejo,0,0.98,0,0.09424025790892446
+Crws,TALON,omen,0,1.02,0,0.3047833300196591
+Flickless,GIANTX,viper,0,1.03,0,0.06933972770928502
+nAts,Team Liquid,cypher,0,0.99,0,0.4654554830850352
+zekken,Sentinels,raze,1,1.43,1,0.9552429465001097
+nAts,Team Liquid,cypher,1,1.3,1,0.9701367903285367
+crazyguy,Rex Regum Qeon,tejo,0,0.77,0,0.023795402511309197
+Francis,Nongshim RedForce,harbor,0,0.71,0,0.015483879565551813
+neT,Cloud9,viper,0,0.83,0,0.06815612906076132
+cortezia,MIBR,viper,0,0.79,0,0.13300871132859748
+MaKo,DRX,viper,1,1.22,1,0.8433669278429856
+MrFaliN,FUT Esports,"breach, sova",1,1.07,0,0.3018948198027574
+AtaKaptan,FUT Esports,"omen, viper",0,0.85,0,0.11259726752276657
+Derrek,Evil Geniuses,"omen, sova",1,1.14,1,0.9086569859647428
+nephh,Bilibili Gaming,kayo,1,1.23,1,0.9446560317095083
+MiniBoo,Team Heretics,jett,0,0.76,0,0.04133770923828086
+Ruxic,Natus Vincere,omen,1,1.56,1,0.9547682844068548
+jawgemo,G2 Esports,"neon, waylay, yoru",0,0.84,0,0.12558390373101946
+Avez,Karmine Corp,raze,1,1.29,1,0.969882487857362
+thyy,TALON,yoru,0,0.92,0,0.10763623445956895
+cortezia,MIBR,cypher,0,0.58,0,0.01664375069127065
+NoMan,Xi Lai Gaming,deadlock,0,0.87,0,0.22243665906602372
+waituu,TYLOO,viper,0,1.02,1,0.6387618664489889
+Jemkin,Rex Regum Qeon,jett,1,1.24,1,0.9516405986447316
+kamyk,Team Liquid,"clove, sova, tejo",0,1.0,1,0.8708983671548446
+thyy,TALON,omen,0,1.03,1,0.604891128597713
+Estrella,Rex Regum Qeon,viper,0,0.82,0,0.024001317078548356
+yosemite,FunPlus Phoenix,vyse,1,1.32,1,0.828639181290001
+crashies,FNATIC,"fade, sova",0,0.82,0,0.03436811929935934
+Knight,Bilibili Gaming,tejo,0,0.92,0,0.06642015113764199
+MAGNUM,BBL Esports,cypher,1,1.4,1,0.9525377393124077
+t3xture,Gen.G,yoru,1,1.33,1,0.9633774400770525
+BuZz,T1,raze,1,1.49,1,0.9667158472512396
+Famouz,BOOM Esports,neon,0,0.91,0,0.09923219435047889
+LewN,BBL Esports,chamber,0,0.95,0,0.4821903739035591
+Jemkin,Rex Regum Qeon,jett,0,0.35,0,0.026411238656855393
+Kai,Trace Esports,"jett, yoru",1,1.08,1,0.8738988780949546
+Munchkin,Gen.G,viper,0,0.64,0,0.021127710705692068
+Kai,Trace Esports,jett,0,1.02,0,0.18819581649040423
+Spring,Wolves Esports,viper,1,1.22,1,0.963569022536439
+NcSlasher,BOOM Esports,"breach, tejo",1,1.13,1,0.8078130059324405
+Spring,Wolves Esports,"brimstone, viper",0,0.92,0,0.1634652240633145
+ara,GIANTX,"neon, raze",0,0.53,0,0.020008301384314156
+yay,Evil Geniuses,clove,0,0.76,0,0.3392215731862666
+Sato,LEVIATÁN,raze,1,1.15,1,0.6346831408428089
+Juicy,Wolves Esports,yoru,1,1.58,1,0.9707664848039134
+Derke,Team Vitality,raze,1,1.19,1,0.9738845537673128
+BeYN,DRX,fade,0,0.8,0,0.021216852399149357
+Elite,Karmine Corp,deadlock,0,0.54,0,0.0206436886956329
+sociablEE,BBL Esports,"chamber, fade, sage, sova, tejo, yoru",1,1.11,1,0.8848960180948339
+Jinggg,Paper Rex,omen,1,1.46,1,0.9739883910134342
+spike,2Game Esports,"kayo, neon",1,1.26,1,0.9218188338115594
+westside,GIANTX,"killjoy, viper",0,0.96,0,0.09391444201404915
+BeYN,DRX,sova,1,1.13,1,0.79706790805067
+kaajak,FNATIC,"raze, yoru",1,1.26,1,0.9578987523947776
+Mazino,KRÜ Esports,harbor,1,1.28,1,0.9717679454560606
+Dep,ZETA DIVISION,reyna,1,1.24,1,0.960114008279965
+hiro,Natus Vincere,"cypher, killjoy",0,1.0,1,0.5010985553112022
+Meteor,T1,vyse,0,0.88,0,0.1925633061724132
+Foxy9,Gen.G,killjoy,1,1.09,1,0.6330517763828016
+BerserX,BOOM Esports,killjoy,0,0.88,0,0.08119367526340478
+westside,GIANTX,"cypher, vyse",0,0.92,0,0.17837966898379545
+Jemkin,Rex Regum Qeon,raze,1,1.29,1,0.9665820684391689
+MAGNUM,BBL Esports,kayo,0,0.69,0,0.02302329811017759
+Demon1,LEVIATÁN,jett,1,1.07,1,0.5848977411574312
+Abo,Titan Esports Club,killjoy,0,0.57,0,0.014840687319458113
+neT,Cloud9,"deadlock, viper",0,0.89,0,0.032266794288704596
+Knight,Bilibili Gaming,fade,0,0.98,0,0.11962573045323205
+MaKo,DRX,omen,1,1.2,1,0.9021810050063132
+Yuicaw,Wolves Esports,"breach, chamber",1,1.43,1,0.9705816741346333
+jawgemo,G2 Esports,yoru,1,1.07,1,0.6935024123262924
+Jamppi,BBL Esports,kayo,0,0.88,0,0.05792369917430141
+kellyS,Global Esports,deadlock,0,0.78,0,0.039702911817646444
+SpiritZ1,Dragon Ranger Gaming,yoru,1,1.08,1,0.7655515440951768
+Veqaj,Gentle Mates,sova,0,0.95,0,0.054119699432715836
+yoman,Gen.G,fade,1,1.56,1,0.9213283153475372
+Avez,Karmine Corp,yoru,0,0.73,0,0.07628061406813427
+nataNk,KOI,raze,0,0.9,0,0.2529446135458315
+Flashback,DRX,"cypher, killjoy, viper, vyse",0,1.01,1,0.5557613258711528
+Yuicaw,Wolves Esports,killjoy,0,1.03,1,0.6546086601333062
+SUYGETSU,Karmine Corp,viper,0,0.99,0,0.2816570934889947
+Derrek,Evil Geniuses,"sova, tejo",0,0.98,0,0.23639462292628574
+raafa,FURIA,"kayo, sage",0,0.53,0,0.015725221707147387
+Jemkin,Rex Regum Qeon,"jett, raze",0,0.87,0,0.11744689997239191
+BuZz,T1,"chamber, yoru",0,0.88,0,0.049023869933472755
+monk,Nova Esports,kayo,0,0.84,0,0.02443077410303838
+benjyfishy,Team Heretics,cypher,0,0.66,0,0.16456995085505882
+Dambi,Nongshim RedForce,neon,0,0.74,0,0.2543163917914068
+Kushy,Rex Regum Qeon,vyse,0,0.81,0,0.42225311756285
+OXY,Cloud9,jett,0,1.03,1,0.5476432996422981
+Xeppaa,Cloud9,vyse,0,1.03,1,0.7260186021252507
+AtaKaptan,FUT Esports,astra,0,0.48,0,0.031776179574589836
+Boaster,FNATIC,omen,0,0.99,0,0.2662926076343812
+Xeppaa,Cloud9,sova,0,0.86,0,0.05875875371218185
+LewN,BBL Esports,"jett, yoru",0,0.58,0,0.01641484387305448
+skuba,Mega Minors,viper,1,1.16,1,0.7790669415911246
+Estrella,DRX,"breach, kayo, viper",0,0.6,0,0.011451331438157089
+Monyet,Rex Regum Qeon,neon,1,1.11,1,0.7443288947150785
+BuZz,T1,raze,1,1.11,1,0.8992133814987769
+AtaKaptan,FUT Esports,omen,0,0.73,0,0.022076606048828707
+BABYBAY,G2 Esports,viper,1,1.07,1,0.8434562319897427
+koalanoob,Natus Vincere,"omen, raze, yoru",0,0.92,0,0.12669735620664638
+Foxy9,Gen.G,"deadlock, killjoy",0,1.01,1,0.5306446815551423
+qRaxs,FUT Esports,kayo,0,0.73,0,0.011572211014088615
+Foxy9,Gen.G,vyse,0,0.53,0,0.0342100586227713
+paTiTek,Team Liquid,fade,0,0.63,0,0.030377507973049216
+crazyguy,Rex Regum Qeon,omen,0,0.79,0,0.04166171441608699
+nAts,Team Liquid,cypher,1,1.29,1,0.9760429225876034
+Yuicaw,Wolves Esports,cypher,0,0.92,0,0.14973219102842544
+keiko,Team Liquid,omen,1,1.15,1,0.7068949232679406
+paTiTek,Team Liquid,breach,1,1.59,1,0.9779841543838407
+nAts,Team Liquid,viper,0,0.95,0,0.27956944030683933
+Meteor,T1,"cypher, iso, vyse",0,0.94,0,0.42934713174493133
+iZu,T1,tejo,1,1.5,1,0.8362330519604968
+Sylvan,T1,omen,0,0.59,0,0.01901334473566534
+MaKo,DRX,omen,0,1.03,0,0.139795311321111
+saadhak,Karmine Corp,harbor,0,1.02,1,0.5221613596261147
+tuyz,FURIA,"brimstone, omen",0,0.65,0,0.02801534020232462
+Avez,Karmine Corp,phoenix,0,1.03,1,0.7958490365163954
+Elite,Karmine Corp,deadlock,0,0.54,0,0.01963582032914768
+t3xture,Gen.G,raze,1,1.1,1,0.8921123042904169
+trent,G2 Esports,tejo,0,0.9,0,0.18232389069653154
+leaf,G2 Esports,viper,1,1.18,1,0.9253696689136814
+Verno,Mega Minors,sova,0,0.74,0,0.020855704971281152
+Shiro,BOOM Esports,kayo,1,1.36,1,0.9769482156796103
+coconut,Xi Lai Gaming,"omen, viper",0,0.59,0,0.015212651749542111
+NaturE,Evil Geniuses,"breach, fade, kayo, sova",0,0.89,0,0.056646215536110725
+mitch,Cloud9,sova,0,0.95,0,0.1257627088209339
+adverso,KRÜ Esports,"sova, tejo",0,1.04,0,0.41527457209331425
+adverso,KRÜ Esports,"sova, tejo",0,0.86,0,0.10176040921988086
+hiro,Natus Vincere,omen,1,1.38,1,0.9743777945585766
+GuanG,Nova Esports,"killjoy, vyse",0,0.99,1,0.8541642077408439
+s0m,Mega Minors,deadlock,0,0.25,0,0.01692291189483766
+N4RRATE,Sentinels,"breach, fade",0,0.86,0,0.14303626939706585
+free1ng,DRX,"cypher, viper",0,0.89,0,0.14383384171071384
+leaf,G2 Esports,chamber,0,0.99,0,0.369854690044935
+JitBoyS,TALON,astra,0,0.75,0,0.02594405507768993
+Cloud,GIANTX,fade,1,1.49,1,0.9779277133466763
+westside,GIANTX,cypher,0,0.78,0,0.03734919024657282
+Deryeon,Global Esports,"jett, raze, yoru",0,0.81,0,0.12601671626089808
+Persia,Nongshim RedForce,brimstone,0,0.94,0,0.2242271627084377
+yay,Evil Geniuses,cypher,1,1.42,1,0.97093338368005
+aspas,MIBR,jett,1,1.22,1,0.9807915453822462
+ZmjjKK,EDward Gaming,iso,1,1.3,1,0.9619398790789051
+Boo,Team Heretics,omen,0,0.85,0,0.06589806824760999
+trexx,Team Vitality,sova,1,1.15,0,0.3227923153248913
+icy,Evil Geniuses,"cypher, neon, raze",0,0.85,0,0.02254830347838013
+LewN,BBL Esports,jett,0,1.03,1,0.8880463593665678
+pryze,2Game Esports,sova,0,0.62,0,0.01214816783316571
+kamo,Team Liquid,yoru,1,1.14,1,0.9448290777165519
+kiNgg,LEVIATÁN,viper,0,0.73,0,0.05505963785061545
+CHICHOO,EDward Gaming,cypher,0,0.78,0,0.029621488219354408
+Ash,Gen.G,yoru,0,1.02,1,0.5685294607969986
+sociablEE,BBL Esports,sova,0,0.95,0,0.1222707554952141
+NaturE,Evil Geniuses,breach,0,0.83,0,0.03730727430389002
+coconut,Xi Lai Gaming,"gekko, omen",0,0.63,0,0.030811835520638473
+Jinboong,DetonatioN FocusMe,vyse,0,1.04,0,0.3530285413982407
+stax,T1,fade,0,0.86,0,0.06655173318492695
+Flex1n,Dragon Ranger Gaming,omen,0,0.98,1,0.5941898650821182
+Ivy,Nongshim RedForce,deadlock,1,1.16,1,0.8767648397145446
+cortezia,MIBR,cypher,0,0.72,0,0.04331821160489553
+johnqt,Sentinels,tejo,1,1.17,1,0.726588689346999
+carpe,T1,brimstone,1,1.08,1,0.6001580426582266
+pANcada,LOUD,omen,0,0.73,0,0.021112485523422975
+paTiTek,Team Liquid,sova,0,0.49,0,0.014471389698076022
+mitch,Cloud9,skye,1,1.13,1,0.767916794338202
+pryze,2Game Esports,"fade, sova",0,0.91,0,0.04584914702290223
+keiko,Team Liquid,"harbor, iso, omen",0,1.02,1,0.5565148226076072
+neT,Cloud9,"astra, deadlock",0,0.74,0,0.040572248374907555
+stax,T1,fade,0,0.91,1,0.5133399455886319
+Killua,TALON,"breach, fade, killjoy, tejo, vyse, yoru",0,0.99,0,0.19123410889083642
+Elite,Karmine Corp,cypher,1,1.05,1,0.7819906707409884
+cNed,FUT Esports,omen,0,0.79,0,0.046206971599613
+Sylvan,T1,viper,0,0.42,0,0.01982762734694335
+raafa,FURIA,"breach, kayo, sage",0,0.6,0,0.011941138791907693
+Minny,Gentle Mates,cypher,0,0.66,0,0.07549087587897434
+Chronicle,FNATIC,sage,0,0.72,0,0.029492148145060133
+JitBoyS,TALON,omen,0,1.0,0,0.10998287100480661
+Papi,Global Esports,omen,0,0.55,0,0.029274400469360938
+Francis,Nongshim RedForce,sova,0,0.64,0,0.04491400841212506
+crashies,FNATIC,"fade, sova",0,0.9,0,0.03593562085693588
+BerLIN,FunPlus Phoenix,omen,1,1.31,1,0.7836316386543614
+dgzin,LOUD,raze,1,1.38,1,0.9751209431154606
+Chronicle,FNATIC,sage,0,0.68,0,0.025212239778707228
+Veqaj,Gentle Mates,sova,0,0.72,0,0.05322860691187515
+MAGNUM,BBL Esports,viper,0,0.58,0,0.014518091562507354
+dos9,BOOM Esports,brimstone,0,0.96,0,0.16790280324751067
+eeiu,100 Thieves,sova,1,1.23,1,0.9232978102785834
+Ivy,Nongshim RedForce,astra,1,1.33,1,0.9108693741754125
+Kushy,Rex Regum Qeon,sova,0,0.88,0,0.1186860378514077
+spike,2Game Esports,kayo,0,1.01,0,0.2622592555781274
+Jemkin,Rex Regum Qeon,brimstone,0,0.91,0,0.14410317264934794
+purp0,GIANTX,brimstone,1,1.3,1,0.9368597349188267
+Kada,Gentle Mates,omen,0,0.88,0,0.1280874254350034
+BerLIN,FunPlus Phoenix,brimstone,0,0.66,0,0.04231763880879942
+Nicc,Dragon Ranger Gaming,"breach, fade, gekko, sova",0,0.95,0,0.20376290774433775
+FengF,Trace Esports,viper,1,1.08,1,0.8894076437689119
+Verno,MIBR,tejo,1,1.46,1,0.9723436032550141
+rushia,Bilibili Gaming,omen,0,0.7,0,0.032650025400464674
+kellyS,Team Secret,kayo,0,0.51,0,0.022879860425669172
+MiniBoo,Team Heretics,raze,0,0.72,0,0.061658390133704125
+MONSTEERR,KOI,"cypher, viper, vyse",0,0.95,0,0.20905950923758498
+KovaQ,Team Vitality,vyse,1,1.28,1,0.9490077883271522
+Dambi,Nongshim RedForce,waylay,0,0.48,0,0.010709997289179967
+Famouz,BOOM Esports,neon,0,0.97,0,0.4365637530608026
+Mazino,KRÜ Esports,sova,1,1.15,1,0.9611344998861887
+gyen,DetonatioN FocusMe,astra,0,0.94,0,0.0902712689427793
+Ruxic,Natus Vincere,omen,1,1.5,1,0.8790570531995822
+MOLSI,Apeks,breach,0,0.96,0,0.1733302750025728
+KovaQ,Team Vitality,"iso, kayo",0,0.69,0,0.020474788915228023
+PROFEK,BBL Esports,omen,0,1.04,1,0.638623462392322
+Verno,MIBR,fade,0,0.73,0,0.031284845994946124
+mada,Mega Minors,"neon, raze",0,1.04,0,0.2130853991256954
+Ash,Gen.G,"fade, sova",0,0.99,0,0.2738540537569648
+neT,Cloud9,killjoy,0,0.58,0,0.01996598141227093
+neT,Cloud9,deadlock,0,0.74,0,0.09499432240904718
+pANcada,LOUD,astra,1,1.38,1,0.9692894131185472
+PatMen,Paper Rex,skye,0,0.78,0,0.08511640506933843
+Suggest,Gen.G,"cypher, killjoy, vyse",0,0.7,0,0.09307123571148673
+Viva,Xi Lai Gaming,tejo,0,1.04,1,0.528261926824916
+mada,Mega Minors,jett,0,0.8,0,0.01883797315618576
+thyy,TALON,omen,1,1.22,1,0.9568959178503267
+Serial,Team Liquid,tejo,1,1.13,1,0.7225328184996679
+havoc,FURIA,raze,0,0.09,0,0.010682915354845272
+Derke,Team Vitality,"jett, yoru",0,0.81,0,0.0922286870640225
+zekken,Sentinels,neon,0,0.65,0,0.051778364361449516
+SyouTa,ZETA DIVISION,"killjoy, viper, vyse",0,0.57,0,0.015374126839731658
+kaajak,FNATIC,jett,0,0.8,0,0.04144685306264997
+monk,Nova Esports,"kayo, vyse",0,0.86,0,0.027408235918015774
+thyy,TALON,raze,1,1.22,1,0.9570888181508985
+C0M,LEVIATÁN,"sova, tejo",0,0.94,0,0.2984650708522048
+pANcada,LOUD,omen,1,1.23,1,0.7385315615481117
+Mazino,KRÜ Esports,sova,0,0.99,1,0.6150672428467657
+YOU,Xi Lai Gaming,breach,1,1.15,1,0.7185968112675803
+crazyguy,Rex Regum Qeon,sage,0,0.83,0,0.21430074932795617
+Sayf,Team Vitality,sova,0,0.99,0,0.0929577472436704
+UdoTan,Global Esports,deadlock,0,0.72,0,0.01696988836683095
+RobbieBk,Gentle Mates,fade,0,0.7,0,0.020411421928545385
+Ethan,Mega Minors,breach,0,0.7,0,0.06534870334638854
+kamyk,Team Liquid,tejo,1,1.24,1,0.8980756508500745
+valyn,G2 Esports,"astra, brimstone, omen",0,1.03,0,0.28920095891587183
+DH,T1,omen,1,1.25,1,0.827964208166914
+Boostio,100 Thieves,cypher,0,0.76,0,0.022354989310879345
+crashies,FNATIC,fade,0,0.6,0,0.0188403489785137
+Kushy,Rex Regum Qeon,vyse,0,0.5,0,0.011427900833569152
+paTiTek,Team Liquid,breach,1,1.22,1,0.933752499580071
+Haodong,Titan Esports Club,viper,0,0.94,0,0.05718297515517195
+valyn,G2 Esports,astra,1,1.14,1,0.7886949677251046
+SpiritZ1,Dragon Ranger Gaming,yoru,0,0.76,0,0.07159786590531761
+nephh,Bilibili Gaming,kayo,1,1.11,0,0.2846516076402051
+Boaster,FNATIC,astra,0,0.75,0,0.019540497922482122
+Wo0t,Team Heretics,raze,1,1.09,1,0.761996553424855
+BuZz,T1,chamber,0,0.76,0,0.11508720287154117
+mada,Mega Minors,yoru,1,1.33,1,0.9683025973950666
+nephh,Bilibili Gaming,"breach, kayo",0,1.02,0,0.17992640266353466
+Scales,TYLOO,"sova, viper",0,1.0,1,0.5284501826523974
+Chronicle,FNATIC,"astra, breach, cypher",1,1.2,1,0.9054505801391076
+tomaszy,GIANTX,"brimstone, omen",0,0.87,0,0.05965245606949683
+stax,T1,kayo,1,1.06,1,0.7227794431073407
+gobera,2Game Esports,"cypher, tejo",0,0.86,0,0.047233152245140714
+mitch,Cloud9,breach,0,0.71,0,0.08271561012138323
+cauanzin,LOUD,sova,1,1.25,1,0.9287097378082222
+SiuFatBB,Wolves Esports,tejo,0,0.68,0,0.023329883319146174
+sociablEE,BBL Esports,chamber,0,0.86,0,0.22017150014033982
+qRaxs,FUT Esports,breach,0,0.72,0,0.13927564162818828
+Killua,TALON,sova,0,0.8,0,0.09243849701728576
+Chronicle,FNATIC,vyse,1,1.29,1,0.9394981082432201
+johnqt,Sentinels,"kayo, tejo",0,1.04,1,0.9258417507017798
+flyuh,KOI,cypher,0,0.34,0,0.014140725886551223
+JessieVash,Team Secret,tejo,0,0.7,0,0.014834016010050726
+monk,Nova Esports,"kayo, viper, vyse",0,0.87,0,0.023933149111947976
+HYUNMIN,DRX,raze,1,1.14,1,0.9586250276242119
+Lysoar,Wolves Esports,deadlock,0,0.77,0,0.04739131627334066
+v1nny,LOUD,kayo,0,0.58,0,0.04741522235493493
+C0M,LEVIATÁN,fade,0,0.89,0,0.04569439698105505
+kamo,Team Liquid,yoru,0,0.94,0,0.42526149205298236
+MONSTEERR,KOI,viper,1,1.05,1,0.6408202987816649
+tomaszy,GIANTX,yoru,0,0.76,0,0.028352276478905637
+Zellsis,Sentinels,"brimstone, viper, vyse",0,0.87,0,0.03912111574253334
+PatMen,Paper Rex,fade,1,1.08,1,0.844131119459902
+Jemkin,Rex Regum Qeon,yoru,1,1.24,1,0.9580836374556704
+nephh,Bilibili Gaming,breach,0,0.96,0,0.1438404595698298
+silentzz,2Game Esports,jett,0,0.63,0,0.02060649325265787
+Serial,Team Liquid,cypher,0,1.02,0,0.26566482719564766
+benjyfishy,Team Heretics,viper,0,0.99,1,0.7939642875423666
+Sato,LEVIATÁN,yoru,1,1.65,1,0.9482067628932993
+dos9,BOOM Esports,omen,0,0.85,0,0.09457354788430841
+player,All Gamers,"breach, yoru",0,0.7,0,0.03874431269215688
+brawk,Mega Minors,sova,1,1.16,1,0.9404181099354283
+Wo0t,Team Heretics,"fade, jett, waylay",1,1.31,1,0.9708933960771955
+ara,GIANTX,"jett, neon",0,1.04,0,0.2117243550939229
+cortezia,MIBR,killjoy,1,1.37,1,0.9812009689339635
+Kicks,Team Vitality,"breach, omen",1,1.08,1,0.7234348088223853
+f0rsakeN,Paper Rex,omen,1,1.26,1,0.9687346426948403
+Kushy,Rex Regum Qeon,"kayo, sova, tejo",1,1.06,1,0.731542499701338
+Melser,KRÜ Esports,omen,1,1.52,1,0.9420141367884318
+mitch,Cloud9,"skye, sova",0,0.95,0,0.3166480327682717
+free1ng,DRX,skye,0,0.34,0,0.011227610193918073
+bang,Sentinels,omen,1,1.13,1,0.8480946040788978
+Abo,Titan Esports Club,"astra, cypher, deadlock, killjoy, viper, vyse",0,0.98,0,0.16231440512588594
+jawgemo,G2 Esports,raze,0,0.74,0,0.061571509720625854
+ara,GIANTX,yoru,0,0.85,0,0.01755910141031996
+Knight,Bilibili Gaming,tejo,0,1.03,1,0.562140260615661
+ZmjjKK,EDward Gaming,neon,1,1.38,1,0.96326633449264
+benjyfishy,Team Heretics,killjoy,1,1.18,1,0.9440143175212878
+Filu,KOI,iso,0,0.87,0,0.25510203099207646
+coconut,Xi Lai Gaming,omen,1,1.08,0,0.4876952690784535
+kaajak,FNATIC,"neon, yoru",1,1.15,1,0.8905260481822039
+nataNk,KOI,gekko,0,0.67,0,0.08029816269472852
+nzr,MIBR,skye,1,1.19,1,0.9720327606255916
+MONSTEERR,KOI,"viper, vyse",1,1.05,0,0.14870662648080443
+Boaster,FNATIC,"astra, omen",0,0.94,0,0.029161381852125693
+paTiTek,Team Liquid,breach,0,0.55,0,0.027210030307680145
+flyuh,KOI,fade,0,0.77,0,0.07071710436091962
+primmie,TALON,"iso, waylay",1,1.14,1,0.8721240491446348
+Shao,Natus Vincere,fade,1,1.08,0,0.45465598919956357
+nephh,Bilibili Gaming,breach,1,1.08,1,0.659713980532468
+ara,GIANTX,raze,0,0.97,0,0.3772950512398021
+zekken,Sentinels,raze,0,1.0,0,0.26945282261154835
+HanChe,All Gamers,viper,0,0.67,0,0.02224193524588358
+Ethan,Mega Minors,"breach, omen",1,1.05,1,0.506929285664965
+RieNs,Team Heretics,sova,0,0.88,0,0.11505861610602258
+pANcada,LOUD,"brimstone, omen",0,0.8,0,0.03220629227293861
+invy,Team Secret,vyse,1,1.42,1,0.9474870966662979
+saadhak,Karmine Corp,"deadlock, fade, kayo",0,0.87,0,0.043952686049823886
+Demon1,LEVIATÁN,"brimstone, jett, neon",1,1.16,1,0.9439342638159778
+Monyet,Rex Regum Qeon,"neon, omen, viper",0,0.86,0,0.0654574319463131
+RobbieBk,LOUD,fade,0,0.58,0,0.01343232592986068
+v1c,Cloud9,brimstone,1,1.78,1,0.9851602102979257
+Khalil,FURIA,viper,0,0.66,0,0.03934510416465732
+benjyfishy,Team Heretics,killjoy,0,0.41,0,0.01315914086391139
+something,Paper Rex,"breach, sova",0,1.03,0,0.18229475593542074
+v1c,Cloud9,omen,1,1.07,1,0.7288981948935641
+Elite,Karmine Corp,killjoy,1,2.27,1,0.9568513340849115
+zjc,EDward Gaming,kayo,1,1.22,1,0.7457175601680119
+primmie,TALON,yoru,1,1.14,1,0.9581263440426863
+Jinboong,DetonatioN FocusMe,astra,1,1.39,1,0.972942317494974
+xffero,Rex Regum Qeon,cypher,0,0.98,0,0.3531388795657769
+Monyet,Rex Regum Qeon,omen,0,0.8,0,0.039914572397867346
+paTiTek,Team Liquid,kayo,1,1.2,1,0.9144687514299498
+Ethan,Mega Minors,yoru,1,1.58,1,0.962016711123428
+trent,G2 Esports,sova,1,1.2,1,0.9497780592219547
+HYUNMIN,DRX,neon,0,1.01,1,0.6442016196048871
+PatMen,Paper Rex,"fade, viper",0,0.94,0,0.05546548605698169
+Ivy,Nongshim RedForce,sova,1,1.32,1,0.9582187982055198
+margaret,Nongshim RedForce,"cypher, killjoy",0,0.88,0,0.08883628156361625
+Smoggy,EDward Gaming,omen,1,1.23,1,0.9438193235464085
+Jemkin,Rex Regum Qeon,yoru,1,1.52,1,0.9760430933950232
+Ivy,Nongshim RedForce,"deadlock, vyse",0,1.01,0,0.2556891046483403
+nobody,EDward Gaming,fade,0,1.02,1,0.6863926396505116
+nephh,Bilibili Gaming,breach,1,1.38,1,0.7954023248319472
+Ruxic,Natus Vincere,"omen, viper",1,1.31,1,0.978139911736494
+Karon,Gen.G,omen,0,0.75,0,0.040350937245964766
+Jieni7,EDward Gaming,neon,0,0.98,1,0.8299709642948231
+Elite,Karmine Corp,"killjoy, vyse",0,0.95,0,0.18143037141258364
+s0m,Mega Minors,omen,1,1.3,1,0.9794533031224982
+jkuro,JDG Esports,"omen, viper",0,0.82,0,0.1785500439982164
+f0rsakeN,Paper Rex,killjoy,0,0.48,0,0.03557026418334568
+Okeanos,LEVIATÁN,"neon, omen",1,1.32,1,0.9786056952859502
+Meteor,T1,iso,0,0.9,0,0.4172420632385955
+MaKo,DRX,omen,1,1.28,1,0.9617207786366477
+stax,T1,tejo,1,1.12,1,0.9319161704426973
+primmie,TALON,"neon, yoru",0,0.79,0,0.048961062798458695
+Spring,Wolves Esports,"astra, viper",1,1.31,1,0.9675055520126657
+Lsn,All Gamers,sova,0,0.38,0,0.01127866117753301
+free1ng,DRX,yoru,0,0.79,0,0.022094245602376907
+primmie,TALON,tejo,0,0.9,0,0.13560359333418243
+kamo,Team Liquid,jett,0,0.83,0,0.09579539817951103
+UdoTan,Global Esports,neon,1,1.16,1,0.917208739175476
+trent,G2 Esports,tejo,0,1.04,1,0.6080204783223648
+Proxh,Gentle Mates,"astra, omen",0,0.85,0,0.03735046824768963
+MiniBoo,Team Heretics,yoru,0,1.03,1,0.9349313220720754
+Jemkin,Rex Regum Qeon,"jett, waylay",0,1.01,1,0.5784725476787163
+Munchkin,Gen.G,kayo,1,1.13,1,0.7551358044044065
+xenom,MIBR,"astra, omen",0,0.88,0,0.13457658566475905
+nataNk,KOI,"gekko, killjoy, vyse",0,0.75,0,0.06234834942894395
+Flashback,DRX,viper,1,1.21,1,0.9270743948540962
+Ninebody,TYLOO,killjoy,1,1.18,1,0.9591121057286268
+Ash,Gen.G,sova,0,1.03,0,0.14164341501929467
+Shr1mp,FunPlus Phoenix,tejo,0,0.74,0,0.04204172965535071
+jkuro,JDG Esports,viper,1,1.08,1,0.5410444386496475
+f0rsakeN,Paper Rex,brimstone,1,1.09,0,0.39492776101779464
+Boaster,FNATIC,omen,0,0.9,0,0.03643200474530452
+BeYN,DRX,"fade, omen, sova",0,1.01,0,0.05445897854226082
+Alfajer,FNATIC,raze,1,1.09,1,0.7468708761993461
+MaKo,DRX,astra,0,0.8,0,0.08210713040839362
+primmie,TALON,sage,1,1.25,1,0.9496733821379284
+bang,Sentinels,viper,0,0.81,0,0.03440891286127231
+Spitfires,All Gamers,yoru,0,1.0,0,0.36665503315716974
+CHICHOO,EDward Gaming,cypher,0,0.85,0,0.05913809664807563
+ZmjjKK,EDward Gaming,"jett, raze",0,0.96,1,0.5246195653040923
+Persia,Nongshim RedForce,brimstone,1,1.08,1,0.6323934062626667
+xeus,FUT Esports,waylay,1,1.57,1,0.9689264344952245
+Chronicle,FNATIC,viper,0,0.68,0,0.02100997528500018
+Jemkin,Rex Regum Qeon,"jett, waylay",1,1.41,1,0.9697841216474063
+SUYGETSU,Karmine Corp,omen,1,1.18,1,0.7207809739991875
+Midi,Xi Lai Gaming,"breach, gekko",0,0.69,0,0.02887203679508098
+Click,Gentle Mates,waylay,0,0.93,0,0.4064154857165603
+Flashback,DRX,killjoy,0,0.97,1,0.5414063453423914
+westside,GIANTX,cypher,0,1.01,0,0.12420447583889269
+BuZz,T1,raze,0,1.0,0,0.2621366007782962
+dos9,BOOM Esports,brimstone,1,1.13,1,0.5749184569423463
+Ash,Gen.G,fade,1,1.17,1,0.8376304033400327
+BuZz,T1,raze,0,0.82,0,0.10817740787191617
+Cloud,GIANTX,"fade, tejo",0,1.0,0,0.130905531703615
+s0m,Mega Minors,"killjoy, omen",1,1.23,1,0.9438666741123328
+xenom,MIBR,viper,1,1.07,1,0.6870860981935337
+Meteor,T1,iso,0,0.99,0,0.2966818801939347
+kamyk,Team Liquid,sova,1,1.46,1,0.980787668293068
+kaajak,FNATIC,yoru,1,1.23,1,0.9113360106731918
+LewN,BBL Esports,iso,0,1.03,1,0.6561086563671209
+JonahP,G2 Esports,"viper, vyse",1,1.44,1,0.9767139857233172
+Flickless,GIANTX,breach,0,0.89,0,0.0878522666769552
+Jemkin,Rex Regum Qeon,raze,0,0.92,0,0.19219839504237465
+trent,G2 Esports,tejo,0,0.79,0,0.020920978121423364
+hiro,Natus Vincere,cypher,0,0.85,0,0.04398734123706654
+CHICHOO,EDward Gaming,vyse,1,1.27,1,0.9526608226784142
+vo0kashu,Dragon Ranger Gaming,"viper, vyse",1,1.19,1,0.9472149901364717
+Derke,Team Vitality,jett,0,0.94,0,0.19385801124459587
+C0M,LEVIATÁN,sova,1,1.12,1,0.9641281135875047
+spike,2Game Esports,yoru,0,0.71,0,0.03861106612600021
+Melser,KRÜ Esports,astra,1,1.42,1,0.9513384547258913
+PxS,2Game Esports,fade,0,0.89,0,0.30853550548409187
+Boo,Team Heretics,omen,0,0.71,0,0.03920665129772016
+something,Paper Rex,jett,0,0.92,0,0.1320130065938368
+C0M,LEVIATÁN,fade,0,1.03,0,0.09745350326655115
+Rarga,Xi Lai Gaming,raze,0,0.98,0,0.1187361625379663
+Wo0t,Team Heretics,gekko,1,1.27,1,0.8318997693088142
+valyn,G2 Esports,omen,0,0.6,0,0.020775935395251167
+eeiu,100 Thieves,tejo,1,1.26,1,0.9632456794583598
+Jinggg,Paper Rex,omen,1,1.25,1,0.9706863347356449
+valyn,G2 Esports,omen,1,1.51,1,0.9800117180287943
+Asuna,100 Thieves,kayo,0,0.88,0,0.05446894526674117
+leaf,G2 Esports,vyse,0,0.98,0,0.2877087334061655
+f0rsakeN,Paper Rex,"fade, omen, vyse",0,0.79,0,0.05112310659108973
+ANGE1,Natus Vincere,kayo,0,0.66,0,0.047134481270312854
+Spitfires,All Gamers,yoru,0,0.88,0,0.2404813876077956
+d4v41,Paper Rex,vyse,0,0.8,1,0.6722917705347686
+neT,Cloud9,"cypher, deadlock",0,0.99,0,0.15507631267689906
+lucas,Titan Esports Club,"fade, sova",1,1.3,1,0.8158334695591837
+Asuna,100 Thieves,"neon, raze",1,1.21,1,0.9248440263168022
+penny,Apeks,raze,0,0.98,0,0.1266556046802328
+dgzin,LOUD,raze,1,1.05,1,0.6673717284124223
+happywei,Xi Lai Gaming,cypher,1,1.13,1,0.7982731736469637
+MaKo,DRX,viper,0,1.04,0,0.34877173857269017
+Scales,TYLOO,viper,1,1.21,1,0.9476911302661913
+Ash,Gen.G,"fade, sova, tejo",0,1.02,0,0.2831150818801338
+MiniBoo,Team Heretics,neon,1,1.24,1,0.9086793788923174
+v1c,Cloud9,"astra, omen",0,0.93,0,0.1000214694936651
+Verno,MIBR,skye,0,0.96,0,0.16247844370611136
+Boo,Team Heretics,"astra, brimstone, omen, viper",0,0.96,0,0.10326605155305908
+SUYGETSU,Karmine Corp,"astra, omen",0,1.04,0,0.4730861953356467
+Alfajer,FNATIC,cypher,0,0.99,1,0.5139701993977492
+Okeanos,LEVIATÁN,omen,1,1.27,1,0.8181463690458177
+Jinggg,Paper Rex,omen,1,1.48,1,0.9790880365551058
+silentzz,2Game Esports,vyse,1,1.61,1,0.9592195130516182
+Dep,ZETA DIVISION,"raze, reyna",0,1.0,1,0.5045963091305509
+Jieni7,EDward Gaming,"breach, kayo",0,0.76,0,0.10439743520506212
+iZu,T1,neon,0,0.97,0,0.11811692969265303
+yokam,Global Esports,yoru,0,0.49,0,0.01819575545029951
+Francis,Nongshim RedForce,"harbor, viper",0,0.94,0,0.04125479153553111
+Jieni7,EDward Gaming,kayo,0,0.91,0,0.060852532439740745
+N4RRATE,Sentinels,sova,0,0.77,0,0.022425514088191358
+adverso,KRÜ Esports,sova,0,0.86,0,0.06176175828362758
+JonahP,G2 Esports,breach,0,0.61,0,0.03136910191175875
+artzin,MIBR,iso,0,0.95,1,0.5007980962780889
+yoman,Gen.G,"breach, fade, sova",0,0.9,0,0.14550965397403928
+Munchkin,Gen.G,viper,1,1.62,1,0.983892124169404
+slowly,TYLOO,killjoy,1,1.49,1,0.9440882319718823
+paTiTek,Team Liquid,breach,0,0.6,0,0.025293041476443363
+Virtyy,LOUD,jett,1,1.17,1,0.7974460439607015
+deLb,All Gamers,omen,0,0.67,0,0.03008515807464935
+Meteor,T1,killjoy,1,1.19,1,0.9529312656745761
+Cryocells,100 Thieves,"chamber, iso",1,1.75,1,0.9808524103142408
+Nicc,Dragon Ranger Gaming,fade,1,1.1,1,0.9522454711595059
+Knight,Bilibili Gaming,fade,1,1.33,1,0.8905644422234597
+crazyguy,Rex Regum Qeon,"breach, tejo",0,0.87,0,0.024497651309149982
+Estrella,DRX,fade,0,0.89,0,0.02621854513116853
+iZu,T1,yoru,1,1.27,1,0.9740730863318421
+AvovA,Apeks,astra,0,0.77,0,0.04608267753644362
+kklin,JDG Esports,killjoy,0,0.39,0,0.00920760314524543
+saadhak,Karmine Corp,"fade, sova",0,0.67,0,0.04726905971480095
+Asuna,100 Thieves,neon,1,1.29,1,0.9712917390266725
+hiro,Natus Vincere,"cypher, killjoy, omen",1,1.33,1,0.9641244214645686
+xenom,MIBR,astra,1,1.34,1,0.9236014086167315
+brawk,Mega Minors,sova,0,0.9,0,0.46581303568819266
+yetujey,FUT Esports,"cypher, killjoy, viper",0,0.83,1,0.6341177335316006
+Derke,Team Vitality,jett,1,1.23,1,0.8877871657532287
+keiko,Team Liquid,"omen, raze",1,1.08,1,0.6930817829769416
+BuZz,T1,"raze, yoru",1,1.15,1,0.9090233496594822
+CHICHOO,EDward Gaming,killjoy,0,0.87,0,0.0466420558953026
+mitch,Cloud9,tejo,0,0.59,0,0.02344468754010975
+trent,G2 Esports,tejo,1,1.33,1,0.976534368934933
+LewN,BBL Esports,jett,0,0.84,0,0.022922021852275445
+Minny,Gentle Mates,"killjoy, viper, vyse",1,1.05,0,0.1750955084928986
+Jamppi,BBL Esports,sova,1,1.07,1,0.5494825691058216
+JitBoyS,TALON,astra,1,1.2,1,0.9340601198780816
+Kushy,Rex Regum Qeon,"sova, vyse",0,0.88,0,0.05064919453888074
+kiNgg,LEVIATÁN,astra,0,1.03,1,0.6163721320096185
+ban,TALON,"deadlock, viper, yoru",0,0.86,0,0.07153508523365398
+C0M,LEVIATÁN,sova,0,0.34,0,0.01935557463000573
+dos9,BOOM Esports,omen,0,0.67,0,0.07808779808813913
+Boaster,FNATIC,"astra, brimstone",1,1.28,1,0.6130542190401796
+waituu,TYLOO,omen,0,0.83,0,0.0870078322492708
+mada,Mega Minors,neon,0,0.74,0,0.09774002656171017
+bang,Sentinels,"astra, brimstone, omen",0,0.99,0,0.3538447249565066
+batujnax,Apeks,fade,0,0.7,0,0.04441302281145572
+happywei,Xi Lai Gaming,viper,1,1.32,1,0.9654692302245188
+Nicc,Dragon Ranger Gaming,fade,1,1.11,1,0.792465200274576
+2GE,Team Secret,astra,0,0.67,0,0.01940839803682629
+xffero,Rex Regum Qeon,astra,0,1.0,1,0.5067587676904325
+Jinggg,Paper Rex,raze,1,1.36,1,0.9592335326729242
+BerserX,BOOM Esports,"cypher, killjoy, viper, vyse",0,1.01,0,0.41253609098529614
+bang,Sentinels,viper,1,1.18,1,0.9341126775426664
+Zellsis,Sentinels,"kayo, killjoy, vyse",0,0.83,0,0.02987406432562002
+Alfajer,FNATIC,"chamber, iso, tejo",1,1.27,1,0.9578979196153595
+cortezia,MIBR,viper,1,1.07,1,0.8909423716210965
+Jinggg,Paper Rex,tejo,1,1.24,1,0.9175201485178026
+K1ra,All Gamers,omen,1,1.14,1,0.7788490626259346
+keznit,KRÜ Esports,raze,1,1.31,1,0.9633067189401437
+NaturE,Evil Geniuses,"fade, vyse",1,1.19,1,0.9588844800926387
+t3xture,Gen.G,jett,1,1.39,1,0.9726381482130232
+Ivy,Nongshim RedForce,killjoy,0,0.97,1,0.6639624809879799
+Flickless,GIANTX,viper,0,0.57,0,0.01576131955688824
+Demon1,LEVIATÁN,raze,0,1.0,1,0.7615473654325078
+JitBoyS,TALON,cypher,0,1.03,1,0.6740901678696496
+JonahP,G2 Esports,"fade, sage",0,0.6,0,0.02000543502543698
+Sayf,Team Vitality,"tejo, yoru",0,0.53,0,0.012486193871962287
+Jinggg,Paper Rex,raze,0,0.99,0,0.14711630656519922
+s0m,Mega Minors,brimstone,1,1.06,0,0.48864338271825847
+primmie,TALON,"deadlock, sage, yoru",0,1.03,1,0.6776107638984429
+stax,T1,sova,0,0.71,0,0.07524387954478705
+iZu,T1,fade,1,1.26,1,0.7199057738340473
+JitBoyS,TALON,omen,1,1.14,0,0.4872476813009956
+sociablEE,BBL Esports,sage,1,1.49,1,0.9768658062597549
+cortezia,MIBR,viper,1,1.53,1,0.9598162817076857
+nzr,MIBR,sova,1,1.22,1,0.6602714665227776
+f0rsakeN,Paper Rex,skye,1,1.7,1,0.9780394490522084
+mwzera,FURIA,"skye, sova",0,0.92,0,0.08009663526480576
+jawgemo,G2 Esports,"waylay, yoru",1,1.24,1,0.9261665172769172
+Nicc,Dragon Ranger Gaming,breach,0,0.95,0,0.07820321988553032
+invy,Team Secret,"breach, kayo",1,1.51,1,0.9684495057228053
+skuba,Mega Minors,vyse,1,1.31,1,0.972486291282631
+Smoggy,EDward Gaming,clove,1,1.36,1,0.9665944869335322
+Wo0t,Team Heretics,iso,0,1.02,1,0.8155678358544529
+Biank,Trace Esports,breach,1,1.13,1,0.6610671107579416
+stax,T1,"kayo, sova",0,0.91,0,0.06559468188398426
+Foxy9,Gen.G,deadlock,0,0.66,0,0.06084571270435209
+Ethan,Mega Minors,kayo,0,0.99,0,0.12276860490391639
+jkuro,JDG Esports,"astra, brimstone, viper",1,1.08,1,0.5077765515069872
+Karon,Gen.G,omen,0,0.81,0,0.02428823390717392
+kaajak,FNATIC,sage,1,1.33,1,0.9721690537012441
+TvirusLuke,Titan Esports Club,"jett, raze, reyna, waylay",0,0.97,0,0.24872200736417985
+JitBoyS,TALON,"astra, cypher, killjoy, omen, viper, vyse",0,0.97,0,0.11299407422327284
+bang,Sentinels,"omen, viper",0,0.96,0,0.1484004115099526
+kellyS,Global Esports,"breach, deadlock",1,1.06,1,0.6802027334205105
+Yoyo,TYLOO,fade,0,0.87,0,0.07834619642432808
+trexx,Team Vitality,brimstone,0,0.88,0,0.025225420771082644
+baddyG,KOI,brimstone,0,0.95,0,0.27736895027492
+Flex1n,Dragon Ranger Gaming,astra,0,0.94,0,0.19260175970098486
+Boaster,FNATIC,omen,1,1.06,0,0.4447482234533277
+nAts,Team Liquid,cypher,0,1.03,1,0.6941773638402887
+trexx,Team Liquid,fade,1,1.2,1,0.8291377270817201
+Shyy,KRÜ Esports,"killjoy, vyse",1,1.2,1,0.663817136966745
+Lysoar,Wolves Esports,deadlock,1,1.17,1,0.8100798809863752
+Mazino,KRÜ Esports,kayo,0,0.85,0,0.14755650131783157
+ZesBeeW,Team Secret,omen,0,0.66,0,0.022701970072730886
+yokam,Global Esports,jett,0,0.18,0,0.015135093289733361
+Estrella,DRX,"fade, gekko, kayo, sage, viper",0,0.81,0,0.026337279166952353
+saadhak,Karmine Corp,fade,0,0.78,0,0.026370781531466575
+pANcada,LOUD,brimstone,1,1.31,1,0.8203020618539536
+stax,T1,fade,0,0.78,0,0.0295656781015269
+Dambi,Nongshim RedForce,neon,0,0.88,0,0.3099799716397746
+whzy,Bilibili Gaming,neon,1,1.55,1,0.9812622958845798
+Demon1,LEVIATÁN,astra,1,1.31,1,0.9714869660435641
+nAts,Team Liquid,"cypher, viper",1,1.43,1,0.9507652453308937
+Kada,Gentle Mates,omen,1,1.11,1,0.6134256620567361
+Minny,Gentle Mates,"deadlock, killjoy, viper",0,1.03,1,0.5477077177643837
+jawgemo,G2 Esports,neon,0,0.96,0,0.2383880362831659
+iZu,T1,yoru,0,0.73,0,0.08055817392589804
+f0rsakeN,Paper Rex,sova,0,0.87,0,0.10038403863687922
+leaf,G2 Esports,chamber,0,0.92,0,0.0891841081954904
+Foxy9,Gen.G,"deadlock, killjoy",1,1.31,1,0.9233232134107319
+stew,JDG Esports,yoru,1,1.58,1,0.9743794252663456
+FiNESSE,Mega Minors,vyse,1,1.11,1,0.6579377018205502
+keiko,Team Liquid,"brimstone, raze",1,1.23,1,0.9796487844699147
+nAts,Team Liquid,"chamber, viper",0,0.98,0,0.19228106330281483
+nephh,Bilibili Gaming,viper,0,1.0,0,0.3298935575320165
+cortezia,MIBR,cypher,0,0.97,1,0.5678965598872772
+Spitfires,All Gamers,yoru,0,0.88,1,0.6021833296735748
+Jieni7,EDward Gaming,waylay,0,0.71,0,0.04675562406439007
+soulcas,KOI,tejo,0,0.87,0,0.06234723872316254
+Killua,TALON,sova,1,1.34,1,0.9659693966296345
+Juicy,Wolves Esports,neon,0,1.0,0,0.4736067939026759
+C0M,LEVIATÁN,fade,0,0.86,0,0.022909553224795792
+Shao,Natus Vincere,omen,0,1.03,0,0.3370067479541818
+neT,Cloud9,deadlock,0,0.91,0,0.10901540423126184
+jawgemo,G2 Esports,yoru,0,1.03,0,0.313434835570997
+UdoTan,Global Esports,iso,1,1.18,1,0.8624813566992613
+Dambi,Nongshim RedForce,"neon, raze",0,0.94,0,0.46389916003365667
+crazyguy,Rex Regum Qeon,sage,1,1.3,1,0.9239617857323482
+FiNESSE,Mega Minors,cypher,0,0.73,0,0.024136752000770857
+Viva,Xi Lai Gaming,fade,0,0.93,0,0.15281757963652048
+free1ng,DRX,vyse,1,2.06,1,0.9814823359227955
+SiuFatBB,Wolves Esports,sova,1,1.29,1,0.8926078780248876
+yay,Evil Geniuses,"clove, jett",1,1.09,1,0.6571623106108472
+Dambi,Nongshim RedForce,neon,0,1.01,1,0.6214325356537743
+runneR,GIANTX,kayo,0,0.74,0,0.03266571204594911
+free1ng,DRX,sova,0,0.67,0,0.06215223053458421
+PROFEK,BBL Esports,brimstone,1,1.2,1,0.9479838024411644
+PatMen,Paper Rex,"fade, sova",0,0.6,0,0.02160637232330262
+xenom,MIBR,viper,1,1.53,1,0.9731843413351717
+Filu,KOI,neon,1,1.06,1,0.7514154476190027
+thyy,TALON,jett,0,0.9,0,0.16772017204978454
+MiniBoo,Team Heretics,jett,0,0.78,0,0.028241043782868302
+Mazino,KRÜ Esports,"sova, viper",1,1.06,1,0.8332276318337744
+JitBoyS,TALON,killjoy,0,0.83,0,0.0305125969416127
+HYUNMIN,DRX,jett,1,1.18,1,0.9619825254796519
+Ivy,Nongshim RedForce,tejo,0,0.82,0,0.02426397510372433
+kiNgg,LEVIATÁN,omen,1,1.08,0,0.4644889819585892
+Wild0reoo,Team Secret,jett,0,0.91,0,0.2575589626527881
+trent,G2 Esports,sova,1,1.23,1,0.9363408932630962
+leaf,G2 Esports,vyse,1,1.12,1,0.6634470916905909
+Sato,LEVIATÁN,"neon, raze, yoru",1,1.34,1,0.9670863011963038
+s0m,Mega Minors,omen,1,1.05,1,0.5776760437622811
+paTiTek,Team Liquid,gekko,0,0.82,0,0.05889559368591629
+yosemite,FunPlus Phoenix,cypher,0,0.96,0,0.31114765405948125
+Alfajer,FNATIC,raze,0,0.96,0,0.44828103424083826
+Zellsis,Sentinels,vyse,0,0.67,0,0.03222801349553548
+keiko,Team Liquid,raze,1,1.27,1,0.9298710722086899
+trexx,Team Liquid,gekko,0,0.88,0,0.10699818449581308
+Estrella,DRX,vyse,1,1.37,1,0.9629166739698337
+paTiTek,Team Liquid,skye,0,0.79,0,0.025032184660504303
+stax,T1,"fade, kayo, sova",0,1.04,0,0.3598665001637674
+Rb,Nongshim RedForce,"cypher, fade, kayo, sova, viper",0,0.98,0,0.16247573963439188
+Avez,Karmine Corp,tejo,0,0.87,0,0.028130248252903698
+Flex1n,Dragon Ranger Gaming,omen,1,1.12,1,0.6401148019583291
+Proxh,Gentle Mates,omen,0,0.93,0,0.04138769519718872
+Munchkin,Gen.G,breach,0,1.04,0,0.1904627994541188
+MAGNUM,BBL Esports,fade,1,1.13,1,0.8295577017547248
+Cloud,GIANTX,fade,1,1.16,1,0.90763523615645
+saadhak,Karmine Corp,"cypher, deadlock",0,0.86,0,0.05308993638065913
+keiko,Team Liquid,"harbor, iso, omen, raze",1,1.1,1,0.7986443616570419
+Shao,Natus Vincere,fade,1,1.34,1,0.9539443045365067
+BuZz,T1,neon,1,1.19,1,0.6897215160199549
+paTiTek,Team Liquid,fade,1,1.16,1,0.8831338886218966
+Xdll,ZETA DIVISION,sage,0,0.81,0,0.02907501264776851
+yay,Evil Geniuses,chamber,1,1.06,0,0.4190561455040602
+primmie,TALON,deadlock,1,1.21,1,0.9567756922801393
+baddyG,KOI,brimstone,0,0.95,0,0.29434397306841703
+zekken,Sentinels,neon,0,0.96,0,0.11933124991353351
+Jamppi,BBL Esports,"kayo, sova",0,1.03,1,0.5833351735618091
+Flickless,GIANTX,kayo,1,1.13,0,0.48757205993547426
+SyouTa,ZETA DIVISION,"viper, vyse",1,1.12,1,0.9698723405386234
+Dambi,Nongshim RedForce,"neon, yoru",0,1.03,1,0.6949766871625255
+BuZz,T1,yoru,0,0.96,1,0.8915403706523186
+mitch,Cloud9,fade,0,0.78,0,0.02538270817923521
+margaret,Nongshim RedForce,cypher,1,1.12,1,0.7606993730996355
+keznit,KRÜ Esports,"iso, omen, yoru",1,1.6,1,0.9771752195498884
+BuZz,T1,yoru,1,1.32,1,0.9691268135583442
+Zellsis,Sentinels,"cypher, viper",0,0.62,0,0.01586142979957787
+Z1yan,JDG Esports,omen,0,0.65,0,0.02653578217120262
+Foxy9,Gen.G,sage,0,1.03,0,0.27588343751756944
+f0rsakeN,Paper Rex,brimstone,1,1.13,1,0.885785902932555
+Meiy,DetonatioN FocusMe,jett,1,1.5,1,0.9829106106660784
+Serial,Team Liquid,astra,0,0.88,0,0.25510479598738167
+rushia,Bilibili Gaming,brimstone,1,1.43,1,0.9527397769849054
+Kushy,Rex Regum Qeon,"deadlock, fade, sova, vyse",0,0.99,0,0.07922474870267013
+Wild0reoo,Team Secret,breach,0,0.78,0,0.029755480238456655
+Asuna,100 Thieves,yoru,0,0.9,0,0.2511571154486051
+AtaKaptan,FUT Esports,astra,1,1.19,1,0.6944089775939474
+Filu,KOI,"iso, yoru",0,1.03,1,0.5573805940761741
+d4v41,Paper Rex,clove,0,0.7,0,0.054102334405908455
+AtaKaptan,FUT Esports,omen,0,0.93,0,0.06194666374874932
+crashies,FNATIC,sova,0,1.01,0,0.171377402996468
+zekken,Sentinels,jett,1,1.36,1,0.9548207675311192
+Viva,Xi Lai Gaming,fade,0,0.94,0,0.14478889856824995
+Juicy,Wolves Esports,yoru,0,1.0,0,0.4972053140631542
+Levius,Bilibili Gaming,viper,0,0.99,0,0.2213925379827649
+Akeman,Dragon Ranger Gaming,neon,0,0.87,0,0.10527456095808736
+MiniBoo,Team Heretics,neon,0,1.02,0,0.40668307739796533
+Munchkin,Gen.G,sova,0,0.66,0,0.016737185671704697
+something,Paper Rex,yoru,0,0.85,0,0.14143721598627473
+Ivy,Nongshim RedForce,deadlock,1,1.27,1,0.552863542791187
+Killua,TALON,gekko,1,1.13,0,0.4836333445609814
+MAGNUM,BBL Esports,viper,0,0.71,0,0.017620047869365236
+Juicy,Wolves Esports,yoru,0,0.72,0,0.04208991860565429
+Monyet,Rex Regum Qeon,omen,0,0.92,0,0.04479539582372587
+s0m,Mega Minors,viper,0,0.88,0,0.24883252211848317
+Persia,Nongshim RedForce,"astra, brimstone, omen",0,0.99,0,0.2710158912654786
+eeiu,100 Thieves,"fade, sova, tejo",1,1.08,1,0.5462668673578652
+xffero,Rex Regum Qeon,vyse,0,0.85,0,0.19839463724872033
+MAGNUM,BBL Esports,fade,0,1.01,1,0.5109165232071594
+SiuFatBB,Wolves Esports,tejo,0,0.81,0,0.017774720597041032
+HYUNMIN,DRX,"jett, raze",1,1.11,1,0.9505001560769507
+something,Paper Rex,"sova, yoru",1,1.1,1,0.8395067813848366
+alexiiik,Natus Vincere,"jett, neon, raze",0,0.63,0,0.015532426425408054
+Art,DetonatioN FocusMe,tejo,1,1.28,1,0.8917447407728066
+Ethan,Mega Minors,kayo,1,1.21,1,0.8596353742762205
+Askia,2Game Esports,yoru,0,1.03,1,0.6046468732741664
+d4v41,Paper Rex,"killjoy, sage, vyse",1,1.12,1,0.7950638398121828
+LewN,BBL Esports,"jett, raze, yoru",0,0.93,0,0.13790540427524486
+Meteor,T1,"iso, killjoy, reyna, viper, vyse",0,1.04,1,0.8404823041607186
+Boostio,100 Thieves,breach,0,0.81,0,0.1393744541666761
+stew,JDG Esports,iso,1,1.31,0,0.4462744813071902
+C0M,LEVIATÁN,"fade, sova",1,1.13,1,0.6729534314403637
+BeYN,DRX,sova,0,0.95,0,0.07861556515435787
+Shao,Natus Vincere,"astra, breach",1,1.15,1,0.7350067480525639
+Flashback,DRX,vyse,1,1.09,0,0.3622682459503879
+kaajak,FNATIC,yoru,0,1.02,0,0.42038357354001993
+n1zzy,Team Secret,neon,0,0.33,0,0.010969868964732754
+Ethan,Mega Minors,"fade, kayo, omen",1,1.13,1,0.9526709316879909
+Verno,MIBR,"sova, tejo",0,0.99,0,0.2946473667761204
+JitBoyS,TALON,astra,0,0.98,0,0.04866617210769033
+N4RRATE,Sentinels,fade,1,1.1,0,0.4830300693740361
+HYUNMIN,DRX,neon,0,0.91,0,0.16216379076138066
+neT,Cloud9,"astra, cypher, deadlock",0,0.85,0,0.09613491578955459
+MOLSI,Apeks,"fade, gekko, kayo, raze, sova",0,0.93,0,0.12892732074990845
+yoman,Global Esports,sage,1,1.15,1,0.8195413492918322
+BuZz,T1,"chamber, jett, neon, raze, yoru",0,0.98,0,0.31421325358636487
+NoMan,Xi Lai Gaming,"killjoy, raze",1,1.46,1,0.9709122209662077
+yoman,Gen.G,sova,0,0.87,0,0.03800397576917927
+slowly,TYLOO,killjoy,1,1.66,1,0.9773303113027789
+crashies,FNATIC,fade,1,1.12,1,0.7364694796599947
+Ivy,Nongshim RedForce,astra,1,1.21,1,0.9368966755531338
+Kr1stal,Global Esports,"sova, tejo",0,0.96,0,0.05559822189186481
+MiniBoo,Team Heretics,"raze, waylay, yoru",0,0.93,0,0.11469836836445872
+d4v41,Paper Rex,vyse,0,0.93,0,0.2514591803392853
+v1c,Cloud9,"brimstone, omen",0,0.79,0,0.05216119069605453
+Mazino,KRÜ Esports,skye,0,0.84,0,0.20356941169922713
+AvovA,Apeks,omen,1,1.11,0,0.28315564265262333
+Flickless,GIANTX,kayo,0,0.84,0,0.05834985987993548
+Elite,Karmine Corp,vyse,0,0.59,0,0.021665140826185966
+nzr,MIBR,"skye, sova",1,1.15,1,0.8036806552642667
+lz,2Game Esports,omen,1,1.19,1,0.9353134753636991
+mitch,Cloud9,tejo,0,0.75,0,0.022670057432848622
+TvirusLuke,Titan Esports Club,raze,1,1.12,1,0.8534864426889118
+RieNs,Team Heretics,sova,0,1.01,0,0.2742911545679425
+HYUNMIN,DRX,neon,0,0.99,1,0.7509987277948657
+heat,FURIA,killjoy,0,0.68,0,0.02332069485722872
+Alfajer,FNATIC,killjoy,1,1.18,1,0.9712528835966706
+keiko,Team Liquid,"astra, omen",1,1.43,1,0.9743588735691856
+marteen,Karmine Corp,yoru,0,0.95,0,0.12789805114946243
+N4RRATE,Sentinels,sova,1,1.76,1,0.9503875363450361
+Ivy,Nongshim RedForce,vyse,1,1.15,1,0.7596012538809597
+Boaster,FNATIC,"astra, omen",0,0.85,0,0.03066890513785137
+RieNs,Team Heretics,"breach, fade, sova",1,1.34,1,0.9769006815351854
+artzin,MIBR,"breach, gekko, harbor",0,0.51,0,0.011721366331975248
+ban,Global Esports,clove,0,0.49,0,0.019769839350902645
+yay,Evil Geniuses,clove,0,0.93,0,0.4616097694197322
+jawgemo,G2 Esports,"gekko, waylay, yoru",0,1.04,1,0.6723095993081434
+stax,T1,"breach, fade, kayo, sova",1,1.15,1,0.8683369385958178
+JessieVash,Team Secret,sova,1,1.14,1,0.787402111818723
+HanChe,All Gamers,killjoy,0,0.77,0,0.02745536744155719
+rushia,Bilibili Gaming,brimstone,1,1.2,1,0.9151842013434313
+Karon,Gen.G,"omen, viper",1,1.05,1,0.5126530249725374
+BerLIN,FunPlus Phoenix,omen,0,0.65,0,0.026829994585625034
+NoMan,Xi Lai Gaming,"chamber, deadlock, killjoy",1,1.2,1,0.8864802996837136
+Zellsis,Sentinels,"cypher, kayo, viper, vyse",0,0.89,0,0.056742684671188995
+thyy,TALON,neon,0,0.58,0,0.016246721441729898
+whzy,Bilibili Gaming,"jett, neon, raze",1,1.18,1,0.8921511311568007
+s0m,Mega Minors,viper,0,0.96,0,0.21836849543046055
+Estrella,DRX,cypher,0,0.99,1,0.660994193911108
+PatMen,Paper Rex,kayo,1,1.12,1,0.8520728078495637
+d4v41,Paper Rex,"sage, viper",1,1.1,1,0.5708197336868023
+Jinggg,Paper Rex,"omen, tejo",1,1.08,1,0.529968927059128
+C0M,LEVIATÁN,"fade, sova",0,0.91,0,0.027115296797062073
+Avez,Karmine Corp,"gekko, phoenix, sova",0,0.89,0,0.06246129073969469
+kamo,Team Liquid,"raze, yoru",1,1.3,1,0.960683005465637
+MONSTEERR,KOI,"cypher, killjoy",0,0.59,0,0.02515630073825367
+stax,T1,"fade, sova",0,0.87,0,0.06619282228445666
+Cloud,GIANTX,gekko,0,0.42,0,0.02104904027628967
+kamyk,Team Liquid,sova,0,0.84,0,0.03797108580370256
+crazyguy,Rex Regum Qeon,breach,0,0.97,0,0.19613364808124217
+leaf,G2 Esports,chamber,1,1.11,0,0.4031366012669628
+kamo,Team Liquid,"chamber, neon",0,1.01,1,0.6088221502866388
+crashies,FNATIC,sova,0,0.94,0,0.3244795627983842
+Ruxic,Natus Vincere,viper,1,1.59,1,0.9695607401434087
+s0m,Mega Minors,"brimstone, viper",1,1.35,1,0.97506633416556
+lucas,Titan Esports Club,fade,0,0.92,0,0.05758938771978696
+jakee,FURIA,clove,0,0.77,0,0.04330609446788488
+xenom,MIBR,"omen, viper",0,0.91,0,0.1155933039887277
+Francis,Nongshim RedForce,breach,1,1.26,1,0.934916816968279
+f0rsakeN,Paper Rex,astra,1,1.68,1,0.980621066202393
+cauanzin,LOUD,"breach, gekko, kayo, sova, vyse",0,0.92,0,0.18306697897109542
+hiro,Natus Vincere,vyse,0,0.92,0,0.23061291629984954
+brawk,Mega Minors,sova,1,1.69,1,0.9695335145353414
+Monyet,Rex Regum Qeon,omen,1,1.13,1,0.5598912331279866
+d4v41,Paper Rex,sage,0,0.87,0,0.104887011739165
+Crws,TALON,"breach, fade, skye, sova",0,0.75,0,0.02141303103083468
+Shao,Natus Vincere,tejo,1,1.27,1,0.9632130763661644
+free1ng,DRX,viper,0,0.8,0,0.028280877562806783
+s0m,Mega Minors,harbor,0,1.02,1,0.7695178067723961
+Deryeon,Global Esports,jett,0,0.61,0,0.03534151466234184
+Jinggg,Paper Rex,raze,1,1.14,1,0.5223051217379778
+johnqt,Sentinels,tejo,0,0.7,0,0.025196182777118038
+SiuFatBB,Wolves Esports,fade,0,0.88,0,0.13416361327365858
+HYUNMIN,DRX,"jett, raze",1,1.23,1,0.9611552421796499
+Zellsis,Sentinels,vyse,0,0.96,0,0.3862106872856592
+paTiTek,Team Liquid,kayo,0,0.75,0,0.044225197131783515
+Less,Team Vitality,viper,0,0.75,0,0.04985231416598115
+Flashback,DRX,viper,0,0.55,0,0.019236676529392142
+mada,Mega Minors,jett,1,1.07,0,0.2614052254181724
+xeus,FUT Esports,"chamber, jett, neon, waylay, yoru",0,1.0,1,0.572518101763503
+JonahP,G2 Esports,"breach, kayo",0,0.84,0,0.06353807446249901
+Yuicaw,Wolves Esports,chamber,0,0.72,0,0.03751786330570336
+heybay,Trace Esports,"breach, kayo, viper",0,0.69,0,0.015254043144726588
+Cloud,GIANTX,"fade, sova",1,1.34,1,0.9514318984144691
+rushia,Bilibili Gaming,"harbor, omen",1,1.27,1,0.9650006160603641
+Monyet,Rex Regum Qeon,raze,1,1.22,1,0.8133867118814864
+Nicc,Dragon Ranger Gaming,"breach, sova",0,0.96,0,0.12037434040514941
+Yuicaw,Wolves Esports,killjoy,0,0.68,0,0.017257968434571107
+BuZz,T1,yoru,0,0.96,0,0.18585513361210215
+Xeppaa,Cloud9,tejo,0,1.01,0,0.2858447776830851
+Xeppaa,Cloud9,yoru,1,1.81,1,0.9286752451439204
+Munchkin,Gen.G,"kayo, viper",0,0.99,0,0.4685125749699227
+penny,Apeks,jett,0,0.92,0,0.08682670043755909
+Wo0t,Team Heretics,iso,1,1.3,1,0.9415242841095854
+kamyk,Gentle Mates,tejo,0,0.2,0,0.01953027787379667
+johnqt,Sentinels,cypher,0,0.89,0,0.09270265397071191
+paTiTek,Team Liquid,"breach, fade, kayo, skye, viper",0,0.99,0,0.11835418901207458
+Knight,Bilibili Gaming,"sova, tejo",1,1.32,1,0.9545417827628305
+d4v41,Paper Rex,killjoy,0,0.83,0,0.23898994649372649
+Xdll,ZETA DIVISION,breach,0,0.99,0,0.40016796584323217
+AvovA,Apeks,viper,0,0.47,0,0.02620988555901285
+happywei,Xi Lai Gaming,viper,0,1.04,1,0.5753190774818648
+something,Paper Rex,"gekko, jett, sova, yoru",0,0.96,0,0.15947996821030846
+xeus,FUT Esports,neon,0,0.68,0,0.018241190220915117
+xeus,FUT Esports,"neon, raze",1,1.18,1,0.9609717356331374
+RobbieBk,Gentle Mates,sova,1,1.11,0,0.4188873503266706
+kamyk,Team Liquid,sova,0,0.67,0,0.03276638011093617
+free1ng,DRX,tejo,1,1.16,1,0.9474899308396065
+keiko,Team Liquid,"brimstone, killjoy, raze",1,1.45,1,0.98101376155152
+tex,LEVIATÁN,"cypher, gekko, killjoy",0,0.84,0,0.06484054034441158
+BuZz,T1,"chamber, yoru",0,0.84,0,0.08157108759308229
+Kushy,Rex Regum Qeon,sova,0,0.86,0,0.05278830356578074
+Kushy,Rex Regum Qeon,sova,1,1.35,1,0.9644623870419577
+Ivy,Nongshim RedForce,deadlock,0,0.69,0,0.06159112841798203
+TvirusLuke,Titan Esports Club,"jett, raze",0,0.94,0,0.3621277455335773
+artzin,MIBR,kayo,0,0.54,0,0.014985286411261869
+artzin,MIBR,yoru,1,1.14,1,0.7224471853783025
+Shr1mp,All Gamers,"fade, sova",1,1.37,1,0.971923038075283
+lukxo,LOUD,"cypher, viper, vyse",1,1.21,1,0.9574905799862917
+Avez,Karmine Corp,gekko,0,0.8,0,0.08408895244620435
+kaajak,FNATIC,yoru,1,2.47,1,0.9783553807829104
+MrCANI,JDG Esports,"breach, fade, gekko",0,1.0,0,0.09634795661309095
+Shyy,KRÜ Esports,"chamber, vyse",0,0.86,0,0.06346104550682054
+brawk,Mega Minors,vyse,1,1.85,1,0.9782858146871755
+Estrella,DRX,sage,0,1.02,1,0.6066825518869731
+Monyet,Rex Regum Qeon,waylay,0,0.75,0,0.030969786931295117
+jawgemo,G2 Esports,"raze, yoru",0,0.85,0,0.12456534930185607
+Cryocells,100 Thieves,"brimstone, jett, sage",1,1.25,1,0.9784677657983709
+neT,Cloud9,"deadlock, viper",0,0.9,0,0.04164447997611516
+Click,Gentle Mates,jett,0,0.56,0,0.012711405635175798
+nephh,Bilibili Gaming,"kayo, omen",1,1.33,1,0.9135433420113532
+Akeman,Dragon Ranger Gaming,cypher,0,0.66,0,0.029765692597100577
+yetujey,FUT Esports,cypher,0,0.64,0,0.010780081910616019
+t3xture,Gen.G,raze,0,0.79,0,0.21845050931605586
+LewN,BBL Esports,yoru,0,0.39,0,0.015253433091791212
+sword9,TYLOO,omen,1,1.06,0,0.40024355800796246
+SpiritZ1,Dragon Ranger Gaming,yoru,0,0.74,0,0.09132162876904107
+Ezeir,Nova Esports,omen,0,0.52,0,0.023281891885892844
+MaKo,DRX,viper,0,0.54,0,0.016490350570737593
+iZu,T1,"cypher, fade, tejo, yoru",1,1.34,1,0.9449861799893778
+OBONE,Nova Esports,killjoy,0,0.98,0,0.06273473365416687
+Flashback,DRX,vyse,0,1.04,0,0.47816413930500296
+Alfajer,FNATIC,vyse,1,1.49,1,0.9596669304415798
+cortezia,MIBR,cypher,0,0.55,0,0.01648895490897326
+Knight,Bilibili Gaming,fade,0,0.88,0,0.15520756539362146
+Smoggy,EDward Gaming,omen,1,1.77,1,0.9747989784060034
+Asuna,100 Thieves,neon,0,0.88,0,0.14229989844787722
+Boo,Team Heretics,omen,0,0.46,0,0.024741637808631405
+Jieni7,EDward Gaming,neon,0,0.63,0,0.03866917511226582
+Avez,Karmine Corp,fade,0,0.79,0,0.09515231186338782
+nAts,Team Liquid,viper,1,1.36,1,0.975788393616243
+TenTen,ZETA DIVISION,"neon, yoru",0,0.94,0,0.19806252214213635
+Meiy,DetonatioN FocusMe,"jett, neon, raze, yoru",0,0.9,0,0.08021550994794123
+Shr1mp,FunPlus Phoenix,"breach, fade, tejo",0,0.81,0,0.043015822818480244
+Verno,Mega Minors,sova,0,0.78,0,0.0319506902936572
+HYUNMIN,DRX,raze,1,1.08,1,0.5469353814758828
+Minny,Gentle Mates,vyse,0,0.76,0,0.06870123625375728
+MOLSI,Apeks,"breach, viper",0,0.82,0,0.034129238282308585
+paTiTek,Team Liquid,fade,1,1.13,1,0.795715726985576
+Rarga,Xi Lai Gaming,"chamber, waylay, yoru",1,1.31,1,0.9678928610738265
+Filu,KOI,jett,1,1.17,1,0.5875067666554523
+coconut,Xi Lai Gaming,omen,0,0.65,0,0.027412840598434823
+PatMen,Paper Rex,fade,0,0.92,0,0.07183318265597563
+Ash,Gen.G,tejo,0,1.02,0,0.19156810120062007
+Viva,Xi Lai Gaming,sova,0,0.96,0,0.154430954415163
+westside,GIANTX,cypher,0,0.9,0,0.06746688125391363
+zekken,Sentinels,jett,0,0.88,0,0.22045065654379842
+JitBoyS,TALON,killjoy,0,0.52,0,0.016567094241583032
+XII,FunPlus Phoenix,kayo,0,0.9,0,0.12997752955573902
+whzy,Bilibili Gaming,neon,0,0.52,0,0.016167771182508638
+t3xture,Gen.G,jett,0,0.94,1,0.670172031678222
+Dambi,Nongshim RedForce,raze,0,0.45,0,0.01819549516335378
+Jieni7,EDward Gaming,omen,0,0.84,0,0.12071183333354266
+Avez,Karmine Corp,"phoenix, raze",1,1.47,1,0.9780295579230035
+HYUNMIN,DRX,neon,1,1.21,1,0.8959701678018267
+Wild0reoo,Team Secret,yoru,0,0.99,0,0.3583231855586657
+Xeppaa,Cloud9,"killjoy, vyse",0,0.96,0,0.20692237577506883
+batujnax,Apeks,sova,0,0.36,0,0.011575988445108225
+trent,G2 Esports,sova,1,1.18,1,0.9057544059466319
+Xdll,ZETA DIVISION,fade,1,1.4,1,0.8772227174134837
+Derrek,Evil Geniuses,tejo,1,1.19,1,0.9431286071489403
+Shiro,BOOM Esports,sova,0,1.01,0,0.39125967632809977
+Sato,LEVIATÁN,yoru,1,1.28,1,0.9392647664072346
+mindfreak,Paper Rex,"astra, brimstone, omen",0,0.9,0,0.05256180371014695
+Francis,Nongshim RedForce,"fade, sova",1,1.2,1,0.9331995212855682
+Zyppan,Gentle Mates,kayo,1,1.25,1,0.9257533698382285
+bang,Sentinels,omen,1,1.52,1,0.9767110995976931
+JonahP,G2 Esports,"viper, vyse",1,1.38,1,0.980209906341808
+PatMen,Paper Rex,sova,0,0.86,0,0.1779620329404806
+Flickless,GIANTX,"breach, kayo",0,0.98,0,0.3146203149647388
+OXY,Cloud9,jett,1,1.42,1,0.9799538751556033
+valyn,G2 Esports,omen,1,1.24,1,0.9455714645386288
+MiniBoo,Team Heretics,yoru,0,0.66,0,0.06905486962468521
+Sayf,Team Vitality,tejo,0,0.82,0,0.04708317857022187
+Filu,KOI,raze,0,0.68,0,0.09274954700583325
+BerserX,BOOM Esports,killjoy,1,1.25,1,0.9673084513284145
+kaajak,FNATIC,raze,1,1.55,1,0.983840917693368
+Derke,Team Vitality,raze,1,1.54,1,0.9653285901808396
+iZu,T1,"gekko, neon",0,0.56,0,0.015011332056820594
+Jamppi,BBL Esports,sova,1,1.81,1,0.9741865028346022
+Viva,Xi Lai Gaming,sova,0,0.65,0,0.0793418949376692
+trent,G2 Esports,"fade, tejo",0,0.98,0,0.1894525962429661
+Wild0reoo,Team Secret,omen,0,0.54,0,0.032786334472704716
+stax,T1,breach,0,0.73,0,0.023656387200278895
+invy,Team Secret,"fade, sova",1,1.11,1,0.7876883037637592
+C0M,LEVIATÁN,sova,0,1.03,0,0.37675067648210014
+kamyk,Team Liquid,clove,1,1.26,1,0.9697206970123466
+zekken,Sentinels,neon,1,1.32,1,0.9782899379329117
+Jemkin,Rex Regum Qeon,"jett, neon, yoru",1,1.42,1,0.9656275308324928
+Rb,Nongshim RedForce,"cypher, viper",0,0.91,0,0.2002137826024149
+bang,Sentinels,viper,1,1.37,1,0.9218015366439688
+Cloud,GIANTX,"fade, sova",0,0.95,0,0.07808066596148468
+crashies,FNATIC,sova,1,1.12,1,0.7696240341391041
+Kushy,Rex Regum Qeon,kayo,0,0.2,0,0.013232014923641197
+LewN,BBL Esports,jett,0,0.53,0,0.017120905158132645
+stax,T1,"fade, sova",0,0.64,0,0.034485753458352794
+johnqt,Sentinels,"cypher, sova, viper",1,1.14,1,0.7316058796881039
+icy,Evil Geniuses,"killjoy, raze",1,1.17,1,0.9353114468092549
+trent,G2 Esports,"fade, sova, tejo",1,1.17,1,0.9231000213362814
+westside,GIANTX,vyse,1,1.1,1,0.7270549455709288
+MiniBoo,Team Heretics,raze,1,1.23,1,0.9226127970039885
+Papi,Global Esports,"astra, omen",0,0.87,0,0.09612569025161191
+Munchkin,Gen.G,viper,1,1.07,1,0.7092035320816817
+NoMan,Xi Lai Gaming,chamber,0,0.67,0,0.024586473983194312
+Jamppi,BBL Esports,sova,0,0.76,0,0.08268871604325627
+Derke,Team Vitality,"jett, neon, raze, yoru",1,1.12,1,0.8530818302856227
+zander,100 Thieves,omen,0,1.02,0,0.16316276328915735
+vo0kashu,Dragon Ranger Gaming,viper,0,0.68,0,0.055967211680986596
+kiNgg,LEVIATÁN,"neon, viper",1,1.08,1,0.7662431176795542
+Ruxic,Natus Vincere,"omen, viper",1,1.34,1,0.9760760795330959
+ZmjjKK,EDward Gaming,jett,1,2.04,1,0.9851577429126069
+Art,DetonatioN FocusMe,tejo,0,0.64,0,0.014024460519334406
+MiniBoo,Team Heretics,"raze, yoru",0,0.75,0,0.05517331349199484
+Kicks,Team Vitality,brimstone,0,0.87,0,0.0680311572904393
+margaret,Nongshim RedForce,killjoy,0,0.74,0,0.03514591542720214
+tex,LEVIATÁN,cypher,0,0.91,0,0.04421128311334393
+dos9,BOOM Esports,omen,1,1.33,1,0.9809704231707398
+KovaQ,Team Vitality,breach,0,0.94,0,0.27130218432656933
+whzy,Bilibili Gaming,neon,1,1.42,1,0.9666130789268231
+MOLSI,Apeks,"breach, deadlock",1,1.16,1,0.969559569451833
+Francis,Nongshim RedForce,"fade, sova",0,0.77,0,0.0264660038789073
+NcSlasher,BOOM Esports,breach,0,0.37,0,0.02951897814940209
+Levius,Bilibili Gaming,viper,1,1.28,1,0.964532000944715
+Shyy,KRÜ Esports,viper,0,0.46,0,0.02954123501049726
+Spring,Wolves Esports,viper,1,1.12,1,0.7633795022923716
+Knight,Bilibili Gaming,sova,1,1.11,0,0.3150378718878953
+Alfajer,FNATIC,cypher,0,0.94,0,0.10067540598654368
+crazyguy,Rex Regum Qeon,kayo,0,0.76,0,0.04360579987746517
+zekken,Sentinels,neon,1,1.07,1,0.5711701441303368
+Art,DetonatioN FocusMe,omen,0,0.18,0,0.014400745667677134
+dgzin,LOUD,raze,0,0.73,0,0.02465977829824355
+JonahP,G2 Esports,viper,0,0.74,0,0.01903416287574233
+Meteor,T1,"astra, cypher",1,1.06,1,0.8627268506037026
+Rossy,LEVIATÁN,deadlock,0,0.37,0,0.013738070543760538
+BeYN,DRX,"breach, fade, sova",1,1.08,0,0.3279779485940984
+rushia,Bilibili Gaming,harbor,1,1.06,1,0.8353163999586322
+Less,Team Vitality,"cypher, viper",1,1.06,1,0.770413525698156
+cortezia,MIBR,viper,0,0.84,0,0.052310681971561704
+UdoTan,Global Esports,killjoy,1,1.11,1,0.8517101982859286
+d4v41,Paper Rex,sage,1,1.47,1,0.9701837329204601
+Asuna,100 Thieves,neon,0,0.82,0,0.04709597493168625
+keiko,Team Liquid,jett,1,1.3,1,0.9523360773149813
+trent,G2 Esports,sova,1,1.51,1,0.9049744500885931
+Wo0t,Team Heretics,jett,0,0.92,0,0.16348065307777696
+LuoK1ng,Trace Esports,omen,0,1.0,1,0.7760075892258029
+nephh,Bilibili Gaming,tejo,0,1.02,1,0.6934402663242116
+stax,T1,sova,0,0.86,0,0.042890114279106675
+valyn,G2 Esports,"brimstone, omen",1,1.07,1,0.536877508783284
+purp0,GIANTX,astra,0,0.96,0,0.14850553315877896
+free1ng,DRX,tejo,1,1.14,1,0.8917949770667821
+RieNs,Team Heretics,fade,1,1.45,1,0.9765609044963576
+xenom,MIBR,omen,0,0.87,0,0.060363965061566
+kamyk,Gentle Mates,kayo,1,1.07,0,0.4645182701551633
+HYUNMIN,DRX,raze,1,1.12,1,0.9206518364835271
+Killua,TALON,"fade, sova",0,0.91,0,0.24526335832077228
+tex,LEVIATÁN,cypher,0,0.75,0,0.0606563883996157
+nzr,MIBR,sova,0,0.93,0,0.08181587118334552
+kaajak,FNATIC,"raze, yoru",1,1.34,1,0.9319491134196949
+grubinho,GIANTX,"omen, viper",0,0.66,0,0.04525117954283323
+JonahP,G2 Esports,kayo,0,0.99,0,0.14399143990875127
+Shiro,BOOM Esports,sova,0,0.53,0,0.01931923502961792
+Click,Gentle Mates,"jett, neon",1,1.22,1,0.9445725609267733
+stax,T1,fade,1,1.18,1,0.8793931574212639
+Killua,TALON,"tejo, vyse",1,1.08,0,0.454432717203143
+paTiTek,Team Liquid,"fade, tejo",0,0.82,0,0.12391249962945211
+grubinho,GIANTX,omen,0,0.82,0,0.3442235490480341
+ara,GIANTX,neon,1,1.74,1,0.9826310745435065
+kellyS,Global Esports,vyse,0,0.84,0,0.044292665511966374
+paTiTek,Team Liquid,breach,1,1.28,1,0.8742682811321749
+Virtyy,LOUD,raze,1,1.26,1,0.902392290082301
+silentzz,2Game Esports,raze,0,0.79,0,0.12597490904608655
+CyvOph,Team Vitality,omen,1,1.56,1,0.9758748874205674
+N4RRATE,Sentinels,"fade, omen",0,0.78,0,0.13107008288215588
+d4v41,Paper Rex,skye,1,1.23,1,0.9296860225700765
+sheydos,KOI,"breach, killjoy",0,0.92,0,0.37550564996662195
+trexx,Team Liquid,sova,1,1.28,1,0.9324521499033285
+flyuh,KOI,"sova, vyse",0,0.54,0,0.027694139102070726
+valyn,G2 Esports,astra,0,0.75,0,0.056326971012828735
+f0rsakeN,Paper Rex,sova,0,0.67,0,0.03478328243226995
+Dep,ZETA DIVISION,neon,1,1.64,1,0.9765309797659595
+JessieVash,Team Secret,cypher,0,1.04,1,0.6931734159425365
+kellyS,Team Secret,raze,0,0.81,0,0.10503993873045742
+Shyy,KRÜ Esports,"cypher, viper, vyse",1,1.4,1,0.9683482572957439
+xffero,Rex Regum Qeon,cypher,0,0.76,0,0.11559972557328262
+stax,T1,"kayo, sova",0,0.94,0,0.053924956105188625
+Ninebody,TYLOO,jett,0,0.74,0,0.10020695856396777
+Jieni7,EDward Gaming,"kayo, neon",1,1.15,1,0.9628077365178914
+free1ng,DRX,tejo,1,1.3,1,0.9699628250388744
+SugarZ3ro,ZETA DIVISION,brimstone,0,0.63,0,0.034235510808691104
+raafa,FURIA,breach,0,0.82,0,0.03961454639526257
+LewN,BBL Esports,yoru,1,1.48,1,0.9692733059320259
+Melser,KRÜ Esports,omen,1,1.12,1,0.5297091688449349
+f0rsakeN,Paper Rex,tejo,1,1.72,1,0.9806760409963382
+happywei,Xi Lai Gaming,"viper, vyse",1,1.22,1,0.9634541904184432
+Wo0t,Team Heretics,iso,0,0.81,0,0.15100712281970088
+Minny,Gentle Mates,killjoy,0,0.82,0,0.030652492477118442
+YOU,Xi Lai Gaming,"breach, brimstone, vyse",0,1.03,0,0.22460665370445634
+artzin,MIBR,"harbor, yoru",0,0.54,0,0.03285110263479428
+mitch,Cloud9,"fade, skye",0,0.94,0,0.09611197805624519
+PxS,2Game Esports,"fade, kayo",0,0.8,0,0.07908034935277075
+Ethan,Mega Minors,omen,0,1.04,0,0.33793993855566695
+NaturE,Evil Geniuses,breach,0,0.33,0,0.02030626693380035
+xffero,Rex Regum Qeon,"cypher, killjoy, viper",1,1.1,1,0.7011445215328839
+hiro,Natus Vincere,"omen, vyse",0,0.83,0,0.05129623898752543
+tuyz,LOUD,breach,0,0.92,0,0.03431861413322833
+BeYN,DRX,fade,1,1.2,1,0.8900107444317906
+Levius,Bilibili Gaming,"cypher, killjoy, vyse",0,0.9,0,0.08366543623163297
+Killua,TALON,"gekko, sova",0,0.76,0,0.035093421766626644
+Coco,Titan Esports Club,viper,1,1.09,1,0.8674236180215933
+Ivy,Nongshim RedForce,deadlock,1,1.31,1,0.732064969982871
+supamen,Evil Geniuses,omen,1,1.14,1,0.8562064735372082
+PxS,2Game Esports,"breach, fade, kayo, sova",0,0.81,0,0.04102031804134293
+tuyz,LOUD,cypher,0,1.0,1,0.5547993231850691
+Khalil,FURIA,viper,0,0.66,0,0.0336267542057626
+Virtyy,LOUD,jett,1,1.16,1,0.6469889012344887
+nAts,Team Liquid,cypher,0,0.86,0,0.20390201735677604
+MarT1n,Trace Esports,deadlock,0,0.68,0,0.027934965997992205
+Zellsis,Sentinels,cypher,0,0.93,0,0.11863590116492492
+MaKo,DRX,omen,1,1.23,1,0.5975054044541142
+Nicc,Dragon Ranger Gaming,fade,0,0.62,0,0.06873041685030076
+Cryocells,100 Thieves,chamber,1,1.71,1,0.9765480873191976
+Rb,Titan Esports Club,breach,0,0.89,0,0.18588657371394082
+Kai,"Pure Aim, Trace Esports","chamber, jett, killjoy, neon, vyse, yoru",1,1.14,1,0.9344004924759147
+Meteor,T1,vyse,1,1.42,1,0.9544059469852596
+saadhak,Karmine Corp,cypher,0,0.84,0,0.05362866148057206
+Verno,MIBR,"sova, tejo",1,1.39,1,0.7477900026073383
+PatMen,Paper Rex,breach,0,0.94,0,0.10589662389447894
+Kicks,Team Vitality,breach,0,0.81,0,0.09876561666168329
+Cryocells,100 Thieves,iso,0,0.9,0,0.07922118623943424
+trexx,Team Vitality,"brimstone, vyse",1,1.33,1,0.9723941168806103
+Yuicaw,Wolves Esports,gekko,0,0.59,0,0.017972411713909578
+Coco,Titan Esports Club,breach,0,0.92,0,0.3225667482713942
+Estrella,DRX,fade,1,1.15,1,0.6683943062930677
+Francis,Nongshim RedForce,fade,0,1.02,0,0.12702520501404088
+Sayf,Team Vitality,yoru,0,0.79,0,0.027031744683172133
+Dambi,Nongshim RedForce,neon,1,1.09,0,0.4562143146919549
+Cangshu,Dragon Ranger Gaming,"tejo, viper",0,0.97,0,0.08383315624572664
+something,Paper Rex,breach,1,1.08,1,0.9228348174817291
+Kai,"Pure Aim, Trace Esports",yoru,1,1.11,1,0.8485837975440202
+ZmjjKK,EDward Gaming,"iso, yoru",1,1.4,1,0.9703184010030995
+zekken,Sentinels,"jett, raze",0,0.92,0,0.13551806262722746
+JitBoyS,TALON,deadlock,1,1.3,1,0.8751647662207575
+N4RRATE,Sentinels,gekko,0,1.04,1,0.611623199646249
+CHICHOO,EDward Gaming,cypher,1,1.07,1,0.8232377876480629
+artzin,MIBR,breach,0,0.72,0,0.1187023174914162
+Sato,LEVIATÁN,"jett, raze, yoru",1,1.28,1,0.9373352865273036
+Shyy,KRÜ Esports,vyse,1,1.6,1,0.9801040990771874
+pANcada,LOUD,"brimstone, omen",1,1.1,1,0.5936606153899915
+batujnax,Apeks,killjoy,0,0.76,0,0.08013553498985562
+d4v41,Paper Rex,"viper, vyse",1,1.05,1,0.6227634653701957
+SSeeS,DetonatioN FocusMe,"fade, omen, sova",0,0.66,0,0.015810926928943512
+Shiro,BOOM Esports,kayo,1,1.16,1,0.6526910741276338
+v1c,Cloud9,"astra, omen",1,1.44,1,0.971713023357985
+paTiTek,Team Liquid,sova,0,0.91,0,0.10919667263371863
+koalanoob,Natus Vincere,sage,0,0.83,0,0.19979653233960118
+primmie,TALON,iso,0,0.88,1,0.5180331927280524
+Knight,Bilibili Gaming,fade,1,1.56,1,0.9841791681789401
+kamo,Team Liquid,yoru,1,1.14,1,0.952401080444265
+flyuh,KOI,sova,0,0.8,0,0.36118124442909666
+nAts,Team Liquid,cypher,0,0.65,0,0.0658494757546072
+trexx,Team Liquid,gekko,0,0.87,0,0.10252834964532573
+kamo,Team Liquid,gekko,0,0.92,1,0.7591339849963393
+runneR,GIANTX,"breach, kayo, vyse",0,0.94,0,0.04724148567969154
+N4RRATE,Sentinels,breach,1,1.09,1,0.8628624601824249
+Yoyo,TYLOO,sova,0,0.48,0,0.013731526465837184
+crazyguy,Rex Regum Qeon,breach,0,0.7,0,0.03966644566583188
+ban,Global Esports,"clove, viper",0,0.86,0,0.12994619647091502
+Urango,FURIA,breach,0,0.61,0,0.013791751945974998
+kamo,Team Liquid,neon,0,0.9,0,0.11376572027052942
+Click,Gentle Mates,raze,0,0.29,0,0.011653621702749478
+Francis,Nongshim RedForce,sova,1,1.89,1,0.9808721515550828
+Demon1,LEVIATÁN,brimstone,1,1.24,1,0.959304132432309
+xenom,MIBR,"omen, viper",0,0.71,0,0.016884257792727984
+Kai,Trace Esports,yoru,1,1.16,1,0.823297013251521
+sword9,TYLOO,"fade, omen",1,1.13,1,0.767927911750752
+Minny,Gentle Mates,cypher,1,1.09,1,0.7716073946901976
+Jamppi,BBL Esports,breach,0,0.83,0,0.07314651928150155
+LewN,BBL Esports,"iso, jett, neon, phoenix, raze, yoru",0,0.98,0,0.20571914388499238
+Filu,KOI,yoru,0,0.59,0,0.03690455364689447
+sociablEE,BBL Esports,tejo,0,0.94,0,0.11712519621309594
+d4v41,Paper Rex,viper,0,0.98,0,0.4472853061244363
+brawk,Mega Minors,gekko,1,1.22,1,0.914913698719616
+leaf,G2 Esports,vyse,1,1.48,1,0.9821365859053308
+CLZ,ZETA DIVISION,"deadlock, killjoy, omen, sova, vyse",0,0.69,0,0.021152666720444146
+iZu,T1,"neon, yoru",0,0.99,1,0.6662676396487814
+MONSTEERR,KOI,viper,0,0.94,0,0.21832519788518384
+Jremy,Team Secret,jett,0,0.65,0,0.023257901182580486
+v1c,Cloud9,brimstone,0,0.91,0,0.07807092356150898
+pryze,FURIA,sova,1,1.56,1,0.9632731670170744
+margaret,Nongshim RedForce,cypher,0,0.58,0,0.02529872875761572
+artzin,MIBR,yoru,1,1.07,1,0.7231012354547485
+Knight,Bilibili Gaming,sova,0,1.04,0,0.25401670117831393
+xeus,FUT Esports,"jett, waylay",0,0.49,0,0.03297644043758717
+vo0kashu,Dragon Ranger Gaming,vyse,1,1.44,1,0.9751021525044925
+Meteor,T1,cypher,0,0.93,0,0.2717417843268999
+TvirusLuke,Titan Esports Club,"jett, reyna",0,0.75,0,0.023734730781120095
+BuZz,T1,"neon, raze",1,1.08,0,0.32911734464861037
+Yuicaw,Wolves Esports,kayo,1,1.18,1,0.6123626212103397
+Boaster,FNATIC,omen,0,0.81,0,0.03111653413092403
+whzy,Bilibili Gaming,jett,1,1.31,1,0.9740999455487763
+MrCANI,JDG Esports,omen,1,1.11,1,0.7719805829320051
+cauanzin,LOUD,"fade, tejo",0,0.9,0,0.11349318707133377
+Urango,FURIA,killjoy,0,0.27,0,0.009555256854299303
+Monyet,Rex Regum Qeon,neon,0,0.74,0,0.06107950515272361
+mada,Mega Minors,waylay,1,1.13,1,0.8746585359634805
+TvirusLuke,Titan Esports Club,jett,0,0.37,0,0.009585834508026572
+Boo,Team Heretics,omen,0,0.75,0,0.06796466215974435
+aspas,MIBR,jett,1,1.36,1,0.979465354029475
+Yoyo,TYLOO,fade,1,1.06,1,0.7869116987059354
+Kr1stal,Global Esports,fade,1,1.4,1,0.8513439669904843
+MrFaliN,FUT Esports,breach,1,1.12,1,0.7288022403298602
+OXY,Cloud9,"jett, neon, raze, yoru",1,1.17,1,0.9450143178123972
+zekken,Sentinels,"jett, neon, raze, yoru",1,1.09,1,0.8047062494817916
+grubinho,GIANTX,astra,0,1.01,0,0.09910258112790615
+tomaszy,GIANTX,omen,0,0.49,0,0.0142827668339278
+Lysoar,Wolves Esports,omen,0,0.9,0,0.09222944812250175
+Boaster,FNATIC,"astra, omen",0,0.68,0,0.024473580723565147
+Xeppaa,Cloud9,tejo,0,0.97,0,0.21867499052490214
+Xdll,ZETA DIVISION,skye,0,0.66,0,0.030189240657041656
+Derrek,Evil Geniuses,sova,0,0.84,0,0.19569251786997535
+xffero,Rex Regum Qeon,cypher,0,0.64,0,0.023592096217619943
+iZu,T1,"waylay, yoru",0,1.04,1,0.554563669766923
+BeYN,DRX,fade,0,1.04,0,0.22634996171013713
+kellyS,Global Esports,vyse,0,0.58,0,0.028406329091778825
+SugarZ3ro,ZETA DIVISION,"omen, viper",0,1.02,1,0.5311880397301185
+PROFEK,BBL Esports,omen,0,1.03,0,0.3567778811235932
+Flashback,DRX,yoru,1,1.18,1,0.9218646837229074
+Monyet,Rex Regum Qeon,omen,1,1.15,1,0.9352390084295754
+valyn,G2 Esports,omen,0,0.69,0,0.053124596586479673
+JonahP,G2 Esports,"fade, sage, sova, vyse",0,0.91,0,0.05036589865192189
+Life,FunPlus Phoenix,yoru,0,0.57,0,0.07281414578295714
+Ash,Gen.G,"fade, tejo",1,1.34,1,0.9674256344903297
+Kada,Gentle Mates,"astra, cypher",0,0.96,0,0.026876186098699597
+slowly,TYLOO,"jett, killjoy, omen, raze, yoru",1,1.2,1,0.8909708880355137
+heat,FURIA,clove,0,0.93,1,0.6980915281249194
+SSeeS,DetonatioN FocusMe,fade,0,0.47,0,0.015834753936512153
+eeiu,100 Thieves,tejo,1,1.31,1,0.8614954924599751
+Dambi,Nongshim RedForce,neon,1,1.2,1,0.9398319561320387
+leaf,G2 Esports,viper,1,1.12,1,0.9569612028802812
+Kushy,Rex Regum Qeon,sova,1,1.12,1,0.7064307273101558
+Biank,Trace Esports,"breach, cypher, tejo, vyse",0,0.89,0,0.028648401899939002
+Ivy,Nongshim RedForce,fade,0,0.82,0,0.018376629163935457
+Coco,Titan Esports Club,"breach, viper",0,0.74,0,0.03263413282193354
+neT,Cloud9,"astra, cypher, deadlock, killjoy",0,0.83,0,0.045126792094875814
+SyouTa,ZETA DIVISION,cypher,0,0.25,0,0.01307334890238913
+Jremy,Team Secret,waylay,0,0.87,0,0.1545272852879628
+pANcada,LOUD,"astra, omen",1,1.08,1,0.8094274061863451
+monk,Nova Esports,kayo,0,0.82,0,0.022690765057090192
+Kess,100 Thieves,killjoy,0,0.76,0,0.030934653124005018
+jawgemo,G2 Esports,"waylay, yoru",1,1.32,1,0.9571657503047165
+Minny,Gentle Mates,viper,1,1.28,1,0.7668643568174281
+t3xture,Gen.G,"neon, raze",0,1.04,1,0.8592595783270303
+t3xture,Gen.G,neon,1,1.11,1,0.9499655572688843
+Mazino,KRÜ Esports,skye,0,0.76,0,0.031286471891073406
+Ninebody,TYLOO,neon,0,0.49,0,0.010198796288727344
+Jamppi,BBL Esports,sova,1,1.17,1,0.9578875410974479
+Filu,KOI,yoru,0,0.81,0,0.16408502622511398
+xffero,Rex Regum Qeon,cypher,0,0.73,0,0.04515910081407805
+Lysoar,Wolves Esports,omen,1,1.1,1,0.7996363854488815
+PatMen,Paper Rex,"breach, fade, kayo",0,0.97,0,0.39237966558843884
+crazyguy,Rex Regum Qeon,"fade, kayo, omen",0,0.85,0,0.02489703841945103
+Serial,Team Liquid,killjoy,0,0.97,0,0.24174420870029956
+ZmjjKK,EDward Gaming,"jett, neon, yoru",0,0.96,0,0.4747976603090046
+Francis,Nongshim RedForce,breach,1,1.32,1,0.9610898785091884
+kaajak,FNATIC,raze,1,1.34,1,0.9622365546672262
+xffero,Rex Regum Qeon,viper,1,1.26,1,0.9074106853598757
+benjyfishy,Team Heretics,killjoy,1,1.25,1,0.9514807924640992
+Cryocells,100 Thieves,yoru,1,1.23,1,0.9381236569133878
+Sayf,Team Vitality,tejo,0,0.79,0,0.07726791760337762
+Francis,Nongshim RedForce,kayo,0,0.99,0,0.11466297321192333
+NaturE,Evil Geniuses,fade,0,1.02,1,0.6448833870310825
+MrFaliN,FUT Esports,"fade, sova",1,1.06,0,0.15346941591764263
+NaturE,Evil Geniuses,"breach, vyse",1,1.24,1,0.7753293507367229
+flyuh,KOI,sova,0,0.94,0,0.4674454016975637
+icy,Evil Geniuses,raze,1,1.36,1,0.8769241456763563
+NcSlasher,BOOM Esports,breach,0,0.37,0,0.026332845890454894
+sociablEE,BBL Esports,"fade, sova, tejo",0,0.93,0,0.13012285193650627
+Monyet,Rex Regum Qeon,"neon, omen",1,1.12,1,0.7972752203349258
+n1zzy,Team Secret,yoru,0,0.98,0,0.13515264274021135
+MONSTEERR,KOI,killjoy,0,0.9,0,0.08214286654627612
+eeiu,100 Thieves,"sova, tejo",1,1.08,0,0.41727094887039545
+skuba,Mega Minors,killjoy,1,1.05,1,0.7994506547283398
+Cryocells,100 Thieves,yoru,1,1.17,1,0.9057239023688753
+GuanG,Nova Esports,"chamber, killjoy, vyse",0,0.88,0,0.07701122851172242
+Munchkin,Gen.G,viper,0,0.99,0,0.21482410632915921
+JitBoyS,TALON,astra,0,0.99,0,0.039185783081867404
+PatMen,Paper Rex,viper,1,1.42,1,0.9657446548640256
+SiuFatBB,Wolves Esports,sova,0,0.99,0,0.055946025820576
+RobbieBk,Gentle Mates,fade,0,0.58,0,0.024810149209122535
+kamyk,Gentle Mates,"breach, gekko, kayo, viper",0,0.98,0,0.3204386018100844
+xeus,FUT Esports,neon,0,0.78,0,0.16048011695620001
+Munchkin,Gen.G,kayo,0,0.75,0,0.09734478847074574
+Foxy9,Gen.G,deadlock,1,1.2,1,0.9748818882744634
+nobody,EDward Gaming,tejo,0,1.0,0,0.48782749496570216
+Derke,Team Vitality,raze,1,1.11,1,0.7248967076568996
+CLZ,ZETA DIVISION,"sova, tejo",0,0.96,0,0.12778962740323122
+Akeman,Dragon Ranger Gaming,"clove, neon",0,0.97,0,0.3113052515055676
+DH,T1,omen,0,0.85,0,0.0632597474573086
+Foxy9,Gen.G,cypher,0,0.93,0,0.15433873025470315
+Francis,Nongshim RedForce,skye,1,1.23,1,0.8886566021746103
+Flickless,GIANTX,breach,1,1.13,1,0.9212178010462234
+sociablEE,BBL Esports,"chamber, fade, raze, sage, sova, yoru",1,1.09,1,0.8613804806381902
+Shyy,KRÜ Esports,"cypher, vyse",0,0.86,0,0.08265438657507226
+CHICHOO,EDward Gaming,"cypher, vyse",0,0.78,1,0.6363272436517349
+Minny,Gentle Mates,vyse,0,0.82,0,0.021075210341949077
+keiko,Team Liquid,"jett, omen, raze",1,1.38,1,0.9760888819076391
+MiniBoo,Team Heretics,raze,0,0.88,0,0.1839430160104233
+Rb,Titan Esports Club,fade,0,0.41,0,0.014041182822758753
+raafa,FURIA,sage,0,0.62,0,0.015746145801660758
+Rb,Titan Esports Club,"fade, tejo",0,0.91,0,0.24255509206211343
+skuba,Mega Minors,"viper, vyse",1,1.09,1,0.685003338277898
+Khalil,FURIA,omen,0,0.85,0,0.04769169933641679
+brawk,Mega Minors,tejo,0,0.96,0,0.15611038521895063
+lz,2Game Esports,omen,0,0.98,0,0.19814812119717715
+Serial,Team Liquid,"cypher, gekko, killjoy",0,0.84,0,0.06903578609242543
+d4v41,Paper Rex,"viper, vyse",1,1.52,1,0.984067162396204
+hiro,Natus Vincere,vyse,0,0.96,0,0.02449401938027556
+crazyguy,Rex Regum Qeon,"breach, gekko, omen",0,0.79,0,0.0574919762342014
+Wild0reoo,Team Secret,skye,0,0.97,1,0.8165240866088217
+lz,2Game Esports,"astra, omen, tejo",0,0.8,0,0.028501104687956417
+BuZz,T1,chamber,0,0.94,1,0.5371836158113108
+HYUNMIN,DRX,raze,1,1.13,1,0.9147476634875062
+MiniBoo,Team Heretics,"neon, yoru",1,1.24,1,0.956556004880112
+Flex1n,Dragon Ranger Gaming,brimstone,0,0.79,1,0.5968075004818534
+t3xture,Gen.G,raze,0,0.89,0,0.1316010226689162
+MOLSI,Apeks,kayo,0,0.95,0,0.18049042661986475
+ZmjjKK,EDward Gaming,iso,1,1.47,1,0.9761000456604891
+kaajak,FNATIC,yoru,1,1.12,1,0.6696386797404473
+Boo,Team Heretics,omen,1,1.09,1,0.5310067702331952
+d4v41,Paper Rex,sage,0,0.29,0,0.0783734466278117
+trent,G2 Esports,sova,0,0.97,0,0.04091018546972297
+HYUNMIN,DRX,"jett, neon",1,1.4,1,0.973261444762623
+Boaster,FNATIC,omen,0,0.78,0,0.02604327954048213
+xenom,MIBR,"astra, omen",0,0.99,0,0.2478761899656203
+adverso,FURIA,"deadlock, sova",0,0.76,0,0.022769739917753395
+Wo0t,Team Heretics,breach,0,0.41,0,0.031229784470145176
+Autumn,FunPlus Phoenix,chamber,1,1.75,1,0.9670533158728094
+Kicks,Team Vitality,brimstone,0,0.76,0,0.03735460730482969
+kamyk,Team Liquid,"astra, sova",0,0.88,0,0.11098200196574826
+alexiiik,Natus Vincere,jett,1,1.21,1,0.9644743881659015
+kellyS,Global Esports,breach,1,1.38,1,0.9006902598425865
+kamo,Team Liquid,"jett, raze, yoru",0,1.0,0,0.3896546092043097
+Famouz,BOOM Esports,raze,0,0.89,0,0.1009153669338699
+tuyz,FURIA,brimstone,0,0.72,0,0.03352102631847001
+Spring,Wolves Esports,jett,1,1.55,1,0.9815238494329627
+Flex1n,Dragon Ranger Gaming,brimstone,1,1.07,1,0.9381989301027425
+Kushy,Rex Regum Qeon,deadlock,0,0.51,0,0.011026674890179448
+n1zzy,Team Secret,yoru,0,0.73,0,0.02072824997647471
+raafa,FURIA,kayo,0,0.34,0,0.022389964911936414
+Alfajer,FNATIC,killjoy,0,0.9,0,0.289977345852939
+N4RRATE,Sentinels,breach,1,1.13,1,0.8346269084969632
+PROFEK,BBL Esports,astra,1,1.14,1,0.9171341464021725
+qRaxs,FUT Esports,fade,0,0.59,0,0.06193935705722479
+paTiTek,Team Liquid,"breach, fade, kayo",0,0.87,0,0.041067968274967774
+koalanoob,Natus Vincere,omen,1,1.57,1,0.9830401899061734
+tuyz,LOUD,"breach, cypher, fade, viper, vyse",0,0.88,0,0.030718651320723163
+Melser,KRÜ Esports,brimstone,1,1.17,1,0.9516839333123642
+icy,Evil Geniuses,"jett, raze",0,0.65,0,0.024856366826742658
+Flickless,GIANTX,"breach, kayo, viper",0,1.0,0,0.3041599108234923
+nephh,Bilibili Gaming,"kayo, viper",0,0.89,0,0.06676241550083357
+paTiTek,Team Liquid,breach,1,1.07,1,0.8952868453211822
+t3xture,Gen.G,raze,0,0.73,0,0.03363145987102747
+Persia,Nongshim RedForce,viper,1,1.25,1,0.834927602829584
+Spring,Wolves Esports,omen,1,1.2,1,0.9349351128064242
+Yuicaw,Wolves Esports,raze,0,0.95,0,0.45528154924116715
+Elite,Karmine Corp,"cypher, killjoy, vyse",0,0.95,0,0.11373198824869105
+Jinboong,DetonatioN FocusMe,astra,0,0.47,0,0.02953932199399609
+batujnax,Apeks,"sova, yoru",0,0.76,0,0.03862812777638959
+Zellsis,Sentinels,brimstone,0,0.81,0,0.029912843279107294
+leaf,G2 Esports,cypher,0,1.03,0,0.11811998224026055
+zander,100 Thieves,"astra, omen",0,1.0,0,0.215229514956446
+Levius,Bilibili Gaming,"killjoy, viper",0,0.91,0,0.06888257981731258
+v1c,Cloud9,astra,1,1.19,1,0.748517433911719
+Cloud,GIANTX,fade,1,1.3,1,0.94487464171489
+Cloud,GIANTX,sova,0,0.56,0,0.05022262016915874
+valyn,G2 Esports,brimstone,1,1.11,0,0.29070989834675326
+Derke,Team Vitality,raze,1,1.26,1,0.9338045823326626
+ban,TALON,gekko,0,0.84,0,0.02306421586062943
+rushia,Bilibili Gaming,omen,1,1.05,1,0.5901638735844169
+f0rsakeN,Paper Rex,brimstone,1,1.57,1,0.9785815039313104
+cortezia,MIBR,omen,0,0.68,0,0.038938955832364085
+f0rsakeN,Paper Rex,neon,1,1.08,1,0.7980579074531671
+kellyS,Global Esports,"breach, cypher",0,0.8,0,0.13355973116810707
+ANGE1,Natus Vincere,sova,0,0.71,0,0.03513692244563621
+JonahP,G2 Esports,"fade, sage, viper, vyse",1,1.13,1,0.9117888077160341
+v1c,Cloud9,brimstone,1,2.14,1,0.9821428495082373
+BABYBAY,G2 Esports,deadlock,0,1.02,0,0.4348390462044032
+SUYGETSU,Karmine Corp,"astra, omen",1,1.34,1,0.9568265434813823
+johnqt,Sentinels,tejo,0,0.96,1,0.7681856864216409
+Governor,Apeks,tejo,0,0.5,0,0.030715667115905763
+Alfajer,FNATIC,"killjoy, tejo, vyse",0,1.04,1,0.9028102742909476
+gobera,2Game Esports,cypher,0,0.36,0,0.009227027052517149
+johnqt,Sentinels,"breach, tejo",1,1.3,1,0.88997440366727
+HYUNMIN,DRX,neon,0,0.57,0,0.03219646174851403
+FiNESSE,Mega Minors,vyse,0,0.57,0,0.04857079328934817
+Khalil,FURIA,astra,0,0.69,0,0.08278279175100918
+Governor,Apeks,sova,0,0.32,0,0.01339755294337577
+BuZz,T1,"chamber, neon, raze",0,0.58,0,0.02684559583082604
+Ash,Gen.G,sova,0,0.96,0,0.060792612955925716
+f0rsakeN,Paper Rex,brimstone,1,1.16,1,0.9608702555926983
+trexx,Team Liquid,gekko,0,0.51,0,0.015865763260731747
+Melser,KRÜ Esports,omen,0,0.78,0,0.02467941114766213
+trexx,Team Vitality,"brimstone, fade",0,0.93,0,0.04149918452660589
+ZmjjKK,EDward Gaming,neon,0,1.0,1,0.6945288748660484
+xffero,Rex Regum Qeon,"cypher, viper",1,1.05,0,0.44278256955405193
+iZu,T1,fade,1,1.43,1,0.8990041192837548
+Lysoar,Wolves Esports,"deadlock, killjoy",0,0.97,0,0.3980741252089683
+s0m,Mega Minors,"brimstone, omen",1,1.37,1,0.957113436027298
+Jieni7,EDward Gaming,"breach, kayo, omen",0,0.99,0,0.2570270320641385
+coconut,Xi Lai Gaming,gekko,0,0.89,0,0.07127517685696096
+Rarga,Xi Lai Gaming,jett,0,0.47,0,0.016530029670087307
+PatMen,Paper Rex,kayo,1,1.25,1,0.8221294277123941
+valyn,G2 Esports,"astra, brimstone",0,0.95,0,0.12197583852078805
+Filu,KOI,"iso, jett, raze, yoru",0,0.93,0,0.142432750819189
+Ruxic,Natus Vincere,viper,1,1.28,1,0.9752847211405509
+Sayf,Team Vitality,"jett, omen, vyse",0,0.72,0,0.020535632538276123
+ara,GIANTX,yoru,0,0.85,0,0.019085908774790435
+Foxy9,Gen.G,killjoy,0,0.96,0,0.35101186910383586
+Kushy,Rex Regum Qeon,"fade, sova",1,1.16,1,0.9166931796325865
+Ruxic,Natus Vincere,"omen, viper",1,1.41,1,0.939993946410384
+Shao,Natus Vincere,sova,0,0.76,0,0.03042852790882381
+crazyguy,Rex Regum Qeon,"breach, omen, tejo",0,0.94,0,0.10179716743953476
+artzin,MIBR,"kayo, viper, yoru",0,0.99,0,0.37575141534344375
+aspas,MIBR,"jett, neon, raze",1,1.09,1,0.9503992595255647
+Akame,DetonatioN FocusMe,"kayo, vyse",1,1.24,1,0.9014329410807173
+zekken,Sentinels,yoru,1,1.31,1,0.9357097674794245
+Rb,Nongshim RedForce,viper,1,1.05,0,0.49812644305171444
+Meteor,T1,vyse,1,1.29,1,0.9577641275043908
+Jemkin,Rex Regum Qeon,yoru,0,0.76,0,0.04109127484493778
+Meteor,T1,cypher,0,0.65,0,0.07470230430041618
+Cryocells,100 Thieves,iso,0,0.5,0,0.011895407051951551
+crazyguy,Rex Regum Qeon,omen,1,1.11,1,0.5074524263440201
+GuanG,Nova Esports,vyse,1,1.24,1,0.8581617628851707
+Zellsis,Sentinels,viper,1,1.1,1,0.6837430678447236
+paTiTek,Team Liquid,"kayo, tejo",0,0.82,0,0.04833699055198961
+westside,GIANTX,vyse,0,0.74,0,0.03460368700314878
+xffero,Rex Regum Qeon,killjoy,1,1.75,1,0.9778835103691631
+margaret,Nongshim RedForce,killjoy,1,1.05,0,0.2015167015750091
+Kicks,Team Vitality,"omen, skye",1,1.07,1,0.6085242998325034
+Sato,LEVIATÁN,"jett, yoru",0,0.44,0,0.019474617154359785
+batujnax,Apeks,"deadlock, yoru",0,0.84,0,0.10615859979243362
+runneR,GIANTX,gekko,0,0.65,0,0.044217912750887926
+sociablEE,BBL Esports,sage,1,1.39,1,0.9410094653637682
+Knight,Bilibili Gaming,sova,0,0.71,0,0.0993635623714143
+Ethan,Mega Minors,kayo,1,1.34,1,0.9480905075703688
+MiniBoo,Team Heretics,yoru,1,1.56,1,0.9859411613625069
+xffero,Rex Regum Qeon,"cypher, viper",0,0.85,0,0.027412762610007607
+Filu,KOI,yoru,0,0.86,0,0.06223952404854591
+nAts,Team Liquid,cypher,1,1.4,1,0.9567255806065991
+Melser,KRÜ Esports,viper,0,0.9,1,0.5076974231296073
+cortezia,MIBR,"cypher, killjoy, viper",0,0.81,0,0.05001960330448408
+Kushy,Rex Regum Qeon,"fade, kayo",0,0.57,0,0.013614539212281037
+Cangshu,Dragon Ranger Gaming,"fade, killjoy, viper",0,0.83,0,0.03154962627897915
+Kr1stal,Global Esports,fade,1,1.24,1,0.946756844001825
+Yuicaw,Wolves Esports,kayo,1,1.18,1,0.6262809422178791
+Ethan,Mega Minors,breach,1,1.71,1,0.987395174814888
+primmie,TALON,clove,1,1.43,1,0.9557662431881183
+Alfajer,FNATIC,killjoy,1,1.23,1,0.9300666004107283
+artzin,MIBR,harbor,0,0.78,0,0.04171469285103126
+Jemkin,Rex Regum Qeon,yoru,1,1.6,1,0.9738839280161474
+ANGE1,Natus Vincere,sova,1,1.3,1,0.5868580075328924
+vo0kashu,Dragon Ranger Gaming,"cypher, killjoy, vyse",1,1.12,1,0.9447836315780005
+nAts,Team Liquid,vyse,1,1.07,0,0.41990246812471327
+v1nny,LOUD,kayo,0,0.98,0,0.0918404765266451
+Avez,Karmine Corp,fade,0,0.68,0,0.024717375164476463
+Akame,DetonatioN FocusMe,kayo,0,1.04,1,0.5126916162617039
+Meiy,DetonatioN FocusMe,jett,0,0.89,0,0.04696046024150291
+runneR,GIANTX,tejo,0,0.87,0,0.30634463080883495
+raafa,FURIA,kayo,0,0.4,0,0.020199201935072113
+sword9,TYLOO,omen,0,0.87,0,0.20949232719737068
+PatMen,Paper Rex,fade,0,1.01,0,0.3442114024992643
+Shao,Natus Vincere,sage,1,1.34,1,0.9696404522189211
+MrFaliN,FUT Esports,breach,1,1.11,0,0.15492217330215208
+Jieni7,EDward Gaming,yoru,0,0.28,0,0.01765786353776155
+Akame,DetonatioN FocusMe,"raze, yoru",0,0.89,0,0.3907878676749786
+Monyet,Rex Regum Qeon,waylay,0,0.7,0,0.02204020349180795
+SyouTa,ZETA DIVISION,"cypher, viper, vyse",0,0.73,0,0.016194537234513036
+yetujey,FUT Esports,viper,0,0.95,0,0.07061744453513326
+HYUNMIN,DRX,"jett, raze",1,1.19,1,0.9720567477502609
+JonahP,G2 Esports,"breach, kayo, viper",0,0.86,0,0.04394821522659676
+grubinho,GIANTX,astra,0,0.99,0,0.12561376995563822
+Autumn,FunPlus Phoenix,phoenix,0,0.89,0,0.032898792572959745
+tuyz,LOUD,cypher,0,0.72,0,0.03167490879062171
+xffero,Rex Regum Qeon,vyse,0,0.79,0,0.0861642126598518
+ZmjjKK,EDward Gaming,neon,0,0.48,0,0.0203019191475621
+artzin,MIBR,raze,0,0.68,0,0.01863734601502064
+keiko,Team Liquid,brimstone,0,0.63,0,0.027779353144126852
+baddyG,KOI,omen,1,1.28,1,0.9695517068177871
+Kada,Gentle Mates,cypher,0,0.88,0,0.1641424468781146
+Akeman,Dragon Ranger Gaming,neon,1,1.57,1,0.9155508755680095
+Yuicaw,Wolves Esports,"cypher, gekko, killjoy",0,0.58,0,0.010974494718212147
+Lsn,All Gamers,"sova, tejo",0,0.77,0,0.0604845985555356
+Jieni7,EDward Gaming,"breach, kayo, yoru",0,0.73,0,0.04109227112386865
+Smoggy,EDward Gaming,brimstone,0,1.02,0,0.24029208260781687
+carpe,T1,astra,0,0.64,0,0.020010916797439056
+Famouz,BOOM Esports,neon,0,0.61,0,0.012890121951079471
+Demon1,LEVIATÁN,omen,0,0.7,0,0.020358905171862323
+neT,Cloud9,cypher,0,0.88,0,0.06720136510541429
+whzy,Bilibili Gaming,raze,1,1.22,1,0.963253239097776
+leaf,G2 Esports,cypher,0,0.99,0,0.31923876397058826
+mada,Mega Minors,waylay,1,1.17,1,0.856802843753247
+Crws,TALON,fade,0,0.89,0,0.16096820552328825
+jawgemo,G2 Esports,yoru,1,1.11,1,0.8539314773897468
+Yuicaw,Wolves Esports,cypher,1,1.26,1,0.8338480199799003
+JonahP,G2 Esports,breach,0,1.03,0,0.154767956248332
+TenTen,ZETA DIVISION,"jett, neon, omen, raze",0,0.71,0,0.03319683221739894
+keznit,KRÜ Esports,jett,1,1.44,1,0.9574960165026347
+ANGE1,Natus Vincere,sova,0,0.67,0,0.050620667583146386
+Z1yan,JDG Esports,omen,0,0.75,0,0.023348795054350144
+nAts,Team Liquid,viper,0,0.72,0,0.02633834470519296
+s0m,Mega Minors,omen,1,1.28,1,0.9148269647294058
+qRaxs,FUT Esports,breach,1,1.82,1,0.9804059991645736
+Akame,DetonatioN FocusMe,kayo,1,1.2,1,0.6576275773415035
+Meiy,DetonatioN FocusMe,raze,0,0.55,0,0.01841069000743854
+Jemkin,Rex Regum Qeon,yoru,0,0.92,0,0.2179451970440481
+PROFEK,BBL Esports,"astra, clove",0,0.86,0,0.049797456934950864
+yosemite,FunPlus Phoenix,viper,0,0.93,0,0.060540413657125404
+aspas,MIBR,"jett, neon",0,0.92,0,0.24175440654997146
+Haodong,Titan Esports Club,brimstone,0,0.51,0,0.47228275683217413
+Monyet,Rex Regum Qeon,omen,1,1.15,1,0.9249987948810718
+margaret,Nongshim RedForce,killjoy,1,1.16,1,0.9629459408525295
+Ethan,Mega Minors,tejo,0,0.71,0,0.020195326191029848
+S1Mon,EDward Gaming,fade,0,0.73,0,0.05411330789765354
+Flashback,DRX,vyse,1,1.37,1,0.9291549626102475
+Demon1,LEVIATÁN,omen,0,0.96,0,0.1614655864239606
+Derrek,Evil Geniuses,"gekko, omen",0,0.74,0,0.032846826572027865
+Life,FunPlus Phoenix,jett,0,0.95,0,0.1047214676424613
+paTiTek,Team Liquid,"breach, fade, tejo",1,1.07,1,0.7351814740329671
+JonahP,G2 Esports,breach,0,0.83,0,0.05834106014319655
+Juicy,Wolves Esports,"jett, neon, omen, raze, reyna, yoru",0,0.98,0,0.2599362742196667
+Elite,Karmine Corp,"cypher, killjoy, viper",0,1.03,0,0.2971156379076442
+Meteor,T1,cypher,1,1.15,1,0.8612625198510823
+Yuicaw,Wolves Esports,gekko,0,0.89,0,0.052523628259805936
+Alfajer,FNATIC,chamber,1,1.3,1,0.9324120784378899
+kaajak,FNATIC,neon,0,0.6,0,0.0212632659400418
+xeus,FUT Esports,raze,0,0.88,0,0.07082124005460762
+saadhak,Karmine Corp,fade,1,1.23,1,0.9642705235932962
+LewN,BBL Esports,raze,0,0.56,0,0.02391047955113825
+hiro,Natus Vincere,"cypher, killjoy",1,1.24,1,0.952436462157935
+Boo,Team Heretics,viper,1,1.15,1,0.8317480433523702
+player,All Gamers,yoru,0,0.82,0,0.17984886041782
+Ruxic,Natus Vincere,astra,0,0.91,0,0.47974733929572017
+Less,Team Vitality,viper,1,1.21,1,0.7819926109187598
+Sato,LEVIATÁN,"jett, yoru",1,1.19,1,0.9080732445321845
+crazyguy,Rex Regum Qeon,omen,0,0.88,0,0.03836564621123374
+Jamppi,BBL Esports,"breach, fade, gekko, kayo, sova",0,0.98,0,0.13910533127044786
+saadhak,Karmine Corp,harbor,0,0.94,0,0.1851927713651765
+t3xture,Gen.G,"jett, neon",1,1.07,1,0.7011118900488311
+Ruxic,Natus Vincere,brimstone,1,1.12,1,0.7359361211421221
+heat,FURIA,"chamber, cypher, viper",0,0.87,0,0.04620633736740633
+Avez,Karmine Corp,gekko,0,0.72,0,0.03179303135843546
+whzy,Bilibili Gaming,raze,0,0.9,0,0.16330086426830354
+iZu,T1,viper,0,0.85,0,0.03771904454227322
+n1zzy,Team Secret,yoru,0,1.02,1,0.6550586041362821
+Ivy,Nongshim RedForce,"astra, breach, vyse",0,1.03,0,0.47736126774569315
+Zellsis,Sentinels,"breach, killjoy, vyse",0,0.79,0,0.0385494295477203
+Derke,Team Vitality,neon,0,0.96,0,0.2811297753877609
+Xeppaa,Cloud9,"vyse, yoru",0,0.86,0,0.1947672128829287
+Bai,All Gamers,neon,0,0.68,0,0.04374000506738956
+MOLSI,Apeks,deadlock,1,1.07,1,0.6114292238619208
+MiniBoo,Team Heretics,yoru,0,1.0,1,0.5129785250579734
+soulcas,KOI,"cypher, viper, vyse",0,0.92,0,0.1769120410770506
+Monyet,Rex Regum Qeon,neon,0,0.79,0,0.09834245341581023
+iZu,T1,gekko,0,1.04,1,0.7445072931619731
+N4RRATE,Sentinels,"fade, sova",1,1.07,1,0.5882326206919476
+Mazino,KRÜ Esports,"breach, harbor",1,1.38,1,0.9728817858098702
+Famouz,BOOM Esports,neon,0,0.66,0,0.0505080986129079
+Nicc,Dragon Ranger Gaming,fade,1,1.11,1,0.8881530810480076
+gobera,2Game Esports,cypher,0,0.6,0,0.06466892422517602
+zander,100 Thieves,omen,0,0.9,0,0.0562452345102515
+lukxo,LOUD,viper,1,1.22,1,0.9644375288246617
+Famouz,BOOM Esports,"neon, raze",0,0.96,0,0.31261507755985
+BeYN,DRX,"breach, fade, sova",0,0.79,0,0.024390151681056776
+Monyet,Rex Regum Qeon,yoru,0,0.81,0,0.05655551003213758
+tomaszy,GIANTX,brimstone,1,1.06,1,0.5687879959874247
+icy,Evil Geniuses,killjoy,0,0.96,1,0.7010285141933412
+kaajak,FNATIC,raze,0,0.84,0,0.13963977603267833
+purp0,GIANTX,raze,0,0.97,0,0.1976211537236448
+mada,Mega Minors,jett,0,0.66,0,0.06472921589391166
+Monyet,Rex Regum Qeon,"neon, viper",1,1.16,1,0.9791094191412955
+JessieVash,Team Secret,fade,1,1.09,0,0.4503566185967498
+HanChe,All Gamers,"killjoy, viper",0,0.86,0,0.06973975232597106
+Alfajer,FNATIC,killjoy,1,1.16,1,0.9051407781660687
+Kushy,Rex Regum Qeon,fade,0,0.81,0,0.03725996363612379
+Killua,TALON,vyse,0,0.22,0,0.011147295321845177
+margaret,Nongshim RedForce,"cypher, killjoy, viper",0,0.81,0,0.024756761948127624
+free1ng,DRX,viper,1,1.07,1,0.8016985934794725
+Shao,Natus Vincere,gekko,0,0.85,0,0.08215518464966086
+icy,Evil Geniuses,raze,0,0.99,0,0.33087943632527156
+PROFEK,BBL Esports,viper,1,1.13,1,0.8882020781390151
+adverso,KRÜ Esports,tejo,0,0.35,0,0.011728671842966483
+JonahP,G2 Esports,viper,1,1.76,1,0.9855013087580645
+MaKo,DRX,omen,1,1.19,1,0.9585614689749002
+Francis,Nongshim RedForce,tejo,1,1.61,1,0.979589996442085
+GuanG,Nova Esports,vyse,1,1.25,1,0.9114537090685787
+Okeanos,LEVIATÁN,"brimstone, neon, omen",1,1.06,1,0.9085987449319758
+TenTen,ZETA DIVISION,neon,0,0.67,0,0.11312540689260812
+nzr,MIBR,sova,0,0.72,0,0.03862709417766735
+pANcada,LOUD,"astra, omen",1,1.08,1,0.5722337554072383
+dos9,BOOM Esports,omen,1,1.07,1,0.577460059251817
+Smoggy,EDward Gaming,"astra, brimstone, clove, omen",0,1.01,0,0.34505535412429045
+nobody,EDward Gaming,sova,1,1.43,1,0.9641563896944038
+Wild0reoo,Team Secret,cypher,0,0.85,0,0.030379255274758606
+BerserX,BOOM Esports,deadlock,1,1.13,1,0.8440469919737393
+stew,JDG Esports,yoru,0,1.03,0,0.3595284227304023
+s0m,Mega Minors,"astra, brimstone, omen, viper",1,1.09,1,0.8772392490562088
+neT,Cloud9,"cypher, deadlock",0,0.6,0,0.039508028245545786
+kamo,Team Liquid,raze,1,1.42,1,0.9585531809897468
+f0rsakeN,Paper Rex,omen,1,1.36,1,0.9775544423836572
+gyen,DetonatioN FocusMe,astra,0,0.84,0,0.19795361503044095
+UdoTan,Global Esports,iso,1,1.39,1,0.9212569046714112
+icy,Evil Geniuses,jett,0,0.86,0,0.06508100457117166
+kamo,Team Liquid,raze,1,1.13,1,0.6184484277636403
+Jieni7,EDward Gaming,"breach, kayo, neon, omen, raze",0,1.02,1,0.53680088872929
+Shyy,KRÜ Esports,killjoy,0,0.66,0,0.009799877648696009
+Karon,Gen.G,brimstone,0,0.9,0,0.05441672889594102
+tex,LEVIATÁN,killjoy,0,0.71,0,0.03505448828648883
+Papi,Global Esports,omen,0,0.72,0,0.04045970773538829
+JonahP,G2 Esports,viper,0,1.01,1,0.6552059588968465
+zander,100 Thieves,viper,1,1.54,1,0.9776990623209363
+Monyet,Rex Regum Qeon,"neon, omen",1,1.15,1,0.5870111494747192
+Chronicle,FNATIC,breach,1,1.4,1,0.9812605418479862
+Wo0t,Team Heretics,"astra, chamber, tejo",1,1.08,1,0.6436646117364081
+MrCANI,JDG Esports,breach,0,0.63,0,0.03172439276712117
+valyn,G2 Esports,astra,1,1.17,1,0.8567611311916342
+Lsn,All Gamers,"breach, sova, tejo",0,0.73,0,0.02147005456040365
+xeus,FUT Esports,raze,1,1.22,1,0.9541190517975644
+AAAAY,FunPlus Phoenix,sova,0,0.86,0,0.061749099308539376
+Kushy,Rex Regum Qeon,"fade, sova",0,0.89,0,0.05659238383712435
+Kai,Trace Esports,"chamber, jett, neon, vyse",1,1.19,1,0.9641410333221169
+trexx,Team Liquid,vyse,1,1.05,0,0.0703564299536962
+Minny,Gentle Mates,killjoy,0,0.74,0,0.022698961235409813
+kaajak,FNATIC,neon,1,1.07,1,0.9030259262473864
+leaf,G2 Esports,"chamber, viper, vyse",0,0.75,0,0.044692333010956334
+LewN,BBL Esports,neon,0,0.58,0,0.01621614605711508
+Boo,Team Heretics,"brimstone, omen",0,0.8,0,0.03904949699878326
+OXY,Cloud9,raze,1,1.07,1,0.9351369400577635
+happywei,Xi Lai Gaming,cypher,1,1.23,1,0.7028364366763055
+Yuicaw,Wolves Esports,"astra, brimstone, omen",0,0.9,0,0.07862702170421569
+Ivy,Nongshim RedForce,tejo,0,0.82,0,0.11988513467941904
+yay,Evil Geniuses,"cypher, yoru",0,0.72,0,0.0692149247838257
+valyn,G2 Esports,brimstone,1,1.29,1,0.9102133504861089
+Jemkin,Rex Regum Qeon,yoru,1,1.05,1,0.8158752408157324
+alexiiik,Natus Vincere,"neon, raze",0,1.01,1,0.7348790492684888
+Famouz,BOOM Esports,neon,1,1.15,1,0.9269748688305677
+PROFEK,BBL Esports,"astra, omen",0,0.95,0,0.06112953094801239
+nobody,EDward Gaming,fade,0,0.66,0,0.03532303812499111
+yay,Evil Geniuses,jett,0,0.96,0,0.17294853230057408
+Kr1stal,Global Esports,tejo,0,0.89,0,0.13750953559792087
+nobody,EDward Gaming,fade,1,1.53,1,0.9468849384581165
+KovaQ,Team Vitality,kayo,0,1.01,1,0.6311839253827107
+Francis,Nongshim RedForce,"kayo, tejo",0,0.97,0,0.17817202023683584
+ANGE1,Natus Vincere,fade,0,0.5,0,0.02500135528478491
+rushia,Bilibili Gaming,astra,1,1.41,1,0.985662350023543
+Rarga,Xi Lai Gaming,chamber,1,1.68,1,0.9758452708867134
+silentzz,2Game Esports,"killjoy, vyse",0,0.87,0,0.21021665038933954
+whzy,Bilibili Gaming,neon,0,1.02,0,0.37473927108945554
+valyn,G2 Esports,omen,1,1.12,1,0.7441363245594055
+crazyguy,Rex Regum Qeon,kayo,0,0.58,0,0.018875386335625396
+Boo,Team Heretics,brimstone,0,0.98,0,0.2093775561404451
+Levius,Bilibili Gaming,vyse,0,0.84,0,0.1256640910143776
+keiko,Team Liquid,omen,1,1.73,1,0.982877120859525
+carpe,T1,omen,0,0.84,0,0.0970403770034218
+Veqaj,Gentle Mates,"fade, sova",0,0.98,0,0.34682059971561563
+Spring,Wolves Esports,neon,0,0.71,0,0.3437453851793915
+Kicks,Team Vitality,omen,1,1.13,1,0.539209331638253
+Derke,Team Vitality,jett,0,0.94,0,0.0469459609049193
+BuZz,T1,"chamber, yoru",0,0.88,0,0.17054534886445466
+primmie,TALON,tejo,0,0.72,0,0.05203054531541125
+Shao,Natus Vincere,breach,0,0.99,0,0.32025454654189134
+cortezia,MIBR,"killjoy, viper",1,1.45,1,0.9410876791765862
+Autumn,FunPlus Phoenix,viper,1,1.51,1,0.8716758088554987
+qRaxs,FUT Esports,"fade, raze",0,0.6,0,0.023484138389727554
+FengF,Trace Esports,yoru,0,0.98,0,0.34360624180069915
+Monyet,Rex Regum Qeon,neon,1,1.13,1,0.8440561746664504
+nephh,Bilibili Gaming,"breach, deadlock, omen",0,0.94,0,0.034920058702615324
+cauanzin,LOUD,vyse,0,0.97,1,0.6217351928019947
+C0M,LEVIATÁN,"sova, tejo, viper",0,0.94,0,0.35850079222293163
+Jinboong,DetonatioN FocusMe,cypher,0,0.74,0,0.022432433225161006
+keznit,KRÜ Esports,"jett, neon",1,1.18,1,0.8923443726937477
+Kushy,Rex Regum Qeon,"kayo, tejo",0,1.0,0,0.40260934153015876
+sociablEE,BBL Esports,chamber,0,0.94,0,0.37568937160291543
+bang,Sentinels,omen,1,1.14,1,0.9046967584156234
+Minny,Gentle Mates,"cypher, viper",0,0.92,0,0.04483231723521076
+trent,G2 Esports,"fade, sova, tejo",1,1.08,1,0.7645531173380595
+marteen,Karmine Corp,omen,0,0.89,0,0.06769190708988757
+Mazino,KRÜ Esports,harbor,0,0.79,0,0.05601447499884421
+Crws,TALON,fade,0,0.48,0,0.014049062814226958
+t3xture,Gen.G,raze,0,0.96,1,0.536944140446061
+Jinggg,Paper Rex,"brimstone, omen, tejo",0,0.91,0,0.11525052355976928
+stax,T1,sova,0,0.76,0,0.04754741106069139
+Proxh,Gentle Mates,omen,0,0.81,0,0.06450831419108319
+C0M,LEVIATÁN,fade,1,1.34,1,0.8891881414239662
+nzr,MIBR,"fade, sova",1,1.12,1,0.6976303696477321
+kamo,Team Liquid,jett,0,0.99,0,0.23736793776897191
+penny,Apeks,raze,1,1.41,1,0.9702127808643681
+Autumn,FunPlus Phoenix,"tejo, viper",0,0.87,0,0.03189395005043707
+tex,LEVIATÁN,vyse,0,0.67,0,0.02402197202302826
+Derrek,Evil Geniuses,sova,0,0.89,0,0.14703511299511743
+marteen,Karmine Corp,jett,0,1.02,1,0.5812105151851303
+crazyguy,Rex Regum Qeon,sage,0,0.86,0,0.07791834972414735
+artzin,MIBR,"gekko, harbor",0,0.69,0,0.04049409447704153
+primmie,TALON,"iso, jett, neon, waylay, yoru",1,1.11,1,0.9156328056767721
+Killua,TALON,sova,1,1.14,1,0.8824000172682538
+ara,GIANTX,jett,1,1.22,1,0.9787835969835246
+heybay,Trace Esports,viper,0,0.99,1,0.8830959687958488
+supamen,Evil Geniuses,"brimstone, viper",0,0.98,0,0.4250074951823175
+Okeanos,LEVIATÁN,sage,0,0.95,0,0.037507334908425095
+carpe,T1,brimstone,0,0.63,0,0.04160125258001117
+Kushy,Rex Regum Qeon,vyse,0,0.81,0,0.4284823140599323
+Nicc,Dragon Ranger Gaming,fade,1,1.29,1,0.9268774184409232
+2GE,Team Secret,"astra, brimstone, omen, viper",0,0.81,0,0.024425900444485702
+JessieVash,Team Secret,"cypher, killjoy",0,0.98,0,0.2649038504752466
+Smoggy,EDward Gaming,brimstone,1,1.13,1,0.6274474699347196
+PatMen,Paper Rex,"breach, fade, kayo",1,1.13,1,0.8509318863892241
+Crws,TALON,"deadlock, tejo",0,0.83,0,0.025045895029958434
+crashies,FNATIC,sova,0,0.78,0,0.046774613981793035
+icy,Evil Geniuses,raze,0,0.94,0,0.058551747951836514
+CyvOph,Team Vitality,omen,1,1.07,1,0.8520013160959874
+coconut,Xi Lai Gaming,viper,0,0.98,0,0.38103490592403605
+nobody,EDward Gaming,sova,0,0.83,0,0.09456712370191891
+f0rsakeN,Paper Rex,omen,0,1.01,1,0.7546758991342497
+Deryeon,Global Esports,"raze, yoru",0,1.01,0,0.32062260862333614
+happywei,Xi Lai Gaming,sage,1,1.17,1,0.9137439587947758
+vo0kashu,Dragon Ranger Gaming,"cypher, iso",1,1.09,1,0.8336172496767162
+brawk,Mega Minors,"sova, vyse",1,1.29,1,0.9624124865968758
+tuyz,LOUD,deadlock,1,1.16,0,0.47071739202727725
+Shyy,KRÜ Esports,viper,1,1.14,1,0.7007138552695605
+Derrek,Evil Geniuses,"omen, sova",0,1.02,0,0.4467004906054702
+kamyk,Team Liquid,sova,0,0.95,0,0.0845750823333188
+trent,G2 Esports,tejo,0,0.8,0,0.04789728375516997
+Boaster,FNATIC,astra,1,1.43,1,0.975360490447797
+Kicks,Team Vitality,kayo,1,1.98,1,0.9859947309597283
+iZu,T1,"cypher, tejo",1,1.15,1,0.8708139542373005
+pyrolll,Karmine Corp,sova,0,0.86,0,0.02597244763711749
+bdog,FURIA,breach,1,1.28,1,0.864965140763285
+rushia,Bilibili Gaming,viper,1,1.42,1,0.9732611541182614
+2GE,Team Secret,omen,0,1.0,0,0.16745719327421293
+Chronicle,FNATIC,viper,1,1.48,1,0.9689840021167334
+Zellsis,Sentinels,viper,1,1.63,1,0.9622237291237962
+sheydos,KOI,fade,1,1.07,0,0.12254439308146924
+marteen,Karmine Corp,jett,1,1.05,1,0.6385648934149473
+CLZ,ZETA DIVISION,deadlock,0,0.7,0,0.019789385116278424
+Alfajer,FNATIC,iso,1,1.79,1,0.9798222283731108
+batujnax,Apeks,viper,0,0.51,0,0.021017229175470775
+MrFaliN,FUT Esports,sova,0,0.77,0,0.2094290430028986
+MOLSI,Apeks,deadlock,0,0.93,0,0.3978891892620189
+PatMen,Paper Rex,fade,0,0.97,0,0.09195721649879156
+crashies,FNATIC,"fade, sova",1,1.09,1,0.8769637511124412
+Meteor,T1,iso,0,0.46,0,0.017984176833809106
+OXY,Cloud9,raze,0,0.82,0,0.2264701860505254
+Wo0t,Team Heretics,jett,0,0.92,0,0.17640430747391606
+thyy,TALON,"jett, omen, raze, yoru",0,0.94,0,0.24623233146781268
+Shao,Natus Vincere,kayo,1,1.33,1,0.9567138239207381
+leaf,G2 Esports,"viper, vyse",1,1.12,1,0.9134631483424326
+Kushy,Rex Regum Qeon,"sova, tejo",1,1.29,1,0.9349431899504511
+Flickless,GIANTX,breach,0,0.96,0,0.09406924480613492
+keiko,Team Liquid,"astra, brimstone, omen, raze, reyna",1,1.26,1,0.9739157657152343
+mwzera,FURIA,breach,0,0.76,0,0.019912026865814367
+tex,LEVIATÁN,"cypher, viper",0,0.65,0,0.019756933755159942
+Dambi,Nongshim RedForce,jett,0,0.6,0,0.03012523274931261
+westside,GIANTX,cypher,0,0.84,0,0.09107537718325041
+Flickless,GIANTX,breach,0,1.02,1,0.7675801462835866
+JonahP,G2 Esports,vyse,0,1.02,1,0.676187690830124
+PROFEK,BBL Esports,clove,0,0.07,0,0.010548148170639439
+supamen,Evil Geniuses,brimstone,1,1.21,1,0.838370946080848
+Kr1stal,Global Esports,tejo,0,0.97,0,0.39171188437363924
+xenom,MIBR,omen,1,1.16,1,0.7952334379557758
+runneR,GIANTX,vyse,0,0.6,0,0.02469946399161192
+qRaxs,FUT Esports,breach,0,0.49,0,0.02387116358788863
+MrCANI,JDG Esports,sova,0,0.73,0,0.02572214255031818
+Art,DetonatioN FocusMe,tejo,0,0.9,0,0.0750546332070509
+keiko,Team Liquid,brimstone,1,1.14,0,0.39121892835243866
+westside,GIANTX,killjoy,1,1.09,1,0.8931165150316556
+Meteor,T1,vyse,0,0.76,0,0.03731394459373911
+Ruxic,Natus Vincere,omen,0,0.6,0,0.023968193313392325
+Ninebody,TYLOO,cypher,1,1.22,1,0.9362368674449123
+keiko,Team Liquid,jett,0,0.53,0,0.02792862886779108
+Jinggg,Paper Rex,raze,0,0.86,0,0.2768645474246999
+Wo0t,Team Heretics,waylay,1,1.1,1,0.8186823836301254
+johnqt,Sentinels,"breach, kayo, tejo",1,1.05,0,0.30146849673094256
+Shiro,BOOM Esports,viper,0,1.0,0,0.1562906020188424
+PROFEK,BBL Esports,viper,0,1.0,1,0.6641667903396629
+primmie,TALON,deadlock,1,1.34,1,0.9673003934781245
+Ash,Gen.G,sova,0,1.01,0,0.39067706147155473
+Derrek,Evil Geniuses,sova,0,0.93,1,0.5995189136239684
+Cryocells,100 Thieves,yoru,0,0.8,0,0.20775514916765492
+crashies,FNATIC,"fade, sova",1,1.23,1,0.9263941627164747
+JonahP,G2 Esports,"breach, skye, vyse",0,0.98,0,0.30330488205728595
+batujnax,Apeks,omen,0,0.86,0,0.041547940629626676
+MOLSI,Apeks,breach,0,0.97,0,0.2455805564757821
+NaturE,Evil Geniuses,vyse,0,0.86,0,0.04983928122488016
+Crws,TALON,fade,0,0.83,0,0.04877680643984025
+Avez,Karmine Corp,phoenix,1,1.73,1,0.9631743569831682
+Boo,Team Heretics,"brimstone, omen, viper",0,0.68,0,0.040523861625949634
+f0rsakeN,Paper Rex,omen,1,1.55,1,0.9486921851643401
+vakk,BBL Esports,"astra, cypher, sage",0,0.67,0,0.03757516364809836
+Francis,Nongshim RedForce,"breach, fade, tejo",0,0.95,0,0.24823205424463898
+nAts,Team Liquid,"cypher, viper",0,0.88,0,0.13052683537929805
+KovaQ,Team Vitality,fade,1,1.32,1,0.9100509803969132
+Jieni7,EDward Gaming,kayo,0,0.88,0,0.05188417771450899
+PxS,2Game Esports,"fade, sova",0,0.73,0,0.020337478656974127
+Monyet,Rex Regum Qeon,omen,0,0.79,0,0.022642546984377263
+Lysoar,Wolves Esports,deadlock,0,0.79,0,0.03504170519690235
+Monyet,Rex Regum Qeon,phoenix,0,0.99,0,0.38322955155723315
+jawgemo,G2 Esports,yoru,1,1.23,1,0.910022795423764
+happywei,Xi Lai Gaming,sage,1,1.17,1,0.9045509397021181
+Kushy,Rex Regum Qeon,sova,1,1.35,1,0.9655268196162244
+saadhak,Karmine Corp,fade,0,0.55,0,0.01468793565779168
+bang,Sentinels,omen,0,0.76,0,0.021483216925908422
+Cloud,GIANTX,sova,1,1.26,1,0.848239125653676
+Smoggy,EDward Gaming,killjoy,0,0.99,0,0.0498437271662851
+zekken,Sentinels,"neon, raze, yoru",0,1.02,1,0.8032157404940361
+HYUNMIN,DRX,yoru,0,0.92,0,0.23297524823898325
+Ninebody,TYLOO,"cypher, jett, killjoy, neon, raze, vyse",0,0.96,0,0.19070026816147526
+Suggest,Gen.G,killjoy,0,0.85,0,0.24543535970207306
+thyy,TALON,raze,1,1.08,1,0.9551722473353538
+Kushy,Rex Regum Qeon,"deadlock, fade, sova",0,0.9,0,0.017524892349958673
+2GE,Team Secret,astra,0,0.65,0,0.025670512604680364
+Abo,Titan Esports Club,deadlock,1,1.52,1,0.9607275568955488
+kamyk,Team Liquid,astra,0,1.0,0,0.40800430307143093
+GuanG,Nova Esports,vyse,1,1.2,1,0.6816766515408409
+coconut,Xi Lai Gaming,omen,1,1.19,1,0.7855245997161614
+westside,GIANTX,cypher,0,1.04,1,0.7164354890905693
+Flickless,GIANTX,viper,0,0.7,0,0.0388556589703314
+BABYBAY,G2 Esports,chamber,1,1.23,1,0.9783513700542302
+supamen,Evil Geniuses,viper,0,0.95,0,0.01800720837492932
+Kr1stal,Global Esports,tejo,1,1.41,1,0.8628357159432594
+Jinboong,DetonatioN FocusMe,"fade, viper, vyse",0,0.89,0,0.04091023572684364
+JessieVash,Team Secret,"fade, sova, tejo",1,1.11,1,0.5325079419830678
+whzy,Bilibili Gaming,neon,1,1.26,1,0.9167498097198514
+Meteor,T1,reyna,0,0.86,0,0.2460371882680625
+Sato,LEVIATÁN,yoru,0,1.03,1,0.9102492713837441
+whzy,Bilibili Gaming,"jett, neon",0,1.0,0,0.45120092487889363
+Less,Team Vitality,"chamber, cypher, viper",1,1.11,1,0.8794870888984161
+Viva,Xi Lai Gaming,tejo,1,1.05,0,0.3263101918173904
+Smoggy,EDward Gaming,"brimstone, deadlock, fade, killjoy, omen, viper",0,1.01,0,0.33358425128368435
+AtaKaptan,FUT Esports,brimstone,1,1.5,1,0.9763424491580551
+Papi,Global Esports,omen,1,1.15,1,0.7337236199549179
+hiro,Natus Vincere,killjoy,1,1.24,1,0.9612093256923259
+Asuna,100 Thieves,neon,1,1.7,1,0.9805196987617818
+cortezia,MIBR,cypher,0,0.71,0,0.026658980552651257
+kamo,Team Liquid,yoru,1,1.19,1,0.9119773891440713
+paTiTek,Team Liquid,fade,0,0.91,0,0.07219377540117558
+Meteor,T1,vyse,0,0.98,1,0.583780756436688
+PROFEK,BBL Esports,brimstone,1,1.39,1,0.9767800298034257
+rushia,Bilibili Gaming,omen,0,1.01,0,0.21689542264360875
+Xdll,ZETA DIVISION,sova,0,0.57,0,0.045938993877969014
+JonahP,G2 Esports,"breach, vyse",1,1.18,1,0.6908614855058232
+s0m,Mega Minors,brimstone,0,1.02,1,0.554735167491366
+Sylvan,T1,brimstone,1,1.09,0,0.2137477996708035
+Veqaj,Gentle Mates,fade,1,1.06,1,0.7672736570979062
+sheydos,KOI,chamber,0,0.6,0,0.020935476331509016
+marteen,Karmine Corp,yoru,0,0.92,0,0.2985777751750051
+gyen,DetonatioN FocusMe,viper,0,0.79,0,0.03727353876365709
+jawgemo,G2 Esports,yoru,0,0.77,0,0.0842456691366701
+Asuna,100 Thieves,raze,1,1.36,1,0.9615710310337111
+Estrella,DRX,breach,0,0.44,0,0.012441629516374496
+cortezia,MIBR,"cypher, vyse",0,0.73,0,0.062016800677394436
+Ruxic,Natus Vincere,viper,0,0.75,0,0.18728404040135996
+whzy,Bilibili Gaming,jett,1,1.25,1,0.8919853102635835
+skuba,Mega Minors,cypher,1,1.19,1,0.8895861620170009
+Sato,LEVIATÁN,neon,1,1.26,1,0.9753386774608106
+artzin,MIBR,viper,1,1.15,1,0.8697300453972989
+Jinggg,Paper Rex,omen,0,0.92,0,0.1979813009507662
+Sayf,Team Vitality,tejo,1,1.35,1,0.9595892059826421
+Meteor,T1,iso,0,0.92,0,0.1979768407059297
+MAGNUM,BBL Esports,fade,0,1.02,0,0.4583200651398969
+Chronicle,FNATIC,sage,1,1.13,1,0.8342265097244458
+NoMan,Xi Lai Gaming,raze,1,1.31,1,0.9753863835060798
+Zellsis,Sentinels,vyse,1,1.42,1,0.9599477051311429
+Kada,Gentle Mates,"astra, omen",0,0.99,0,0.07836783430085062
+bang,Sentinels,viper,1,1.07,1,0.6180466981733117
+zander,100 Thieves,astra,0,0.8,0,0.04064435643319252
+silentzz,2Game Esports,viper,0,0.82,0,0.0602278424358832
+Ezeir,Nova Esports,omen,1,1.12,1,0.7533149429721137
+yetujey,FUT Esports,"cypher, vyse",1,1.2,1,0.9471096423610532
+Virtyy,LOUD,"jett, neon, raze",0,1.01,0,0.15839698431543875
+iZu,T1,"sova, viper, yoru",1,1.38,1,0.9757242210703218
+Okeanos,LEVIATÁN,"harbor, omen",0,0.76,0,0.13216686512205536
+ANGE1,Natus Vincere,"kayo, sova",0,0.83,0,0.053400277316411365
+eeiu,100 Thieves,sova,0,0.81,0,0.0266086928045533
+Wo0t,Team Heretics,viper,0,0.77,0,0.09660538168294956
+benjyfishy,Team Heretics,vyse,0,0.72,0,0.026855985402926007
+Xeppaa,Cloud9,killjoy,0,0.84,0,0.21086948634013697
+brawk,Mega Minors,sova,1,1.32,1,0.971374294516813
+MAGNUM,BBL Esports,"deadlock, fade, killjoy",1,1.17,1,0.8678447002343701
+JessieVash,Team Secret,"sova, tejo",0,0.78,0,0.04116907943224242
+Knight,Bilibili Gaming,sova,1,1.35,1,0.8909737889180002
+Flickless,GIANTX,kayo,0,1.0,0,0.38836024465620894
+yay,Evil Geniuses,"clove, cypher",1,1.2,1,0.9667983300622225
+Francis,Nongshim RedForce,kayo,1,1.86,1,0.9821357923205645
+MOLSI,Apeks,breach,1,1.34,1,0.9659619310461198
+qRaxs,FUT Esports,raze,0,0.64,0,0.023838290233176546
+crashies,FNATIC,sova,1,1.14,1,0.9122455771005407
+HYUNMIN,DRX,yoru,1,1.07,1,0.7848686148779448
+Xdll,ZETA DIVISION,sova,1,1.18,1,0.7408649775158758
+Kushy,Rex Regum Qeon,sova,1,1.34,1,0.9694829940098599
+Meteor,T1,cypher,0,0.8,0,0.04691723852685071
+keiko,Team Liquid,omen,1,1.14,1,0.889530254941481
+icy,Evil Geniuses,cypher,0,0.89,0,0.03832212582973022
+zander,100 Thieves,viper,0,1.04,1,0.5604182786225775
+artzin,MIBR,kayo,0,0.77,0,0.04627636380084552
+Kicks,Team Vitality,"breach, kayo",1,1.79,1,0.9825329340866772
+MaKo,DRX,omen,1,1.28,1,0.9847394833923723
+MaKo,DRX,omen,1,1.21,1,0.6377276731537456
+Kicks,Team Vitality,breach,1,1.5,1,0.9652012252170401
+Serial,Team Liquid,cypher,0,0.73,0,0.02688844888051635
+Jinggg,Paper Rex,sage,1,1.32,1,0.9436659552238257
+happywei,Xi Lai Gaming,yoru,0,0.53,0,0.019095564087561075
+aspas,MIBR,neon,1,1.28,1,0.9479944986715209
+brawk,Mega Minors,"sova, tejo",0,0.91,0,0.3242750935085363
+Kess,100 Thieves,brimstone,0,1.04,0,0.26074913042700515
+crazyguy,Rex Regum Qeon,"breach, sage, sova",0,0.89,0,0.2283435751161399
+Jinboong,DetonatioN FocusMe,cypher,1,1.4,1,0.9625842015184572
+leaf,G2 Esports,vyse,0,0.96,0,0.1554747270421159
+NaturE,Evil Geniuses,"breach, fade",0,0.68,0,0.021534529984349824
+t3xture,Gen.G,neon,1,1.4,1,0.9603992654711277
+havoc,FURIA,neon,0,0.87,0,0.08722360399782303
+Nicc,Dragon Ranger Gaming,fade,1,1.11,1,0.911181413866644
+hype,Apeks,"cypher, killjoy",0,0.89,0,0.06226889690500468
+Kicks,Team Vitality,skye,1,1.27,1,0.8754302956558635
+Flickless,GIANTX,"breach, viper",0,0.51,0,0.021482810953099406
+keznit,KRÜ Esports,"jett, raze",0,0.96,0,0.10800954301205123
+Derke,Team Vitality,"raze, yoru",0,1.01,0,0.19441127616189052
+Levius,Bilibili Gaming,vyse,0,0.81,0,0.0590038365884815
+Kushy,Rex Regum Qeon,deadlock,0,0.67,0,0.025850904482295278
+slowly,TYLOO,kayo,1,2.31,1,0.979489184133861
+Spitfires,All Gamers,"jett, yoru",0,0.84,0,0.15376079879771096
+crazyguy,Rex Regum Qeon,brimstone,0,0.54,0,0.03208965493966408
+v1c,Cloud9,"astra, brimstone, omen",0,0.97,0,0.05589069373844133
+SUYGETSU,Karmine Corp,astra,1,1.2,1,0.9501045734461008
+happywei,Xi Lai Gaming,viper,1,1.59,1,0.9641258245037438
+Munchkin,Gen.G,viper,1,1.44,1,0.9727436515763668
+t3xture,Gen.G,"jett, neon",1,1.3,1,0.9447608453013763
+slowly,TYLOO,"killjoy, yoru",1,1.18,1,0.7576022149940059
+Elite,Karmine Corp,cypher,0,0.35,0,0.02462558404437324
+paTiTek,Team Liquid,"deadlock, gekko, kayo, omen, skye",0,1.02,1,0.5523930779551268
+nephh,Bilibili Gaming,skye,0,0.87,0,0.04887526400913422
+Dambi,Nongshim RedForce,neon,0,0.75,0,0.05146177329547462
+kklin,JDG Esports,viper,0,0.49,0,0.017657036919415267
+AvovA,Apeks,"omen, viper",0,0.62,0,0.017604890862840672
+nAts,Team Liquid,viper,1,1.15,1,0.8680569919483124
+Cloud,GIANTX,"fade, sova",0,1.04,0,0.2857788100766501
+Haodong,Titan Esports Club,viper,0,0.81,0,0.09244268222064243
+Yuicaw,Wolves Esports,cypher,0,0.92,0,0.10310278957829234
+BerLIN,FunPlus Phoenix,breach,0,0.52,0,0.017184382743341563
+hiro,Natus Vincere,omen,1,1.09,1,0.9273596360836217
+Demon1,LEVIATÁN,"omen, viper",0,0.79,0,0.017218928414855166
+jawgemo,G2 Esports,gekko,1,1.17,1,0.6467508561907811
+kamyk,Gentle Mates,"breach, kayo",0,1.01,0,0.3070739503129642
+SugarZ3ro,ZETA DIVISION,brimstone,0,0.63,0,0.030173346029430476
+sociablEE,BBL Esports,yoru,0,0.59,0,0.022423375286246074
+Flickless,GIANTX,"breach, kayo, viper",1,1.28,1,0.8563217003884788
+CB,Nova Esports,"fade, gekko, sova",0,0.98,0,0.059360343032271015
+MOLSI,Apeks,kayo,0,0.84,0,0.041226962085002684
+Wo0t,Team Heretics,"chamber, jett, yoru",0,0.95,0,0.2319474808515247
+keiko,Team Liquid,"jett, omen",0,0.96,1,0.5277576721322679
+zekken,Sentinels,"neon, raze",1,1.61,1,0.9769753246796274
+Zellsis,Sentinels,kayo,0,0.94,0,0.0946115970568283
+Lysoar,Wolves Esports,omen,1,1.2,1,0.9051167393650738
+Munchkin,Gen.G,"kayo, viper",0,1.03,1,0.872015320487914
+leaf,G2 Esports,viper,1,1.25,1,0.8991391631447401
+Spring,Wolves Esports,"omen, viper",1,1.32,1,0.9711720384614198
+MiniBoo,Team Heretics,neon,0,0.65,0,0.0380604200305509
+aspas,MIBR,jett,1,1.15,1,0.9470818071087229
+Elite,Karmine Corp,vyse,0,0.65,0,0.022491007526273095
+Okeanos,LEVIATÁN,"brimstone, harbor, kayo, neon, omen, sage",0,1.02,1,0.5467652268488918
+ara,GIANTX,"jett, neon",1,1.29,1,0.9524517161404122
+Meiy,DetonatioN FocusMe,jett,0,0.99,0,0.15790454691535152
+keiko,Team Liquid,astra,1,1.07,1,0.8261846752446076
+mwzera,FURIA,"breach, skye, sova",0,0.87,0,0.020309587006217517
+RieNs,Team Heretics,"breach, fade, gekko, sova",1,1.09,1,0.9108942753187894
+MAGNUM,BBL Esports,"cypher, fade",1,1.24,1,0.9349247661841347
+Biank,Trace Esports,fade,1,1.15,0,0.45087640738786355
+Zellsis,Sentinels,killjoy,0,0.9,0,0.4938380699641715
+penny,Apeks,"jett, neon, raze",0,0.96,0,0.23484810691671704
+Okeanos,LEVIATÁN,"kayo, neon, omen",1,1.09,0,0.4836126840050621
+deLb,All Gamers,deadlock,0,0.82,0,0.0857082157433788
+Zellsis,Sentinels,kayo,0,0.94,0,0.43964532664648603
+BuZz,T1,chamber,0,1.04,1,0.6003606191031355
+BuZz,T1,neon,0,0.67,0,0.016276653725570286
+invy,Team Secret,"fade, sova",0,0.99,0,0.32290188948350695
+MOLSI,Apeks,raze,0,0.48,0,0.022256271178005556
+leaf,G2 Esports,killjoy,1,1.62,1,0.9814403268222006
+nAts,Team Liquid,"cypher, viper, vyse",1,1.08,1,0.8293806523100834
+kaajak,FNATIC,yoru,1,1.26,1,0.927708803084222
+ZesBeeW,Team Secret,omen,0,0.79,0,0.03795745642531362
+SyouTa,ZETA DIVISION,vyse,0,0.96,0,0.08878954939716653
+xffero,Rex Regum Qeon,viper,1,1.14,1,0.7116352513012243
+BABYBAY,G2 Esports,"chamber, vyse",0,0.86,0,0.03891826552187655
+Kr1stal,Global Esports,fade,1,1.59,1,0.9657213388841344
+xffero,Rex Regum Qeon,"cypher, viper, vyse",0,0.94,1,0.5624659446511712
+paTiTek,Team Liquid,"fade, sova",1,1.05,0,0.4651690294695906
+JitBoyS,TALON,"astra, brimstone, omen",1,1.09,1,0.5799938501444519
+crashies,FNATIC,sova,0,0.76,0,0.030671839992859187
+leaf,G2 Esports,"cypher, viper, vyse",0,1.02,1,0.5649857610489344
+neT,Cloud9,viper,1,1.11,1,0.7922040230208931
+Verno,MIBR,tejo,1,1.32,1,0.9504258805811362
+TenTen,ZETA DIVISION,neon,0,1.0,0,0.3066975482639334
+zekken,Sentinels,"jett, neon, yoru",0,0.96,0,0.3304192591965879
+purp0,GIANTX,"raze, yoru",0,0.73,0,0.030654616102178678
+Francis,Nongshim RedForce,fade,1,1.13,1,0.6451335459738593
+trent,G2 Esports,"fade, sova, tejo",1,1.08,1,0.7863119953447456
+BuZz,T1,raze,1,1.21,1,0.7140246261120182
+pyrolll,Karmine Corp,fade,0,0.64,0,0.02439088658270434
+gobera,2Game Esports,jett,1,1.27,1,0.6718360580847033
+artzin,MIBR,deadlock,0,0.75,0,0.03412093897636817
+stax,T1,"breach, kayo",0,0.88,0,0.05242612594661558
+adverso,KRÜ Esports,viper,1,1.59,1,0.9758899556547508
+yosemite,FunPlus Phoenix,cypher,1,1.17,1,0.9151425177682403
+N4RRATE,Sentinels,fade,1,1.42,1,0.9617229756135485
+Rossy,LEVIATÁN,"breach, tejo",0,0.89,0,0.09569325649727771
+sheydos,KOI,sova,0,0.25,0,0.018517468828691444
+neT,Cloud9,cypher,0,0.89,0,0.41615762481250207
+xenom,MIBR,omen,0,0.51,0,0.01106238655530974
+Khalil,FURIA,"astra, omen",0,0.87,0,0.07024386471282061
+adverso,KRÜ Esports,tejo,0,0.82,0,0.0766740773405605
+BerserX,BOOM Esports,killjoy,1,1.05,1,0.8040978708692678
+aspas,MIBR,raze,0,1.03,1,0.6884508488803399
+Kess,100 Thieves,cypher,0,0.55,0,0.011648045071994545
+artzin,MIBR,"breach, harbor",0,0.67,0,0.01617400016272543
+sociablEE,BBL Esports,"chamber, deadlock",0,1.0,1,0.5209291909636068
+westside,GIANTX,"killjoy, viper",0,0.83,0,0.03418660487935916
+adverso,KRÜ Esports,viper,1,1.07,1,0.7468804198301516
+dos9,BOOM Esports,"astra, brimstone, omen",0,1.0,0,0.1744812257218934
+BeYN,DRX,"fade, sova",0,0.69,0,0.03787962724806945
+kamo,Team Liquid,"jett, neon",0,0.98,0,0.049484576999490854
+ANGE1,Natus Vincere,tejo,0,0.92,0,0.043276952757166025
+Ash,Gen.G,tejo,1,1.31,1,0.8140900333893496
+something,Paper Rex,jett,1,1.14,1,0.6221456515630291
+free1ng,DRX,viper,0,1.02,0,0.1139071423152907
+Monyet,Rex Regum Qeon,omen,0,0.72,0,0.024030654369039853
+Sylvan,T1,omen,0,0.91,0,0.06850058371683743
+Z1yan,JDG Esports,omen,0,0.61,0,0.02202228283893039
+johnqt,Sentinels,viper,1,1.19,1,0.87711382588993
+HYUNMIN,DRX,waylay,1,1.35,1,0.9700544754512982
+Boaster,FNATIC,brimstone,0,0.74,0,0.044519502289370745
+crazyguy,Rex Regum Qeon,sova,0,0.87,0,0.1631074541370563
+Shr1mp,All Gamers,"fade, sova",1,1.07,0,0.4471180660212451
+jawgemo,G2 Esports,yoru,1,1.12,1,0.7860540584753158
+2GE,Team Secret,viper,1,1.05,1,0.7777273892951301
+yoman,Gen.G,"fade, sova",0,0.8,0,0.029393427522238103
+thyy,TALON,yoru,0,0.76,0,0.13858924396099187
+Less,Team Vitality,"astra, brimstone, cypher, viper",1,1.08,1,0.717641860266909
+nAts,Team Liquid,"cypher, viper",1,1.45,1,0.9652105675574576
+Ruxic,Natus Vincere,viper,0,0.9,0,0.1922697853661765
+Juicy,Wolves Esports,"jett, yoru",1,1.24,1,0.9707497016555118
+marteen,Karmine Corp,yoru,0,0.98,0,0.4464458647393019
+Shiro,BOOM Esports,sova,1,1.2,1,0.7577352519760094
+AtaKaptan,FUT Esports,"astra, omen, viper",0,0.76,0,0.021869350057636044
+Chronicle,FNATIC,cypher,0,0.91,0,0.1853253386727475
+slowly,TYLOO,fade,1,1.08,1,0.8986344679987353
+JonahP,G2 Esports,sage,0,1.01,0,0.4944036385565806
+SWERL,Nova Esports,raze,0,0.98,1,0.6317553571566401
+Levius,Bilibili Gaming,cypher,1,1.11,0,0.49935022987394156
+happywei,Xi Lai Gaming,cypher,0,0.49,0,0.02384195405024184
+Ash,Gen.G,"fade, tejo, yoru",0,0.96,0,0.06977394379469076
+Ash,Gen.G,fade,1,1.05,1,0.6856376862124298
+SiuFatBB,"Pure Aim, Wolves Esports",astra,1,1.14,0,0.38569152647769783
+tuyz,LOUD,"cypher, vyse",0,0.79,0,0.03190302618011307
+Cryocells,100 Thieves,"chamber, iso",1,1.13,1,0.6061641538782754
+xffero,Rex Regum Qeon,viper,1,1.28,1,0.6454672044296145
+Boo,Team Heretics,"astra, omen",0,1.02,0,0.22210198124364477
+t3xture,Gen.G,neon,1,1.28,1,0.9611843388896383
+batujnax,Apeks,yoru,1,1.43,1,0.9585332724264642
+Less,Team Vitality,astra,1,1.15,1,0.6048798089850661
+HYUNMIN,DRX,jett,1,1.1,1,0.9220137452379387
+Art,DetonatioN FocusMe,sova,0,0.88,0,0.11616222852571399
+mwzera,FURIA,skye,0,0.77,0,0.015488424536354488
+doma,FNATIC,killjoy,0,0.91,0,0.13975636227387073
+valyn,G2 Esports,"astra, omen",1,1.38,1,0.9130255514055385
+Chronicle,FNATIC,"cypher, viper",1,1.07,0,0.41965725494217554
+nobody,EDward Gaming,"fade, sova",0,0.89,0,0.14100020674451486
+xeus,FUT Esports,chamber,1,1.07,1,0.94449901363152
+Boaster,FNATIC,omen,1,1.16,1,0.5807850924759326
+f0rsakeN,Paper Rex,"omen, waylay",1,1.12,1,0.9336578640035516
+ANGE1,Natus Vincere,sova,0,0.72,0,0.025865930439074033
+Dep,ZETA DIVISION,viper,1,1.32,1,0.9401811392443643
+pryze,2Game Esports,viper,1,1.1,1,0.8859468695444027
+pANcada,LOUD,"astra, omen",1,1.51,1,0.9790578113757454
+Ivy,Nongshim RedForce,deadlock,0,1.04,1,0.5849511084026069
+AtaKaptan,FUT Esports,omen,1,1.39,1,0.9557978720279993
+Spring,Wolves Esports,viper,1,1.06,1,0.5250543566983904
+Killua,TALON,sova,0,0.91,0,0.21467798322822307
+Smoggy,EDward Gaming,brimstone,0,0.85,0,0.12166443519786287
+PatMen,Paper Rex,kayo,0,1.04,1,0.5650281553809999
+Rb,Titan Esports Club,tejo,0,0.86,0,0.1541886572628319
+Viva,Xi Lai Gaming,"brimstone, fade, sova",0,1.02,0,0.2403068733847203
+Jamppi,BBL Esports,"breach, sova",0,1.0,0,0.46867267121455075
+xenom,MIBR,brimstone,0,0.89,0,0.0752670102856529
+yetujey,FUT Esports,viper,1,1.59,1,0.9756928712727291
+kamo,Team Liquid,yoru,1,1.09,1,0.625209047174571
+Babyblue,JDG Esports,tejo,0,1.02,1,0.5115679077454879
+grubinho,GIANTX,astra,0,1.0,1,0.5361969122647078
+crashies,FNATIC,breach,1,1.08,1,0.6425016722093793
+Melser,KRÜ Esports,"astra, omen",1,1.46,1,0.9717932679834422
+Jieni7,EDward Gaming,"kayo, neon, raze",0,0.84,0,0.06793119126075872
+Levius,Bilibili Gaming,killjoy,0,0.66,0,0.025435438810824194
+artzin,MIBR,kayo,0,0.88,0,0.174323577409054
+Jinggg,Paper Rex,tejo,0,0.98,0,0.21892710963725373
+Boaster,FNATIC,astra,0,0.8,0,0.023738737187627403
+gobera,2Game Esports,cypher,0,0.49,0,0.011946976509523368
+kamyk,Gentle Mates,breach,0,0.87,0,0.3084722258295807
+raafa,FURIA,kayo,0,0.64,0,0.014840045722105202
+kellyS,Global Esports,cypher,0,0.91,0,0.1390390729189303
+coconut,Xi Lai Gaming,viper,0,0.52,0,0.015452471267424835
+Askia,2Game Esports,raze,0,0.91,0,0.17254548201217623
+Lysoar,Wolves Esports,omen,1,1.13,1,0.5760853211138235
+OXY,Cloud9,raze,1,1.78,1,0.9609054755368347
+ara,GIANTX,neon,0,1.0,0,0.18460895443341033
+zekken,Sentinels,yoru,0,0.84,0,0.2720756062279323
+Levius,Bilibili Gaming,"cypher, viper, vyse",0,0.93,0,0.14124390552392793
+keznit,KRÜ Esports,raze,0,0.99,0,0.40408457057876246
+Wo0t,Team Heretics,"iso, jett",1,1.1,1,0.7966917534766803
+Melser,KRÜ Esports,brimstone,0,0.94,0,0.2982784066031588
+Cryocells,100 Thieves,"chamber, jett",0,1.0,0,0.49880660706205066
+Estrella,Rex Regum Qeon,astra,1,1.53,1,0.860033637726788
+Jemkin,Rex Regum Qeon,"jett, raze, yoru",0,0.85,0,0.10126186691278713
+K1ra,All Gamers,raze,0,0.25,0,0.011618951193742521
+Cloud,GIANTX,sova,1,1.06,1,0.7174496627972082
+Zellsis,Sentinels,"cypher, vyse",0,0.97,1,0.6513252921016837
+stew,JDG Esports,neon,1,1.17,0,0.3077201509928748
+MiniBoo,Team Heretics,"raze, yoru",0,1.0,1,0.5577510121288188
+BuZz,T1,chamber,0,0.83,0,0.04110069420810064
+CHICHOO,EDward Gaming,vyse,0,0.68,0,0.03809064417631832
+Meteor,T1,vyse,0,0.78,0,0.03415551982826758
+trent,G2 Esports,"sova, tejo",1,1.17,1,0.938661622828424
+Lysoar,Wolves Esports,"deadlock, omen",0,0.69,0,0.0438935616589433
+Life,FunPlus Phoenix,"raze, waylay",1,1.32,1,0.9630852911986431
+v1nny,LOUD,breach,0,1.03,1,0.5606477901739633
+NaturE,Evil Geniuses,breach,0,0.89,0,0.0672983595498561
+JitBoyS,TALON,astra,1,1.19,1,0.8478618365046289
+heat,FURIA,clove,0,0.92,0,0.3184576472596426
+stax,T1,kayo,0,0.8,0,0.032376362402026716
+trent,G2 Esports,tejo,1,1.11,1,0.8018441273226543
+jawgemo,G2 Esports,yoru,1,1.27,1,0.9862244535434314
+mitch,Cloud9,"fade, skye",0,0.84,0,0.021090691900597806
+Chronicle,FNATIC,viper,1,1.05,1,0.8136532606059395
+Kushy,Rex Regum Qeon,"fade, sova",1,1.14,1,0.9124349699069928
+neT,Cloud9,viper,0,0.64,0,0.041099568876599865
+bang,Sentinels,astra,0,0.95,0,0.15286656396528325
+d4v41,Paper Rex,"viper, vyse",0,0.96,0,0.13779626629910607
+mada,Mega Minors,"jett, neon, raze, waylay, yoru",0,1.0,0,0.25561792598502064
+f0rsakeN,Paper Rex,fade,0,0.92,0,0.24934609055784238
+jawgemo,G2 Esports,yoru,0,1.01,1,0.6028981077913185
+AvovA,Apeks,viper,0,0.79,0,0.03241665256984069
+Famouz,BOOM Esports,"jett, neon, phoenix",1,1.31,1,0.971115474926414
+Smoggy,EDward Gaming,"fade, killjoy, omen, viper",0,0.98,0,0.12404237058063596
+Kicks,Team Vitality,breach,1,1.64,1,0.9593173204711195
+C0M,LEVIATÁN,sova,0,0.99,0,0.1408169532321707
+crazyguy,Rex Regum Qeon,breach,0,0.97,0,0.35534627009352177
+koalanoob,Natus Vincere,yoru,1,1.22,1,0.9361183690515491
+sociablEE,BBL Esports,"chamber, sova, tejo",0,0.98,0,0.2356138178371815
+Minny,Gentle Mates,killjoy,0,0.37,0,0.012856751902886602
+leaf,G2 Esports,viper,0,0.92,0,0.07236386494920394
+Dambi,Nongshim RedForce,jett,0,0.94,0,0.44693116343850525
+Boaster,FNATIC,"astra, brimstone, omen",0,0.75,0,0.0641411048229742
+gyen,DetonatioN FocusMe,omen,1,1.24,1,0.9214992264847592
+icy,Evil Geniuses,raze,1,1.08,1,0.631168296643471
+BuZz,T1,yoru,0,1.01,1,0.8132834470083771
+Kicks,Team Vitality,skye,0,1.02,0,0.4002875683404039
+flyuh,KOI,sova,1,1.34,1,0.9669905143496622
+pANcada,LOUD,omen,0,0.63,0,0.04302293725203619
+MAGNUM,BBL Esports,"cypher, kayo",1,1.18,1,0.6469882867728584
+5CM,TYLOO,cypher,1,1.26,1,0.9639754630667711
+Mazino,KRÜ Esports,sova,1,1.12,0,0.25399220603135714
+t3xture,Gen.G,"neon, yoru",1,1.27,1,0.9514749596914209
+Spring,Wolves Esports,"jett, raze, viper",1,1.35,1,0.9240837245263871
+mada,Mega Minors,raze,1,1.09,1,0.6822942430595101
+MaKo,DRX,omen,1,1.05,1,0.6537763122688091
+Smoggy,EDward Gaming,omen,1,1.23,1,0.976082502160244
+zander,100 Thieves,"astra, viper",0,0.67,0,0.04803622124274416
+eeiu,100 Thieves,sova,1,1.05,0,0.08310071213020707
+Alfajer,FNATIC,"killjoy, raze",1,1.49,1,0.983783551851261
+aspas,MIBR,waylay,0,0.99,1,0.6620887918917977
+PatMen,Paper Rex,breach,0,0.75,0,0.0785082344808894
+johnqt,Sentinels,"cypher, sage, viper",0,1.03,1,0.6893984949407882
+yay,Evil Geniuses,cypher,1,1.28,1,0.9228853042667119
+Jemkin,Rex Regum Qeon,iso,0,1.04,1,0.9026514369813579
+Shao,Natus Vincere,sova,0,0.99,0,0.19831842616077816
+zekken,Sentinels,raze,0,0.79,0,0.10459632597017686
+Shao,Natus Vincere,tejo,1,1.47,1,0.9525440747021641
+d4v41,Paper Rex,vyse,1,1.07,1,0.6682880906631486
+Serial,Team Liquid,astra,1,1.45,1,0.9484453919036256
+Okeanos,LEVIATÁN,neon,1,1.23,1,0.9430329877707676
+t3xture,Gen.G,"jett, neon, raze, yoru",1,1.11,1,0.8778662509470776
+grubinho,KOI,"astra, brimstone, omen, viper",0,0.86,0,0.029920984048565653
+MONSTEERR,KOI,vyse,0,0.84,0,0.27384721987182686
+d4v41,Paper Rex,vyse,1,1.16,1,0.8810507666850816
+Shao,Natus Vincere,fade,1,1.64,1,0.9800461651668936
+ban,Global Esports,cypher,0,0.78,0,0.09492713550175749
+crashies,FNATIC,fade,1,1.06,1,0.6611479619785596
+tuyz,LOUD,viper,0,0.73,0,0.2766675650914548
+Wo0t,Team Heretics,gekko,1,2.34,1,0.9811512335489795
+dos9,BOOM Esports,brimstone,1,1.18,1,0.8034309831811005
+JonahP,G2 Esports,fade,1,1.13,1,0.8750151544922987
+CB,Nova Esports,tejo,1,1.31,1,0.9393967551806748
+primmie,TALON,"clove, deadlock, jett, tejo",1,1.19,1,0.9500134920298794
+JonahP,G2 Esports,sova,1,1.15,1,0.719777086060782
+Rb,Nongshim RedForce,viper,0,1.0,0,0.48230180670093237
+Rb,Nongshim RedForce,sova,1,1.1,1,0.8575802496525542
+Cryocells,100 Thieves,sage,0,0.69,0,0.14537321150888655
+havoc,FURIA,raze,0,0.09,0,0.009206584504804029
+xeus,FUT Esports,neon,0,0.86,0,0.37945911392232723
+nephh,Bilibili Gaming,"breach, deadlock, kayo, omen",0,0.97,0,0.05923456196237954
+tomaszy,GIANTX,astra,1,1.05,1,0.6389890718146437
+benjyfishy,Team Heretics,cypher,1,1.52,1,0.9720266689831629
+kaajak,FNATIC,yoru,1,1.12,1,0.9670420667662578
+johnqt,Sentinels,tejo,1,1.5,1,0.9669069011809849
+bang,Sentinels,"astra, omen, viper",1,1.13,1,0.8994230512092806
+RieNs,Team Heretics,"sova, viper",0,1.0,0,0.30810187003679673
+Life,FunPlus Phoenix,jett,0,0.87,0,0.15748902657997071
+leaf,G2 Esports,"chamber, viper, vyse",0,0.97,0,0.13228644667470174
+sociablEE,BBL Esports,chamber,0,0.94,0,0.34727396557947043
+Haodong,Titan Esports Club,omen,1,1.38,1,0.8998892458222584
+K1ra,All Gamers,astra,0,0.9,0,0.3871081279297695
+vakk,BBL Esports,astra,0,1.04,0,0.29950032460112314
+RieNs,Team Heretics,sova,0,0.83,0,0.035979629117547755
+Munchkin,Gen.G,viper,1,1.18,1,0.901105691477133
+Avez,Karmine Corp,raze,1,1.21,1,0.9327776704101896
+iZu,T1,fade,0,0.92,0,0.23112545319114786
+t3xture,Gen.G,"jett, neon",0,0.96,0,0.21128517944054398
+Dantedeu5,KRÜ Esports,"neon, yoru",0,0.88,0,0.06924187491809333
+runneR,GIANTX,vyse,1,1.27,1,0.9565917496274184
+crashies,FNATIC,tejo,0,1.04,1,0.7496461195101238
+Flashback,DRX,cypher,0,0.9,0,0.07215231466521965
+HYUNMIN,DRX,"jett, raze",1,1.16,1,0.9746477933197633
+sociablEE,BBL Esports,raze,0,0.88,0,0.07523993687815203
+kaajak,FNATIC,raze,1,1.64,1,0.979793440947022
+primmie,TALON,"jett, yoru",0,0.97,0,0.3423685054501539
+OXY,Cloud9,"neon, raze",0,0.99,0,0.4203015153674062
+sheydos,KOI,sova,1,1.21,1,0.9079582022356305
+LewN,BBL Esports,neon,0,0.53,0,0.01579607437948808
+t3xture,Gen.G,raze,0,0.58,0,0.04222159237776726
+hiro,Natus Vincere,raze,1,1.3,1,0.9593653361749366
+jkuro,JDG Esports,"astra, brimstone, omen, viper",0,0.94,0,0.10945436026766787
+MiniBoo,Team Heretics,yoru,0,0.34,0,0.013153220808564039
+keiko,Team Liquid,"harbor, omen",1,1.33,1,0.8621266911678701
+Cloud,GIANTX,fade,0,0.88,0,0.038919387315980034
+rushia,Bilibili Gaming,brimstone,1,1.56,1,0.9853870384145527
+UdoTan,Global Esports,raze,0,0.99,0,0.34793915893705224
+JessieVash,Team Secret,cypher,1,1.12,1,0.7820855154128221
+Elite,Karmine Corp,cypher,0,0.99,0,0.30767302028553845
+FiNESSE,Mega Minors,cypher,0,0.61,0,0.033360696637375335
+lz,2Game Esports,omen,1,1.13,1,0.5550538361602807
+havoc,FURIA,jett,0,0.75,0,0.06465681329333829
+free1ng,DRX,tejo,0,0.86,0,0.02872243891944804
+nobody,EDward Gaming,brimstone,1,1.4,1,0.9741871504122789
+Art,DetonatioN FocusMe,breach,0,0.35,0,0.027618427749811377
+valyn,G2 Esports,omen,1,1.05,1,0.91622358042902
+paTiTek,Team Liquid,breach,0,0.71,0,0.07231548642562742
+v1c,Cloud9,"brimstone, iso, omen",1,1.06,1,0.8075154503775361
+Ruxic,Natus Vincere,"astra, brimstone, omen",0,1.04,1,0.510771025475915
+Cloud,GIANTX,sova,1,1.4,1,0.9483434933540897
+Meiy,DetonatioN FocusMe,jett,0,0.97,0,0.21790820835457622
+pryze,FURIA,"fade, sova, tejo",0,0.89,0,0.033802269005364365
+Ivy,Nongshim RedForce,astra,1,1.14,1,0.9441493504135278
+Knight,Bilibili Gaming,fade,1,1.14,1,0.8444510493821737
+Cryocells,100 Thieves,clove,0,0.99,1,0.6139336842244126
+Ethan,Mega Minors,"breach, fade, kayo, omen",0,0.98,0,0.08479740505917166
+Monyet,Rex Regum Qeon,"neon, phoenix, viper",0,0.86,0,0.06885425419092286
+yay,Evil Geniuses,clove,0,0.59,0,0.025940441734691035
+Derrek,Evil Geniuses,"sova, tejo",0,0.6,0,0.036097893755352196
+trexx,Team Liquid,sova,0,0.91,0,0.19504308834469952
+N4RRATE,Sentinels,"fade, omen, sova",0,0.95,0,0.11741395943673796
+thyy,TALON,"jett, raze",0,0.99,0,0.3996149912042107
+benjyfishy,Team Heretics,"cypher, viper",1,1.29,1,0.9429916304900946
+Kicks,Team Vitality,omen,0,0.96,1,0.5197453308768746
+Serial,Team Liquid,deadlock,0,0.63,0,0.06564003827323081
+jawgemo,G2 Esports,neon,0,0.92,1,0.6259153101730515
+sheydos,KOI,chamber,0,0.6,0,0.020192787373599978
+Jieni7,EDward Gaming,deadlock,0,0.7,0,0.03711064953762656
+CB,"Nova Esports, Precise Defeat",sova,0,0.99,0,0.26255281015404514
+johnqt,Sentinels,viper,1,1.05,0,0.418511367935217
+yetujey,FUT Esports,cypher,1,1.35,1,0.9768804010325579
+eeiu,100 Thieves,fade,1,1.09,1,0.5443561487370513
+Abo,Titan Esports Club,killjoy,1,1.31,1,0.864735056701971
+heybay,Trace Esports,viper,0,0.71,0,0.030093289975472132
+Akame,DetonatioN FocusMe,tejo,1,1.12,0,0.35012931136071096
+Jieni7,EDward Gaming,kayo,0,0.9,0,0.428554512880997
+nAts,Team Liquid,"cypher, viper",1,1.21,1,0.9566799226851519
+BeYN,DRX,fade,1,1.23,1,0.7250227416597251
+whzy,Bilibili Gaming,raze,0,0.98,1,0.5005284773873341
+kaajak,FNATIC,"raze, yoru",0,0.85,0,0.25926877940032517
+crashies,FNATIC,sova,1,1.27,1,0.9604329026428176
+Sayf,Team Vitality,"iso, vyse",1,1.11,0,0.1595625631339633
+Zellsis,Sentinels,"breach, brimstone",0,1.0,0,0.3647561709084965
+Rarga,Xi Lai Gaming,jett,0,0.85,0,0.22316283455262825
+vo0kashu,Dragon Ranger Gaming,vyse,1,1.18,1,0.9256920283012933
+purp0,GIANTX,omen,0,0.56,0,0.02077942472599185
+NcSlasher,BOOM Esports,fade,0,0.88,0,0.22474432525080199
+v1c,Cloud9,"brimstone, viper",0,0.99,0,0.16681947425170124
+BABYBAY,G2 Esports,chamber,0,0.77,0,0.1328766157566288
+TenTen,ZETA DIVISION,jett,0,0.3,0,0.011298873414665506
+Shyy,KRÜ Esports,cypher,0,1.03,1,0.7622739679630384
+Khalil,FURIA,astra,0,0.65,0,0.018290939408330487
+Xdll,ZETA DIVISION,fade,0,0.84,0,0.04219574688449263
+AtaKaptan,FUT Esports,viper,0,0.65,0,0.025563362570509198
+OXY,Cloud9,"jett, raze",0,1.02,0,0.45413976622016644
+Shyy,KRÜ Esports,"cypher, viper",1,1.19,1,0.9188828192848785
+Jemkin,Rex Regum Qeon,waylay,1,1.17,1,0.9092794012032197
+Alfajer,FNATIC,"cypher, iso, raze",0,0.96,0,0.36560630399093513
+tex,LEVIATÁN,"killjoy, vyse",0,0.94,0,0.3749642053625065
+lukxo,LOUD,viper,1,1.06,1,0.8353080018135384
+bang,Sentinels,astra,1,1.05,0,0.4528002118128686
+pANcada,LOUD,brimstone,1,1.27,1,0.9635875036195758
+Jinggg,Paper Rex,raze,1,1.53,1,0.976407931820843
+Kicks,Team Vitality,breach,0,0.89,0,0.08697575044216795
+margaret,Nongshim RedForce,vyse,1,1.19,1,0.8701352382360721
+Coco,Titan Esports Club,"breach, gekko, sova, tejo",0,1.01,1,0.7005159300226558
+dos9,BOOM Esports,brimstone,1,1.29,1,0.9733912208675133
+ANGE1,Natus Vincere,breach,0,0.35,0,0.02382826393937699
+Biank,Trace Esports,"fade, sova",0,0.63,0,0.019854909538513373
+artzin,MIBR,kayo,1,1.06,1,0.5221874391483222
+paTiTek,Team Liquid,omen,0,1.02,0,0.4114582693887514
+slowly,TYLOO,"breach, fade, kayo, sova, tejo",1,1.37,1,0.9685731279957484
+cortezia,MIBR,omen,1,1.22,1,0.9092601145734305
+Levius,Bilibili Gaming,"cypher, killjoy, vyse",0,0.97,0,0.09102443009781126
+Boaster,FNATIC,"astra, omen",0,0.85,0,0.01674849396709484
+CLZ,ZETA DIVISION,cypher,0,0.87,1,0.6253539628693365
+silentzz,2Game Esports,iso,0,0.62,0,0.04547078861183575
+Meteor,T1,astra,1,1.26,1,0.9595627258169701
+FiNESSE,Mega Minors,vyse,0,0.33,0,0.020626408216701267
+NaturE,Evil Geniuses,vyse,0,0.87,0,0.10051534349010524
+stax,T1,sova,0,0.89,0,0.09271080403483913
+alexiiik,Natus Vincere,neon,0,0.77,0,0.023328471126804005
+Shyy,KRÜ Esports,cypher,1,1.37,1,0.9409814367868826
+AvovA,Apeks,astra,0,1.03,0,0.14782059486844426
+nephh,Bilibili Gaming,breach,0,0.7,0,0.03521410090079216
+Wo0t,Team Heretics,iso,1,1.29,1,0.9385449066238233
+crashies,FNATIC,sova,0,0.86,0,0.028875216839104968
+Dambi,Nongshim RedForce,"jett, waylay",0,0.59,0,0.02932380330543536
+whzy,Bilibili Gaming,jett,0,0.91,0,0.2775844062435927
+Jinggg,Paper Rex,sage,1,1.32,1,0.9493672961965263
+Art,DetonatioN FocusMe,"breach, omen, sova, tejo",0,0.61,0,0.013791342007159662
+something,Paper Rex,brimstone,0,0.86,0,0.06228904572378832
+Xdll,ZETA DIVISION,breach,0,0.91,0,0.17713961016851204
+Ash,Gen.G,fade,0,0.63,0,0.04170608031592077
+yosemite,FunPlus Phoenix,"cypher, killjoy, vyse",0,1.0,0,0.1134332490247028
+ZmjjKK,EDward Gaming,"neon, yoru",0,1.04,1,0.5373761873730594
+v1c,Cloud9,brimstone,1,1.23,1,0.8434456452281657
+jawgemo,G2 Esports,sage,1,1.54,1,0.9807315551161616
+ban,Global Esports,iso,0,0.99,1,0.6937127936823037
+yetujey,FUT Esports,cypher,0,1.02,1,0.6078135972011284
+crazyguy,Rex Regum Qeon,gekko,1,1.07,0,0.2593145842569279
+something,Paper Rex,yoru,0,1.0,0,0.2853006232976702
+Less,Team Vitality,viper,0,0.81,0,0.027772573056521328
+icy,Evil Geniuses,neon,0,0.49,0,0.019033094348100094
+Nicc,Dragon Ranger Gaming,breach,0,0.95,0,0.12435261748536154
+valyn,G2 Esports,astra,1,1.11,1,0.8973300707844152
+kamo,Team Liquid,neon,0,0.93,0,0.15601604928262325
+Boostio,100 Thieves,cypher,0,0.26,0,0.010230568235095099
+ara,GIANTX,neon,0,1.01,1,0.8476117596034757
+MiniBoo,Team Heretics,waylay,0,0.95,0,0.14226141700457764
+thyy,TALON,viper,0,1.01,0,0.2897579442260162
+CHICHOO,EDward Gaming,"cypher, viper, vyse",0,0.8,0,0.03832778884550581
+sheydos,KOI,tejo,0,0.93,0,0.03995560335806667
+Zellsis,Sentinels,vyse,0,0.96,0,0.11558506725727852
+nAts,Team Liquid,cypher,1,1.14,1,0.7111410263677168
+bang,Sentinels,viper,1,1.17,1,0.9413731032145538
+marteen,Karmine Corp,yoru,0,1.04,0,0.13850081392736358
+stax,T1,"fade, sova",0,0.82,0,0.0631583630041523
+HYUNMIN,DRX,"jett, raze",1,1.28,1,0.9686071957854925
+Abo,Titan Esports Club,"deadlock, killjoy",1,1.42,1,0.9470199555581403
+Ethan,Mega Minors,kayo,0,0.94,0,0.1256298854875086
+alexiiik,Natus Vincere,neon,0,0.83,0,0.024578439320613335
+YOU,Xi Lai Gaming,deadlock,1,1.44,1,0.8685437031834099
+HYUNMIN,DRX,jett,1,1.6,1,0.9819979575550702
+Sylvan,T1,omen,0,0.89,0,0.032820066165820824
+kaajak,FNATIC,neon,1,1.09,0,0.37224874802841407
+AtaKaptan,FUT Esports,"brimstone, omen, viper",1,1.1,1,0.6073972546265047
+Karon,Gen.G,omen,1,1.45,1,0.9835240633008974
+ZesBeeW,Team Secret,"neon, omen, viper",0,0.86,0,0.05059279786343076
+Zellsis,Sentinels,vyse,0,0.89,0,0.08614861490113071
+SugarZ3ro,ZETA DIVISION,viper,1,1.05,1,0.6909801445495056
+NaturE,Evil Geniuses,breach,1,1.42,1,0.9321539095694131
+hiro,Natus Vincere,killjoy,0,0.58,0,0.010168860981638517
+Cloud,GIANTX,sova,1,1.14,1,0.9028981354406947
+Spring,Wolves Esports,"omen, viper",0,0.93,0,0.04248461312000066
+Jamppi,BBL Esports,sova,1,1.11,1,0.6334053200425784
+Cloud,GIANTX,fade,0,0.98,0,0.16495799616232185
+nzr,MIBR,sova,1,1.21,1,0.8223495751189404
+valyn,G2 Esports,"brimstone, omen",1,1.15,1,0.9636645827793497
+Smoggy,EDward Gaming,omen,0,0.94,0,0.05273626576534657
+purp0,GIANTX,iso,0,0.82,0,0.10562633710835861
+JessieVash,Team Secret,cypher,0,1.01,0,0.42521001343162285
+yay,Evil Geniuses,"astra, clove, cypher, jett, killjoy, yoru",0,1.02,0,0.45908597576864085
+Verno,MIBR,sova,1,1.39,1,0.9575586921167363
+marteen,Karmine Corp,"jett, omen, yoru",1,1.22,1,0.964578454699463
+RieNs,Team Heretics,sova,1,1.15,1,0.9100035453431977
+Cloud,GIANTX,sova,0,0.9,0,0.06812550380433309
+Rarga,Xi Lai Gaming,jett,0,0.8,0,0.2702267384472872
+slowly,TYLOO,"fade, kayo, tejo",1,1.54,1,0.9762558352025592
+MrFaliN,FUT Esports,sova,0,1.03,0,0.4650655091272725
+kamyk,Gentle Mates,"breach, tejo",1,1.05,1,0.6243023712217318
+runneR,GIANTX,vyse,0,0.44,0,0.016712164664239245
+Persia,Nongshim RedForce,"astra, omen",1,1.17,1,0.9127433706249523
+MAGNUM,BBL Esports,cypher,0,0.87,0,0.06388181795067216
+crashies,FNATIC,fade,0,0.66,0,0.024861159949269792
+C0M,LEVIATÁN,fade,0,0.9,0,0.015604095838807735
+westside,GIANTX,viper,0,0.99,0,0.27509613306755504
+Zellsis,Sentinels,"brimstone, kayo, vyse",0,0.77,0,0.02796270778491478
+Smoggy,EDward Gaming,omen,0,0.93,0,0.10989369226776742
+gobera,2Game Esports,breach,0,0.84,0,0.1282869728261429
+koalanoob,Natus Vincere,raze,0,0.74,0,0.026712434252346765
+Jinboong,DetonatioN FocusMe,viper,0,0.61,0,0.0544675186659811
+Wo0t,Team Heretics,tejo,1,1.38,1,0.9786485518735474
+RieNs,Team Heretics,sova,1,1.2,1,0.9424405491213119
+Boo,Team Heretics,viper,0,0.79,0,0.12604061111952208
+Melser,KRÜ Esports,omen,0,1.0,0,0.22190797231693618
+Boo,Team Heretics,omen,0,1.03,0,0.2317490744219567
+Virtyy,LOUD,"jett, neon",0,0.99,0,0.06630520534542277
+MaKo,DRX,"brimstone, omen",1,1.06,0,0.33631490813592396
+something,Paper Rex,jett,1,1.44,1,0.9786370507656739
+Ninebody,TYLOO,cypher,0,0.66,0,0.042734780354188685
+saadhak,Karmine Corp,deadlock,0,0.9,0,0.04974467476523516
+Boostio,100 Thieves,cypher,0,0.58,0,0.015168793777410544
+crashies,FNATIC,sova,1,1.34,1,0.9748614718948121
+benjyfishy,Team Heretics,cypher,0,0.53,0,0.02154045674460431
+Coco,Titan Esports Club,"breach, gekko",0,0.74,0,0.025227265841587323
+mada,Mega Minors,"jett, neon, raze",1,1.33,1,0.9313532380213776
+CHICHOO,EDward Gaming,viper,1,1.14,1,0.8785363123642204
+westside,GIANTX,killjoy,1,1.27,1,0.9120178157253163
+NaturE,Evil Geniuses,sova,0,0.6,0,0.02466631433415275
+nataNk,KOI,killjoy,0,0.69,0,0.056570989326665475
+Sylvan,T1,viper,0,0.78,0,0.07639138661753243
+brawk,Mega Minors,sova,1,1.18,1,0.935542803619306
+kaajak,FNATIC,yoru,1,1.21,1,0.5712871171949951
+Melser,KRÜ Esports,brimstone,1,1.11,1,0.8246773636081198
+Less,Team Vitality,viper,1,1.16,1,0.714909415291811
+Yuicaw,Wolves Esports,cypher,0,0.9,0,0.0478609983079567
+Derke,Team Vitality,jett,0,0.95,0,0.032651097287026
+lukxo,LOUD,viper,0,0.96,0,0.17672465121883452
+C0M,LEVIATÁN,"fade, sova",1,1.18,1,0.9258269459843129
+nobody,EDward Gaming,fade,0,0.96,0,0.072048589761004
+OXY,Cloud9,jett,1,1.12,1,0.9523611448320899
+Chronicle,FNATIC,"breach, viper",1,1.16,1,0.8232109003692217
+Urango,FURIA,"killjoy, sage",0,0.31,0,0.009459275893703717
+Flex1n,Dragon Ranger Gaming,omen,0,1.0,0,0.11478295505124637
+nataNk,LEVIATÁN,skye,1,1.45,1,0.8936493426628496
+raafa,FURIA,"breach, sage",0,0.66,0,0.012641139780328334
+zander,100 Thieves,omen,0,0.79,0,0.02503883040136455
+saadhak,Karmine Corp,kayo,1,1.13,1,0.8554783541644541
+Autumn,FunPlus Phoenix,yoru,0,0.91,0,0.28279445898369093
+Yuicaw,Wolves Esports,"chamber, cypher, gekko, killjoy, raze",0,0.89,0,0.04032662305746168
+mada,Mega Minors,"jett, neon, raze, yoru",1,1.29,1,0.940265134492864
+HYUNMIN,DRX,jett,0,0.97,0,0.1287202962654698
+Ash,Gen.G,tejo,1,1.26,1,0.8296901443683572
+Autumn,FunPlus Phoenix,deadlock,0,0.99,0,0.07274830746156818
+Flashback,DRX,cypher,0,1.02,0,0.3533479045486404
+f0rsakeN,Paper Rex,waylay,0,0.63,0,0.09162811103164838
+grubinho,KOI,astra,0,0.62,0,0.025471444112646867
+Juicy,Wolves Esports,"raze, yoru",0,0.67,0,0.02095881688169646
+tomaszy,GIANTX,omen,0,0.78,0,0.03756977566364237
+jawgemo,G2 Esports,yoru,0,0.93,0,0.12263744598482859
+margaret,Nongshim RedForce,vyse,0,0.96,0,0.09651904569017648
+ANGE1,Natus Vincere,deadlock,0,0.28,0,0.012708186990001508
+BABYBAY,G2 Esports,"chamber, viper",1,1.34,1,0.9558496011459169
+Boaster,FNATIC,viper,1,1.17,1,0.6554766033231878
+BerserX,BOOM Esports,cypher,0,0.86,0,0.12786758006147173
+zekken,Sentinels,neon,1,1.37,1,0.9655187600122633
+Mazino,KRÜ Esports,harbor,1,1.21,1,0.9394122283366252
+stax,T1,"fade, kayo",1,1.18,1,0.7043873947445767
+Jemkin,Rex Regum Qeon,"waylay, yoru",1,1.16,1,0.8654705934116644
+CHICHOO,EDward Gaming,vyse,1,1.14,1,0.6343738094420797
+o0o0o,Nova Esports,fade,0,0.67,0,0.03012128852055943
+SUYGETSU,Karmine Corp,omen,1,1.12,1,0.8442729951478753
+Zellsis,Sentinels,breach,1,1.19,1,0.9520231625566462
+kellyS,Global Esports,deadlock,0,0.73,0,0.04729446368280682
+alexiiik,Natus Vincere,raze,1,1.12,1,0.8801346077007968
+Asuna,100 Thieves,"neon, raze",1,1.41,1,0.9653367650891518
+paTiTek,Team Liquid,"kayo, skye",1,1.11,1,0.6009077209648198
+mitch,Cloud9,"breach, kayo, tejo",0,0.8,0,0.026319008060708138
+Boo,Team Heretics,"astra, kayo, omen",0,0.86,0,0.041880894585265185
+BeYN,DRX,"kayo, sova",1,1.21,1,0.947933614977734
+skuba,Mega Minors,vyse,1,1.15,1,0.9384945722818359
+Famouz,BOOM Esports,raze,0,0.92,0,0.1996638387051885
+f0rsakeN,Paper Rex,omen,1,1.24,1,0.9719644226345142
+tex,LEVIATÁN,killjoy,0,0.69,0,0.041213370118292854
+GuanG,"Nova Esports, Pure Aim",vyse,1,1.24,1,0.9230877421306313
+SugarZ3ro,ZETA DIVISION,omen,1,1.06,1,0.6051108625587485
+sociablEE,BBL Esports,fade,1,1.11,1,0.918042536306692
+NaturE,Evil Geniuses,fade,0,0.66,0,0.028651163511185736
+benjyfishy,Team Heretics,killjoy,0,0.48,0,0.01832012580385144
+Minny,Gentle Mates,yoru,1,1.35,1,0.9484421351061194
+Jinggg,Paper Rex,raze,0,0.94,0,0.36192239659837644
+f0rsakeN,Paper Rex,astra,1,2.27,1,0.984277531400305
+mitch,Cloud9,"breach, kayo",0,0.63,0,0.024181676828244278
+trexx,Team Vitality,vyse,0,0.77,0,0.031759112586425844
+Alfajer,FNATIC,"cypher, sage",0,0.67,0,0.039132515520624314
+PxS,2Game Esports,fade,0,0.93,0,0.2751451308763781
+saadhak,Karmine Corp,"fade, kayo, sova",0,0.84,0,0.14175289819737735
+f0rsakeN,Paper Rex,fade,1,1.15,1,0.5120981068249852
+Shyy,KRÜ Esports,vyse,1,1.36,1,0.876590345484721
+zekken,Sentinels,raze,0,0.82,0,0.11452909033675249
+Flickless,GIANTX,"breach, kayo",0,0.87,0,0.08884530603089982
+zander,100 Thieves,omen,0,0.98,0,0.08766987888151698
+Okeanos,LEVIATÁN,"kayo, omen",0,0.9,0,0.1658134846405914
+Killua,TALON,yoru,0,0.9,0,0.19344013128549664
+xffero,Rex Regum Qeon,"cypher, viper",1,1.1,1,0.528718863781078
+Kushy,Rex Regum Qeon,sova,0,0.67,0,0.01958965713930624
+Akeman,Dragon Ranger Gaming,neon,0,0.75,0,0.11276174647009331
+johnqt,Sentinels,breach,1,1.31,1,0.8169858680728098
+deLb,All Gamers,omen,1,1.19,1,0.7518833854939548
+nobody,EDward Gaming,fade,0,0.86,0,0.035744621427595456
+dos9,BOOM Esports,omen,0,0.92,0,0.20076208978653218
+pANcada,LOUD,viper,1,1.36,1,0.9091663473395444
+brawk,Mega Minors,"gekko, sova, tejo",0,0.99,0,0.24993073238851213
+Jinggg,Paper Rex,omen,0,0.93,1,0.5071320359560763
+jakee,FURIA,omen,1,1.59,1,0.9581819820444325
+trexx,Team Vitality,sova,1,1.31,1,0.9652213297819827
+Francis,Nongshim RedForce,"fade, tejo",0,1.04,1,0.502081774749377
+benjyfishy,Team Heretics,cypher,0,0.97,0,0.28039486955143056
+Akeman,Dragon Ranger Gaming,"clove, neon",0,0.73,0,0.08844140263718785
+Kada,Gentle Mates,astra,0,1.01,0,0.1299907786467755
+jawgemo,G2 Esports,yoru,1,1.09,1,0.8274205876775605
+SWERL,Nova Esports,neon,1,1.15,1,0.858285094339358
+kamo,Team Liquid,jett,0,0.68,0,0.1676724992836187
+Boostio,100 Thieves,breach,1,1.3,1,0.9289421445167635
+Francis,Nongshim RedForce,breach,0,0.59,0,0.07112372536429767
+JonahP,G2 Esports,"breach, skye, vyse",0,0.83,0,0.09125658392566433
+Boo,Team Heretics,brimstone,0,0.88,0,0.1556383592806569
+thyy,TALON,yoru,0,0.56,0,0.01943542764224296
+vakk,BBL Esports,cypher,0,0.49,0,0.015321438542909512
+Sayf,Team Vitality,"jett, omen, tejo, vyse",0,0.75,0,0.026828873682889047
+valyn,G2 Esports,brimstone,0,0.74,0,0.07629312107937847
+jawgemo,G2 Esports,"sage, yoru",1,1.24,1,0.9452731751496264
+Boaster,FNATIC,brimstone,0,0.63,0,0.04520423780803158
+nataNk,LEVIATÁN,breach,1,1.12,1,0.6468740539909641
+Less,Team Vitality,"astra, cypher, viper",0,0.9,0,0.042593249701318676
+johnqt,Sentinels,skye,0,0.26,0,0.024538592599874728
+westside,GIANTX,cypher,0,1.0,0,0.3531875679267701
+kamo,Team Liquid,yoru,0,0.85,0,0.08310873104874936
+keiko,Team Liquid,astra,1,1.22,1,0.9545062502857579
+aspas,MIBR,jett,1,1.41,1,0.9667649130943516
+Ezeir,Nova Esports,astra,1,1.24,1,0.9399676878514162
+vakk,BBL Esports,vyse,1,1.17,1,0.9203416463315166
+spike,2Game Esports,neon,0,0.96,1,0.6843848839611644
+heat,FURIA,chamber,1,1.16,0,0.43957296349390035
+Art,DetonatioN FocusMe,tejo,1,1.11,1,0.6387287286260156
+kamo,Team Liquid,yoru,1,1.27,1,0.9132253772575168
+nataNk,KOI,gekko,0,0.67,0,0.07150925992943401
+NaturE,Evil Geniuses,"breach, fade",1,1.24,1,0.9418930075304741
+mitch,Cloud9,skye,1,1.1,1,0.9176479089318987
+Lysoar,Wolves Esports,viper,0,0.92,0,0.13060594283301932
+Yoyo,TYLOO,raze,0,0.75,0,0.04680375745350351
+kamo,Team Liquid,yoru,0,1.03,1,0.5451337529724418
+xeus,FUT Esports,raze,0,0.93,1,0.611341703020548
+paTiTek,Team Liquid,"breach, fade, tejo",0,0.94,0,0.07714079782058444
+eeiu,100 Thieves,sova,0,0.91,0,0.04351699162771122
+zander,100 Thieves,omen,0,0.93,0,0.17770259705927177
+zander,100 Thieves,"omen, viper",1,1.19,1,0.9176541712956459
+kellyS,Team Secret,vyse,1,1.48,1,0.9538537578223315
+MrFaliN,FUT Esports,sova,1,1.37,1,0.9347172791466702
+Kicks,Team Vitality,omen,1,1.24,1,0.8337608320804832
+Jinboong,DetonatioN FocusMe,vyse,0,0.83,0,0.023230070529342003
+Famouz,BOOM Esports,neon,0,1.04,0,0.3270401502877784
+sheydos,KOI,sova,1,1.21,1,0.9098689885136375
+crazyguy,Rex Regum Qeon,breach,1,1.26,1,0.9701776178863767
+MaKo,DRX,"astra, brimstone, omen",1,1.07,1,0.6084572568835325
+Wo0t,Team Heretics,"iso, tejo",1,1.35,1,0.9692485442520755
+n1zzy,Team Secret,"killjoy, yoru",0,0.85,0,0.035115737438358996
+Wild0reoo,Team Secret,raze,0,1.0,0,0.27918474894202405
+RobbieBk,LOUD,"killjoy, skye, sova",0,0.83,0,0.023762801811014134
+coconut,Xi Lai Gaming,gekko,0,0.65,0,0.01791854200120556
+trent,G2 Esports,fade,1,1.12,1,0.7406826884964849
+Suggest,Gen.G,killjoy,0,0.46,0,0.09954562141828892
+rushia,Bilibili Gaming,astra,1,1.15,1,0.7761203412173412
+artzin,MIBR,"iso, kayo, yoru",0,0.71,0,0.06057110092991163
+Wo0t,Team Heretics,jett,0,0.95,0,0.1887505356622496
+happywei,Xi Lai Gaming,killjoy,0,0.58,0,0.02066518539389682
+benjyfishy,Team Heretics,cypher,0,0.56,0,0.01252865563051462
+Ruxic,Natus Vincere,astra,0,0.8,0,0.1480938311155933
+pryze,FURIA,tejo,0,0.78,0,0.018341628978658344
+Cloud,GIANTX,sova,1,1.41,1,0.9777033888164364
+aspas,MIBR,neon,1,1.73,1,0.978304144017918
+Shao,Natus Vincere,"fade, omen, sage",0,0.84,0,0.08983039580039448
+MrFaliN,FUT Esports,skye,0,0.76,0,0.015280292195841117
+CB,"Nova Esports, Precise Defeat",fade,0,1.01,0,0.2886536019858718
+JitBoyS,TALON,deadlock,1,1.16,1,0.882473682139986
+Spring,Wolves Esports,astra,0,0.85,0,0.049352247293653055
+Cloud,GIANTX,fade,0,0.91,0,0.4116060953918969
+d4v41,Paper Rex,sage,1,1.22,1,0.6624140053788967
+zander,100 Thieves,viper,0,0.79,0,0.20439092350850446
+f0rsakeN,Paper Rex,omen,1,1.14,1,0.8918645668935962
+Less,Team Vitality,viper,1,1.17,1,0.8931562817422022
+Life,FunPlus Phoenix,jett,0,0.84,0,0.07066606734186884
+Estrella,Rex Regum Qeon,"breach, viper",0,0.93,0,0.06253892691529701
+t3xture,Gen.G,neon,0,0.93,0,0.15636414065543053
+LewN,BBL Esports,"iso, jett, neon",0,0.89,0,0.11614206983555453
+nzr,MIBR,breach,0,1.0,0,0.10239776127516223
+d4v41,Paper Rex,killjoy,1,1.25,1,0.8819423813455085
+yetujey,FUT Esports,tejo,0,0.64,0,0.012528386664843363
+invy,Team Secret,sage,0,0.98,0,0.13884364979180078
+flyuh,KOI,kayo,0,0.5,0,0.014612628893945464
+artzin,MIBR,yoru,0,0.3,0,0.012573643795728926
+runneR,GIANTX,vyse,0,0.72,0,0.03529445197824445
+cortezia,MIBR,"cypher, killjoy",0,0.78,0,0.0398482265756721
+Bai,All Gamers,"neon, yoru",0,0.9,0,0.09349004590414911
+v1nny,LOUD,breach,0,0.66,0,0.05712530878129938
+Wild0reoo,Team Secret,cypher,0,0.62,0,0.041014247548233226
+C0M,LEVIATÁN,sova,1,1.66,1,0.9743468330250737
+benjyfishy,Team Heretics,cypher,1,1.13,1,0.6537131497350295
+zekken,Sentinels,yoru,1,1.49,1,0.954744144421269
+Levius,Bilibili Gaming,"cypher, viper",1,1.24,1,0.885537500679162
+leaf,G2 Esports,chamber,1,1.31,1,0.970704699615243
+Lysoar,Wolves Esports,omen,0,0.92,0,0.23039613678715534
+spike,2Game Esports,neon,1,1.38,1,0.920366968042085
+MaKo,DRX,"omen, viper",1,1.43,1,0.9692751196125947
+Coco,Titan Esports Club,kayo,0,0.93,0,0.30185700866188303
+s0m,Mega Minors,killjoy,1,1.12,1,0.7657509899483164
+coconut,Xi Lai Gaming,breach,0,0.98,0,0.08762324784239664
+CHICHOO,EDward Gaming,"cypher, killjoy, viper",0,0.83,0,0.028863697313294058
+Viva,Xi Lai Gaming,fade,0,1.02,1,0.5469686374053141
+nobody,EDward Gaming,yoru,0,0.42,0,0.048490252747136
+Wild0reoo,Team Secret,cypher,0,0.57,0,0.012061750231971155
+Ruxic,Natus Vincere,"omen, viper",1,1.05,1,0.9621569867856169
+OXY,Cloud9,neon,0,0.95,0,0.15220938048691793
+yetujey,FUT Esports,cypher,0,0.51,0,0.05237212797145917
+Cloud,GIANTX,"gekko, sova",0,0.94,0,0.3689125659430907
+mitch,Cloud9,harbor,1,1.16,1,0.729543753109706
+rushia,Bilibili Gaming,harbor,0,0.62,0,0.030597491265859523
+HanChe,All Gamers,killjoy,0,1.03,0,0.2728039493454572
+bang,Sentinels,omen,0,0.51,0,0.016942321314762875
+xffero,Rex Regum Qeon,astra,0,0.92,0,0.057596016348027065
+zjc,EDward Gaming,fade,0,0.65,0,0.056148127013479196
+Cangshu,Dragon Ranger Gaming,"tejo, viper",0,0.77,0,0.042341292617714084
+Boaster,FNATIC,viper,0,0.81,0,0.1488458443059131
+supamen,Evil Geniuses,astra,0,1.01,0,0.23950728644515315
+RobbieBk,Gentle Mates,fade,0,0.81,0,0.021148822474672938
+xffero,Rex Regum Qeon,cypher,0,0.85,0,0.029069540267708447
+johnqt,Sentinels,tejo,1,1.35,1,0.9498229228839127
+Asuna,100 Thieves,yoru,1,1.25,1,0.959057057093178
+something,Paper Rex,sova,0,0.9,0,0.04706569925947163
+Jamppi,BBL Esports,breach,1,1.69,1,0.921561013427009
+Jinggg,Paper Rex,sage,0,0.87,0,0.07811376308888197
+Deryeon,Global Esports,cypher,0,0.85,0,0.027135924455971648
+mindfreak,Paper Rex,vyse,1,1.23,1,0.9447760919590522
+s0m,Mega Minors,brimstone,1,1.31,1,0.705006018206375
+nobody,EDward Gaming,"fade, sova",1,1.31,1,0.9350784203610508
+Ivy,Nongshim RedForce,vyse,0,0.92,1,0.6554674699078405
+SiuFatBB,Wolves Esports,tejo,0,0.81,0,0.023490301455318607
+C0M,LEVIATÁN,sova,1,1.15,1,0.9334332654443738
+MrFaliN,FUT Esports,"fade, omen",0,0.93,0,0.07019704713615063
+sheydos,KOI,"killjoy, sova",0,0.92,0,0.14140725841026416
+johnqt,Sentinels,cypher,1,1.37,1,0.9246145774691993
+johnqt,Sentinels,breach,1,1.43,1,0.9686725695857495
+Mazino,KRÜ Esports,"breach, harbor",0,0.97,1,0.5822642563002016
+MiniBoo,Team Heretics,neon,1,1.77,1,0.983025020050768
+SpiritZ1,Dragon Ranger Gaming,yoru,0,0.9,0,0.20305121195018605
+NcSlasher,BOOM Esports,"breach, tejo",1,1.05,1,0.7968777963762759
+Jemkin,Rex Regum Qeon,brimstone,1,1.3,1,0.9802970980719721
+Dep,ZETA DIVISION,neon,0,1.03,0,0.13970748096331811
+Avez,Karmine Corp,"fade, phoenix",1,1.21,1,0.938605994489274
+Dambi,Nongshim RedForce,raze,1,1.12,1,0.8385050813300206
+slowly,TYLOO,kayo,0,0.96,0,0.21320619502170407
+Kushy,Rex Regum Qeon,"fade, kayo, killjoy, sova, tejo, vyse",0,1.01,0,0.3482240552453697
+jawgemo,G2 Esports,yoru,0,0.74,0,0.041154903129760396
+Jinboong,DetonatioN FocusMe,fade,0,0.38,0,0.04187651950341161
+N4RRATE,Sentinels,"breach, fade",1,1.1,1,0.650973634660821
+cortezia,MIBR,"viper, vyse",1,1.18,1,0.9248948817897817
+Foxy9,Gen.G,killjoy,0,0.99,0,0.20657107102257594
+ZmjjKK,EDward Gaming,"jett, yoru",1,1.09,1,0.9286050265861423
+nataNk,KOI,sova,0,0.7,0,0.029811022806185562
+nobody,EDward Gaming,"sova, tejo",0,0.79,0,0.06685846875746919
+Levius,Bilibili Gaming,vyse,0,0.99,0,0.23630468688074138
+kellyS,Global Esports,breach,0,0.86,0,0.10834292446162921
+ara,GIANTX,raze,1,1.46,1,0.9601898766330886
+vakk,BBL Esports,"cypher, vyse",0,0.74,0,0.03617583765519193
+slowly,TYLOO,omen,1,1.64,1,0.9566047859177851
+Akame,DetonatioN FocusMe,breach,1,1.16,1,0.8942524706497683
+Asuna,100 Thieves,raze,1,1.92,1,0.9588961167708528
+HYUNMIN,DRX,waylay,1,1.16,1,0.9746518840601907
+gyen,DetonatioN FocusMe,"astra, brimstone",0,0.96,0,0.1477107862608653
+Biank,Trace Esports,fade,0,1.04,0,0.35263242161192915
+Cloud,GIANTX,fade,1,1.12,0,0.4962403331648988
+ZesBeeW,Team Secret,neon,0,0.63,0,0.020247955392391954
+iZu,T1,cypher,1,1.55,1,0.9574001452144039
+Wo0t,Team Heretics,"gekko, iso, jett",1,1.35,1,0.9799914942274257
+kamyk,Team Liquid,astra,0,1.0,1,0.5084388114869609
+free1ng,DRX,"cypher, viper, vyse",0,0.89,0,0.03651653317845175
+MaKo,DRX,viper,0,0.72,0,0.047494731601017394
+free1ng,DRX,vyse,0,0.87,0,0.030622260031515816
+rushia,Bilibili Gaming,"astra, brimstone, harbor",1,1.12,1,0.8418101159682504
+v1c,Cloud9,brimstone,0,1.04,0,0.25927319448061675
+Lysoar,Wolves Esports,cypher,0,0.46,0,0.046390956798319186
+Babyblue,JDG Esports,tejo,0,0.88,0,0.28925473428182885
+Ivy,Nongshim RedForce,breach,1,1.05,0,0.0953948444667724
+westside,GIANTX,"cypher, vyse",1,1.18,1,0.8938678896859255
+crazyguy,Rex Regum Qeon,tejo,0,0.77,0,0.20830693794478966
+TenTen,ZETA DIVISION,neon,0,1.04,1,0.8357741573894405
+cauanzin,LOUD,breach,0,0.71,0,0.03179964755266858
+cauanzin,LOUD,kayo,0,0.82,0,0.21595455546802325
+ZmjjKK,EDward Gaming,neon,1,1.75,1,0.9122992105546449
+Alfajer,FNATIC,"chamber, iso, killjoy",1,1.06,1,0.8963038613422671
+Boaster,FNATIC,omen,0,0.6,0,0.027521404296691723
+Estrella,Rex Regum Qeon,breach,1,1.71,1,0.9602573938541498
+happywei,Xi Lai Gaming,cypher,0,0.97,0,0.37708062481566845
+NcSlasher,BOOM Esports,breach,0,0.84,0,0.09054184806140081
+Dambi,Nongshim RedForce,neon,1,1.08,1,0.8386484475784146
+Zellsis,Sentinels,kayo,1,1.07,1,0.7610553675297067
+MiniBoo,Team Heretics,"jett, raze",0,0.93,0,0.11446030586033061
+Francis,Nongshim RedForce,"breach, fade, harbor, kayo, sova, viper",0,1.01,0,0.35673611658578325
+Chronicle,FNATIC,breach,0,0.95,0,0.05317344627579715
+yetujey,FUT Esports,cypher,0,0.66,0,0.019249656778522767
+Foxy9,Gen.G,cypher,0,0.94,0,0.057819260171401474
+westside,GIANTX,cypher,1,1.43,1,0.9667464582939984
+sociablEE,BBL Esports,"deadlock, omen, sova",0,0.7,0,0.03277206775386218
+leaf,G2 Esports,"killjoy, vyse",1,1.05,1,0.6821171801626469
+Melser,KRÜ Esports,viper,0,0.88,0,0.09914651042620898
+crazyguy,Rex Regum Qeon,"breach, fade, omen, sova",0,0.74,0,0.017948325410759185
+icy,Evil Geniuses,raze,1,1.06,0,0.4244400455742526
+Flashback,DRX,killjoy,0,0.84,0,0.3049546711633378
+ara,GIANTX,"neon, raze",0,0.84,0,0.03454663376708118
+Juicy,Wolves Esports,jett,1,1.24,1,0.9727582790615753
+flyuh,KOI,"fade, sova",1,1.12,1,0.9592789769644295
+kaajak,FNATIC,yoru,1,1.17,1,0.8635908526785351
+RobbieBk,Gentle Mates,sova,0,1.01,0,0.09908050755603155
+hype,Apeks,"cypher, killjoy",0,0.83,0,0.0325647243664252
+coconut,Xi Lai Gaming,"astra, omen",0,0.96,0,0.09272493185052684
+bang,Sentinels,viper,0,0.97,0,0.23114518283410013
+primmie,TALON,"jett, waylay",1,1.19,1,0.9341346217114125
+OXY,Cloud9,raze,0,0.44,0,0.027391874816774776
+Derke,Team Vitality,"raze, yoru",1,1.32,1,0.9613703869261665
+nAts,Team Liquid,"chamber, cypher, viper",1,1.21,1,0.9421267018274828
+yosemite,FunPlus Phoenix,"viper, vyse",0,1.04,0,0.17538092690886903
+keznit,KRÜ Esports,skye,0,0.72,0,0.014839485578936135
+Yoyo,TYLOO,"kayo, sova",0,0.73,0,0.044495212503282616
+Okeanos,LEVIATÁN,neon,0,0.74,0,0.030506905293979255
+JitBoyS,TALON,omen,0,0.9,0,0.046623202268413586
+Midi,Xi Lai Gaming,breach,0,0.93,0,0.1222051282126357
+AAAAY,FunPlus Phoenix,skye,1,1.1,0,0.06802525331214083
+Estrella,DRX,kayo,0,0.7,0,0.058745325263039994
+Ivy,Nongshim RedForce,deadlock,0,0.69,0,0.043819789301904194
+d4v41,Paper Rex,sage,0,1.04,1,0.5443258702716773
+valyn,G2 Esports,omen,1,1.18,1,0.948902140601604
+zjc,EDward Gaming,fade,0,0.65,0,0.049560062539321714
+Art,DetonatioN FocusMe,tejo,1,1.28,1,0.8832652683317102
+Sylvan,T1,brimstone,0,0.79,0,0.23128516793213313
+keiko,Team Liquid,astra,0,0.88,0,0.044443483719369715
+marteen,Karmine Corp,yoru,1,1.72,1,0.9705052069581845
+ZmjjKK,EDward Gaming,"chamber, iso, jett, neon, waylay, yoru",1,1.06,1,0.9387955925873269
+rushia,Bilibili Gaming,"harbor, omen",1,1.22,1,0.9419927990184758
+KovaQ,Team Vitality,iso,1,1.43,1,0.9735823408946969
+zander,100 Thieves,viper,0,0.82,0,0.05259686487050803
+d4v41,Paper Rex,"killjoy, viper",1,1.31,1,0.9446417935038783
+5CM,TYLOO,killjoy,0,0.85,0,0.06449097464748783
+HYUNMIN,DRX,"jett, neon, raze",0,1.01,1,0.5116907286786144
+lz,2Game Esports,omen,0,1.01,1,0.8605627009784533
+JonahP,G2 Esports,kayo,0,0.86,0,0.09082372179043954
+crazyguy,Rex Regum Qeon,omen,1,1.14,1,0.5870111626742096
+yay,Evil Geniuses,jett,1,1.12,1,0.9251642581736724
+coconut,Xi Lai Gaming,omen,0,0.95,0,0.05439177423091988
+bang,Sentinels,omen,1,1.15,1,0.9427016222043938
+brawk,Mega Minors,"sova, vyse",1,1.27,1,0.9634120650766712
+invy,Team Secret,cypher,1,1.24,1,0.9478031877625323
+pryze,FURIA,"fade, sova",0,0.88,0,0.07618668005397344
+N4RRATE,Sentinels,gekko,0,0.54,0,0.018577611001811867
+stax,T1,fade,1,1.1,1,0.5573048678101782
+Knight,Bilibili Gaming,tejo,0,0.92,0,0.2214822387311588
+Serial,Team Liquid,"astra, deadlock, killjoy",1,1.13,1,0.7359530869849527
+mitch,Cloud9,"breach, kayo, tejo",0,0.74,0,0.03287734743027484
+qRaxs,FUT Esports,kayo,0,0.86,0,0.09679331696504741
+waituu,TYLOO,"brimstone, omen",0,0.86,0,0.13102242279588605
+Life,"FunPlus Phoenix, Precise Defeat",neon,1,1.47,1,0.9293022327896581
+gobera,2Game Esports,vyse,1,1.21,1,0.9339254027828047
+Shao,Natus Vincere,"astra, gekko, tejo",1,1.13,1,0.548342209097708
+d4v41,Paper Rex,"clove, kayo, killjoy, sage, skye, sova",0,1.0,0,0.42697448816705424
+leaf,G2 Esports,viper,0,0.71,0,0.08143640963817007
+Jinboong,DetonatioN FocusMe,vyse,0,0.36,0,0.014006802255210494
+sheydos,KOI,"sova, tejo",0,0.82,0,0.07826377292103145
+cortezia,MIBR,vyse,1,1.17,1,0.9363540871773487
+hiro,Natus Vincere,cypher,0,1.0,0,0.13495949992120537
+RieNs,Team Heretics,viper,0,0.99,0,0.4301643172027861
+xffero,Rex Regum Qeon,"killjoy, vyse",0,0.96,1,0.5593702048565348
+t3xture,Gen.G,"jett, raze",0,0.75,0,0.06168808458544745
+Alfajer,FNATIC,iso,1,1.22,1,0.9757866400650606
+jawgemo,G2 Esports,waylay,1,1.61,1,0.9598465487950404
+SugarZ3ro,ZETA DIVISION,omen,0,0.97,0,0.1043720430623537
+AAAAY,"FunPlus Phoenix, Pure Aim","fade, skye, sova",1,1.07,0,0.4154671003077391
+Biank,Trace Esports,"fade, sova",0,0.86,0,0.05143315122295304
+Monyet,Rex Regum Qeon,neon,1,1.13,1,0.8648776312159387
+keiko,Team Liquid,"astra, brimstone",0,0.86,0,0.09268409163072654
+Cangshu,Dragon Ranger Gaming,killjoy,0,0.56,0,0.014996832638359598
+v1c,Cloud9,omen,1,1.05,0,0.3537866860217099
+Shao,Natus Vincere,"breach, kayo",1,1.09,1,0.7959030323040964
+SiuFatBB,Wolves Esports,"fade, sova, tejo",0,0.85,0,0.030827003601930872
+invy,Team Secret,fade,0,0.84,0,0.08536867674943069
+zander,100 Thieves,omen,1,1.41,1,0.9471376985916737
+valyn,G2 Esports,brimstone,0,0.61,0,0.043502606215372636
+GuanG,Nova Esports,killjoy,0,0.52,0,0.0487735514648962
+artzin,MIBR,harbor,0,0.79,1,0.5660132251439535
+sociablEE,BBL Esports,"deadlock, tejo, yoru",0,0.83,0,0.06833691855951729
+zekken,Sentinels,neon,1,1.21,1,0.9360928341507496
+dgzin,LOUD,neon,0,0.57,0,0.009493691807397932
+Knight,Bilibili Gaming,"fade, sova, tejo",1,1.3,1,0.9690811539890277
+Ash,Gen.G,"fade, tejo",0,0.93,0,0.09773214467486703
+zekken,Sentinels,waylay,0,0.99,0,0.18296804239780726
+Meiy,DetonatioN FocusMe,jett,1,1.08,0,0.24323840870678473
+Francis,Nongshim RedForce,fade,0,0.99,0,0.4328093466139172
+SyouTa,ZETA DIVISION,viper,0,0.91,0,0.029106449269345004
+keiko,Team Liquid,omen,1,1.47,1,0.975966494084074
+Serial,Team Liquid,killjoy,0,0.65,0,0.022111780527766058
+Cangshu,Dragon Ranger Gaming,killjoy,0,0.7,0,0.038097481689381735
+primmie,TALON,deadlock,1,1.28,1,0.9324581216452256
+BuZz,T1,yoru,0,1.01,0,0.2869926165568838
+Meiy,DetonatioN FocusMe,raze,0,0.77,0,0.022289237690884717
+Boo,Team Heretics,astra,0,0.92,0,0.10111983922908953
+CyvOph,Team Vitality,brimstone,1,1.34,1,0.890917983441266
+Alfajer,FNATIC,"chamber, tejo",1,1.11,1,0.8460454779085257
+ANGE1,Natus Vincere,"fade, sova",0,0.92,0,0.3054050857271088
+BeYN,DRX,fade,0,0.75,0,0.02098383859798581
+silentzz,2Game Esports,iso,0,0.82,0,0.27153233934846743
+florescent,Apeks,"raze, yoru",0,0.96,0,0.11028351716944239
+FiNESSE,Mega Minors,"cypher, vyse",0,0.73,0,0.028950086415993122
+Nicc,Dragon Ranger Gaming,breach,0,0.91,0,0.20223696277219178
+benjyfishy,Team Heretics,cypher,1,1.39,1,0.9437741200206247
+bang,Sentinels,"omen, viper",0,0.99,0,0.21586639246857453
+MaKo,DRX,omen,0,0.96,0,0.09057494721648575
+Kr1stal,Global Esports,sova,0,0.82,0,0.049344034542992125
+rushia,Bilibili Gaming,harbor,0,0.47,0,0.014040943471332912
+Kai,Trace Esports,vyse,0,1.01,1,0.8021372375902376
+tex,LEVIATÁN,chamber,0,0.66,0,0.014804924043809072
+Autumn,FunPlus Phoenix,chamber,1,1.75,1,0.9711540587843189
+kiNgg,LEVIATÁN,omen,1,1.18,1,0.5333784878162555
+kamo,Team Liquid,"jett, yoru",0,0.97,0,0.2975235132652534
+johnqt,Sentinels,viper,1,1.64,1,0.9555855541074304
+SUYGETSU,Karmine Corp,omen,1,1.23,1,0.7857738895699683
+valyn,G2 Esports,astra,1,1.3,1,0.6928996330276646
+sociablEE,BBL Esports,chamber,1,1.1,1,0.893583751280274
+valyn,G2 Esports,"astra, brimstone, harbor, omen",1,1.05,1,0.823944629621006
+t3xture,Gen.G,jett,0,1.0,1,0.9328859833219947
+kklin,JDG Esports,"killjoy, viper, vyse",0,0.72,0,0.02658898496746843
+Alfajer,FNATIC,"chamber, cypher, killjoy",1,1.31,1,0.9672098802201672
+nAts,Team Liquid,"cypher, viper",0,0.81,0,0.0423281458637618
+kamyk,Gentle Mates,gekko,1,1.17,1,0.7964123240558852
+Flashback,DRX,neon,1,1.14,1,0.5842287636233805
+Jemkin,Rex Regum Qeon,jett,0,0.42,0,0.013794653535962292
+brawk,Mega Minors,"fade, vyse",0,0.84,0,0.09513337709676407
+JonahP,G2 Esports,"breach, fade",1,1.11,1,0.5509279012241833
+Serial,Team Liquid,tejo,0,0.86,0,0.022073061231236177
+eeiu,100 Thieves,"fade, sova",0,0.93,0,0.24722036305600026
+stax,T1,"fade, kayo, sova",0,0.83,0,0.030517807801629694
+Meteor,T1,astra,1,1.23,1,0.9587030389038416
+pryze,2Game Esports,"fade, sova",0,0.65,0,0.03858858061084382
+lz,2Game Esports,astra,0,0.75,0,0.15391927833842445
+Kai,Trace Esports,jett,1,1.38,1,0.9463850759064739
+Zellsis,Sentinels,"breach, brimstone, deadlock, killjoy, vyse",0,1.01,0,0.47468267088741156
+UNFAKE,Team Vitality,sova,1,1.67,1,0.9752233983260207
+FengF,Trace Esports,cypher,0,0.97,0,0.09829259975685019
+hiro,Natus Vincere,cypher,1,1.14,1,0.8312259111844842
+Z1yan,JDG Esports,chamber,0,0.98,0,0.20053225060385052
+Ruxic,Natus Vincere,"astra, brimstone, omen, viper",1,1.06,1,0.7563765253297657
+tex,LEVIATÁN,killjoy,0,0.81,0,0.1942135967732871
+havoc,FURIA,"jett, raze",0,0.76,0,0.07931637379229974
+kellyS,Global Esports,cypher,0,0.99,0,0.3720396112754187
+tuyz,FURIA,omen,0,0.4,0,0.01541305153087548
+RieNs,Team Heretics,fade,0,1.02,0,0.3979043549031706
+Estrella,DRX,gekko,0,0.58,0,0.020381823322183218
+Smoggy,EDward Gaming,astra,1,1.16,1,0.7254575704070134
+SWERL,Nova Esports,raze,0,0.7,0,0.03281902580355333
+nAts,Team Liquid,viper,1,1.4,1,0.973925882674048
+Zellsis,Sentinels,breach,0,0.53,0,0.02082546111594808
+LewN,BBL Esports,"jett, neon",0,0.83,0,0.17659779147199486
+Boostio,100 Thieves,gekko,0,0.72,0,0.016853934343197548
+johnqt,Sentinels,viper,1,1.27,1,0.8284323227592624
+Jamppi,BBL Esports,sova,1,1.16,1,0.7135613284257603
+Dep,ZETA DIVISION,"astra, chamber, killjoy, viper, vyse",1,1.08,1,0.6156012713958936
+kaajak,FNATIC,raze,1,1.23,1,0.9562435275289831
+Spring,Wolves Esports,viper,0,1.03,1,0.7976349802425947
+Juicy,Wolves Esports,raze,1,1.15,1,0.769079137606501
+Smoggy,EDward Gaming,"deadlock, omen, viper",0,1.02,0,0.33695309956860275
+s0m,Mega Minors,viper,0,0.61,0,0.09579479719597075
+artzin,MIBR,breach,0,0.47,0,0.021577364762900512
+OXY,Cloud9,"jett, neon, raze",0,0.99,1,0.5249137871372563
+Francis,Nongshim RedForce,"breach, fade, harbor, kayo, sova, tejo",1,1.05,0,0.3877795378559816
+Melser,KRÜ Esports,"brimstone, omen",1,1.15,1,0.7490374588624
+Autumn,FunPlus Phoenix,viper,0,0.76,0,0.019392435761263892
+Shyy,KRÜ Esports,chamber,0,0.85,0,0.2011179496684834
+Dambi,Nongshim RedForce,"jett, neon, waylay, yoru",0,0.95,0,0.16463014325190464
+BuZz,T1,yoru,0,0.94,1,0.5143742544466953
+Xdll,ZETA DIVISION,"fade, sova",1,1.23,1,0.8709239298918674
+zekken,Sentinels,"jett, raze, yoru",1,1.11,1,0.8748367191156089
+Kushy,Rex Regum Qeon,fade,0,0.76,0,0.02422241546316285
+slowly,TYLOO,tejo,1,2.27,1,0.9738405318707064
+paTiTek,Team Liquid,"fade, tejo",0,1.03,0,0.059483673001755256
+Chronicle,FNATIC,breach,1,1.18,1,0.8900948267545995
+waituu,TYLOO,omen,0,0.74,0,0.31633276479341166
+iZu,T1,cypher,1,1.07,0,0.3305701396147216
+pANcada,LOUD,omen,1,1.26,1,0.8537108011853145
+s0m,Mega Minors,omen,0,0.74,0,0.03190194975624441
+v1c,Cloud9,omen,0,1.02,0,0.41934873176261095
+Demon1,LEVIATÁN,viper,0,0.88,0,0.03238991026642356
+v1c,Cloud9,omen,1,1.22,1,0.956485915241781
+Viva,Xi Lai Gaming,sova,0,0.94,0,0.035951355439434445
+xffero,Rex Regum Qeon,cypher,0,0.91,0,0.11077251651073527
+Nicc,Dragon Ranger Gaming,fade,0,0.68,0,0.16960072698971426
+Kushy,Rex Regum Qeon,sova,1,1.41,1,0.9736042817289181
+S1Mon,EDward Gaming,breach,1,1.24,1,0.8289016763093728
+Shao,Natus Vincere,fade,0,0.95,0,0.10059229538293447
+CLZ,ZETA DIVISION,breach,0,0.78,0,0.026325393909956456
+Papi,Global Esports,"astra, omen",0,0.8,0,0.049971741287951905
+Nicc,Dragon Ranger Gaming,fade,0,0.75,0,0.13922571206197842
+Akame,DetonatioN FocusMe,"breach, iso, kayo, vyse",0,1.0,0,0.35922862201998607
+something,Paper Rex,fade,0,0.71,0,0.020109101282208598
+Elite,Karmine Corp,vyse,0,0.96,0,0.1425135668573343
+Viva,Xi Lai Gaming,tejo,1,1.19,1,0.7334016029511565
+MAGNUM,BBL Esports,viper,1,1.74,1,0.954249087552335
+Yuicaw,Wolves Esports,"cypher, raze",1,1.11,1,0.7615162246020294
+Jamppi,BBL Esports,kayo,0,0.92,0,0.09235920501463396
+benjyfishy,Team Heretics,"cypher, deadlock, viper",0,0.87,0,0.05858590283303488
+keiko,Team Liquid,omen,1,1.14,1,0.8683150392650967
+icy,Evil Geniuses,raze,1,1.1,1,0.8131128335110649
+Sayf,Team Vitality,omen,0,0.8,0,0.04861038706574004
+batujnax,Apeks,yoru,1,1.32,1,0.9633170626402322
+player,All Gamers,"breach, yoru",0,0.7,0,0.026057877547909752
+tuyz,LOUD,cypher,0,0.99,0,0.18549681245651323
+SSeeS,DetonatioN FocusMe,omen,0,0.7,0,0.01735126219261821
+v1c,Cloud9,omen,1,1.11,1,0.9054965371412107
+N4RRATE,Sentinels,fade,1,1.15,1,0.91477593859258
+lukxo,LOUD,viper,1,1.21,1,0.9743324788018043
+neT,Cloud9,killjoy,0,0.8,0,0.08037693159638412

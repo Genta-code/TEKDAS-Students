@@ -1,0 +1,11 @@
+{
+  "total_raw_player_rows": 17996,
+  "valid_rating_rows": 16604,
+  "total_unique_players": 307,
+  "total_teams": 58,
+  "total_matches_scores": 503,
+  "total_maps_played": 1277,
+  "high_impact_rate_pct": 39.19,
+  "train_rows": 13283,
+  "test_rows": 3321
+}
